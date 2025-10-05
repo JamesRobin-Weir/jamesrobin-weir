@@ -3,6 +3,7 @@
 ---
 
 [[CP 2A\|CP 2A]], [[Email PIGs Dr Pimenta\|Email PIGs Dr Pimenta]]
+https://jamesrobin-weir.vercel.app/pig-zi-bs/ jjnrjr
 ## Organisation
 - Copils = réunions pr faire point sur theme
 - Inspiration: 23 oct
@@ -78,33 +79,6 @@ Zinc: le zinc meme se réduit
 
 ### Fonctionnement de l'accumulateur
 - Dans un accumulateur, les rôles des électrodes s'inversent selon que l'appareil débite (actif) ou se charge (passif) : en décharge, l'électrode négative fonctionne en anode et la positive en cathode, et en charge, l'électrode négative fonctionne en cathode et la positive en anode
-## Webinar : Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries
-- ZIB usecase= low-cost, long life batteries for grid storage (not for high energy density applications)
-##### Advantages
-- Safe, eco-friendly
-- Abundant
-- Cheap ($2/kg instead of $19/kg lithium)
-- multivalent
-- similar ionic radius lithium
-- Suitable redox potential (-0.78V VS ESH) ( => more stable in aqueous electrolytes )
-- Less H2 evolution
-##### History
-- 1882: Alkaline Zn-MnO2 single use batteries
-- 1986 : Zn-MnO2ZnSO4 rechargeable battery
-- 2010s : Stable zinc anodes
-- Technically it is a zinc metal battery
 
-##### Issues
-###### Cathode
-- Dissolution
-- Structural stability
-- Surfac by-products
-###### Anode
-- Dendrites
-- Zn corrosion (lower pH)
-- Surface byproducts (ZHS at higher pH)
-- Irrév H evolution R° (HER $2H^+ + 2e^− → H_{2}$)
-###### Electrolyte
-- Proton intercalation at cathode
-- Electrolyte consumption at anode
-- 
+### Webinar : Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries
+Hour long summary of technological/chemical limitations and advantages of ZIBs : see [[Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
