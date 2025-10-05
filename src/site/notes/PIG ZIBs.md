@@ -66,7 +66,7 @@ Vanessa veut avec des "matériaux poreux" => plutôt l'idée de faire un revête
 - par diffusion (transport des Zn) => plutôt ça que veut Vanessa
 - par nucléation
 
-On peut aussi réfléchir sur les dendrites de lithium (et les solutions proposés)
+On peut aussi réfléchir sur les dendrites de [[Lithium batteries\|Lithium batteries]] (et les solutions proposés)
 **ATTENTION: NUANCE**
 Lithium: carbones du graphite se réduise
 Zinc: le zinc meme se réduit
