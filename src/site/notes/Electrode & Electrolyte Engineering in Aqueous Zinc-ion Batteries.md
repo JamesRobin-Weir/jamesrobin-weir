@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/electrode-and-electrolyte-engineering-in-aqueous-zinc-ion-batteries/"}
 ---
 
-
-- ZIB usecase= low-cost, long life batteries for grid storage (not for high energy density applications)
+###### Why ZIBs ?
+- ZIBs usecase = low-cost, long life batteries for grid storage (not for high energy density applications)
 ##### Advantages
 - Safe, eco-friendly
 - Abundant
@@ -17,7 +17,6 @@
 - 1986 : Zn-MnO2ZnSO4 rechargeable battery
 - 2010s : Stable zinc anodes
 - Technically it is a zinc metal battery
-
 ##### Issues
 ###### Cathode
 - Dissolution
@@ -31,3 +30,10 @@
 ###### Electrolyte
 - Proton intercalation at cathode
 - Electrolyte consumption at anode
+- Undesired [[SEI\|SEI]] chemistry
+
+![ZIB_Reactions.png](/img/user/ZIB_Reactions.png)
+
+![ZIB_Electrolytes.png](/img/user/ZIB_Electrolytes.png)
+
+![Metal_volumetric_capacity_VS_E.png](/img/user/Metal_volumetric_capacity_VS_E.png)
