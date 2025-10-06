@@ -18,6 +18,7 @@ Page centrale du projet : [[Weirsite/PIG ZIBs\|PIG ZIBs]]
 ### Projet Transdisciplinaire réalisé pour Véolia
 - Lien vers le site web réalisé dans le cadre du projet La Chimie Verte et le Tableau Périodique : [Lien](https://projet-colibri.github.io/)
 ## École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)
+### Stage UROP au laboratoire SIMM 
 - Poster scientifique réalisé dans le cadre d'un stage de recherche au laboratoire SIMM : [Lien](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf)
 - Lien vers les donnés et résultats expérimentaux : [Lien](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main)
 
