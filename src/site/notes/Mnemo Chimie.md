@@ -553,7 +553,6 @@ CC(=O)OC(=O)C
 - ==Axe/rangée réticulaire== $[u \ v \ w]$ -> droite passant par nœuds M,M' tq MM'=u.a+v.b+w.c ou u,v,w premiers entre eux (PEE) => axe principales $[1 \ 0 \ 0]$ ...
 - ==Plan réticulaire== $hx+ky+lz=m$ -> eq cartésien coefs h,k,l PEE ; familles formées par valeur m ; ==faces cristaux sont plans réticulaires==
 - Projection stéréographique -> 
-
 - Variété allotropique -> diff struc cristalline
 - Rayon métallique (cov) (ionique) -> $\frac{1}{2}d_{noy}$ + proches (liées cov) (anion-cation)
 - Compacité -> $V_{espèces}/V_{maille}$
@@ -564,7 +563,6 @@ CC(=O)OC(=O)C
 - Crystal macrovalent -> espèces liés liasons cov
 - Graphite -> plans macrovalents liés VdV
 - Aire hexagone -> 6xAiretriangle =$3a^2\sqrt{3}/3$ 
-
 
 ##### HP orga:
 - Coupure oxydante -> $OsO_4-NaIO_4$ + réduction (Zn, Me_2S) brise liason C=C sur C plus substitué en ajoutant O sur les deux nvlles molécules
