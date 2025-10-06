@@ -32,8 +32,14 @@
 - Electrolyte consumption at anode
 - Undesired [[SEI\|SEI]] chemistry
 
+### 
 ![ZIB_Reactions.png](/img/user/ZIB_Reactions.png)
 
 ![ZIB_Electrolytes.png](/img/user/ZIB_Electrolytes.png)
 
 ![Metal_volumetric_capacity_VS_E.png](/img/user/Metal_volumetric_capacity_VS_E.png)
+![ZIB_Dendrite_types.png](/img/user/ZIB_Dendrite_types.png)
+![ZIB_HER_OER.png](/img/user/ZIB_HER_OER.png)
+
+_Image Source: The rising zinc anodes for high-energy aqueous batteries, EnergyChem_
+

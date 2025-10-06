@@ -2,14 +2,12 @@
 {"dg-publish":true,"permalink":"/pig-zi-bs/"}
 ---
 
-[[CP 2A\|CP 2A]], [[Email PIGs Dr Pimenta\|Email PIGs Dr Pimenta]]
-https://jamesrobin-weir.vercel.app/pig-zi-bs/ jjnrjr
 ## Organisation
 - Copils = réunions pr faire point sur theme
 - Inspiration: 23 oct
 - 27 novembre proposition
 
-![Pasted image 20250925095649.png](/img/user/Pasted%20image%2020250925095649.png)
+![ZIB_Diagram.png](/img/user/ZIB_Diagram.png)
 ## Initial research
 - Facile Zn2+ (de)intercalation -> ça se fait facilement
 - AZIBs -> Aqueous zinc ion batteries
@@ -31,7 +29,7 @@ SELS MIXTES : Li/Zn
 ## Dendrites - favoured
 
 https://sci-hub.ru/https://www.sciencedirect.com/science/article/abs/pii/S2211285521003980
-## La femme du compil Domitille Giaume
+## Compil
 
 ### Trois phases
 1) Inspiration
