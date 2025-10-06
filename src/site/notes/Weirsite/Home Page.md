@@ -6,7 +6,8 @@
 
 _Hear ye, hear ye thee faint of heart, random trifles of a scientific or pedagogical nature be found here. Turn back before it is too late..._
 
-![comrade-cow.gif|200](/img/user/comrade-cow.gif)
+---
+
 ## Chimie ParisTech - ENSCP
 ### Projet Independent en Groupe : Zinc Ion Batteries
 Page centrale du projet : [[Weirsite/PIG ZIBs\|PIG ZIBs]]
