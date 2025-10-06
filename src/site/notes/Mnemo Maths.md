@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/mnemo-maths/"}
 ---
 
-
-```
-tags: [prepa, study]
-```
-[[Mnemo archive\|Mnemo archive]]
-## MATHS :
+## Mathématiques Complètes PCSI/PC :
 
 ### Général
 ##### Primitives
@@ -60,7 +55,7 @@ tags: [prepa, study]
 - $\cosh(x) \approx \sum_{k=0}^{n} \frac{x^{2k}}{(2k)!}$
 - $\sinh(x) \approx \sum_{k=0}^{n} \frac{x^{2k+1}}{(2k+1)!}$
 - $\frac{1}{\sqrt{1-x}}$=$\sum^{+\infty}_{n=0} \frac{1}{2^{2n}} \binom{2n}{n} x^n$ de Nollan
-##### Trigo
+##### Trigonométrie
 - cos racisme + que -
 - sin together ++
 - sint+cost=sqrt(2)cos(π/2-t)
@@ -105,12 +100,12 @@ tags: [prepa, study]
 - Carac sec lim: a,l ds R+-8, f->l en a ssi Vun ->a, f(un)->l
 - f C I ssi en tt pt a de I, f(x)->f(a)
 - D => C et D(n) => C(n-1)
-- Arcsin 1-, arccos 2- (un peu + moche)
+- Arcsin 1-, arccos 2- (c'est un peu + moche)
 - C(k) ssi k fois derivable et f(k)(x) C
 - C(k) difféomorphisme: reciproque f° C(k), bij sur I tq f'!=0 est C(k) sur f(I)
 - f=Oa(g) ssi f/g bornée a, o ssi f/g->0 en a
 - DL0 continue, DL1 derivable
-- Intégrer un DL donne un DL
+- Prop : Intégrer un DL donne un DL
 
 ##### Suites def. par fonction
 - uno ds I, I stable f => un(n>=no) ds I et définie 
@@ -344,7 +339,7 @@ sin(\theta) & -cos(\theta) \\
 - Norme 2 E -> $||x||_2=\sqrt{\sum^n_{k=1} |x_k|^2}$
 - Norme inf -> $||x||_{+\infty}=max_{1 \le k \le n}(|x_k|)$ 
 - Norme CVU -> ev applicat°s bornées de X ds $\mathbb{K}$ admet $||f||_{\infty}=sup_{x \in X}|f(x)|$
-- ==Norme== -> Je trouve ça Normale qu'il est POSITIVE de SEPARER ($||x||=0=>x=0$) les HOMOsexuels ($||\lambda x||=|\lambda|||x||$) afin de réduire les INÉGALITÉs (triangulaire)
+- ==Norme== -> Je trouve ça pas NORMALE qu'il soit POSITIVE de SÉPARER ($||x||=0=>x=0$) les HOMOsexuels ($||\lambda x||=|\lambda|||x||$) afin de réduire les INÉGALITÉS (triangulaire)
 - CS -> $|<x,y>| \le ||x||.||y||$ 
 - Minowski (triang) -> $||x+y|| \le ||x||+||y||$ 
 - CS canon -> $|\sum a_ib_i| \le \sqrt{\sum a_i^2} \sqrt{\sum b_i^2}$ 

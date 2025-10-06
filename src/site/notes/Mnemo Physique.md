@@ -13,6 +13,7 @@
 ## [[Optique\|Optique]]
 ## [[Electricité\|Electricité]]
 
+
 # Annexe
 #### CONVENTIONS
 - $p^+$ -> particule ou proton
@@ -35,11 +36,13 @@
 - Laplacien sph A(r) -> $\Delta A(r) = \frac{1}{r^2}\frac{\partial}{\partial r}(r^2\frac{\partial A}{\partial r})=\frac{1}{r}\frac{\partial^2 (rA)}{\partial r^2}$ 
 - $\vec{rot}(\vec{A})=\vec{0}$<=> $\exists \phi$ tq $\vec{A}=-\vec{grad}(\phi)$ donc rot(grad)=0 ==prop 1==
 
+
 |  | $\vec{u_1}$ | $\vec{u_2}$ | $\vec{u_3}$ | $s_1$ | $s_2$ | $s_3$ | $\mu_1$ | $\mu_2$ | $\mu_3$ |
 | ----| ---| ---|---| --- | --- | --- | --- | --- | --- |
 | Cart | $\vec{u_x}$ | $\vec{u_y}$ | $\vec{u_z}$ | x | y | z | 1 | 1 | 1 |
 | Cyl | $\vec{u_r}$ | $\vec{u_{\theta}}$ | $\vec{u_z}$ | r | $\theta$ | z | 1 | r | 1|
 | Sph | $\vec{u_r}$ | $\vec{u_{\theta}}$ | $\vec{u_{\phi}}$ | r | $\theta$ | $\phi$ | 1 | r | $rsin(\theta)$|
+
 ##### OPPM COMPLEXE
 - $div(\underline{\vec{A}})=-i\vec{k}.\underline{\vec{A}}$ 
 - $\vec{rot}(\underline{\vec{A}})=-i\vec{k} \wedge \underline{\vec{A}}$ 
@@ -47,6 +50,7 @@
 - $<\underline{\vec{A}}>_{temp}=\frac{1}{2} \underline{\vec{A}}.\underline{\vec{A}}^*$ 
 - $<\underline{\vec{A}} \underline{\vec{B}}>=\frac{1}{2} Re(\underline{\vec{A}} \underline{\vec{B}}^*)$ 
 - $f_1(t)=f_2(x)$ <=> $f_1=f_2=cste$
+
 ##### FORMES D'ONDES
 - OP -> $F(\vec{OM}\vec{u}-c t)$ avec u sens de propagation
 - OPPlane -> $F(kx-\omega t)$ ou $F(x-ct)$
