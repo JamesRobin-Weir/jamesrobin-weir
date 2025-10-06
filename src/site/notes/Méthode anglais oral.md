@@ -2,15 +2,16 @@
 {"dg-publish":true,"permalink":"/methode-anglais-oral/"}
 ---
 
+# Méthode d'anglais à l'oral
 **Conseils généraux**:
 - Éviter au plus possible la lecture de ses notes pour rassurer le jury
 - Regarder le jury dans ses yeux pour le réveiller
 - surligner l'article
-- S'acheter une montre est ==fortement== ==conseillé== pour les concours et pour la préparation lors des colles
+- Il est l'heure de s'acheter une montre (==fortement== ==conseillé==) pour les concours et pour la préparation pendant les khôlles
 
-# Type Grandes Mines/Centrale (khôlles)
+## Khôlles type Grandes Mines/Centrale
 - Article de presse écrite (500 mots), 20 min de preparation, 8-15 min de passage + 5 min questions
-## Compte rendu (environ 7 min aux concours, 3-4 minutes en khôlle): 
+### Compte rendu (environ 7 min aux concours, 3-4 minutes en khôlle): 
 1) Courte amorce de **votre** culture G (pas un exemple de l'article), qui contextualise le sujet de l'article
 2) Puis faire la transition vers le sujet du texte en donnant son ==journal source, sa date (mois et année) et nature (opinion piece, informative article)==
 3) Annonce de plan n'est ==pas nécessaire== dans le compte rendu
@@ -21,7 +22,7 @@
 - ==PAS DE CITATIONS DU TEXTE== => IL FAUT REFORMULER DANS SES PROPRES MOTS. Il ne faut pas citer non plus ceux qui parlent dans le texte, et c'est inutile de donner leurs noms (donner plutôt leur )
 - "informative article" si informations simples, "opinion si piece" si il y a question de subjectivité de l'auteur 
 
-## Commentaire (8 minutes aux concours, 6-7 mins en khôlle)
+### Commentaire (8 minutes aux concours, 6-7 mins en khôlle)
 1) ==Transition== courte où l'on donne l'idée majeure retenue
 2) ==Problématique== sous forme d'==une seule question ouverte== philosophique ou politique. Elle doit être DIFFERENTE DU SUJET SPÉCIFIQUE DU TEXTE, il s'agit d'ouvrir ce sujet. Cela doit être une question ouverte, très générale, de telle sorte que vous puissiez placer le maximum d'exemples précises possibles.
 3) ==PLAN== en ==TROIS PARTIES== : généralement THESE/ANTITHÈSE/SYNTHÈSE
@@ -60,10 +61,9 @@
 ## Entretien: 
 - Ne pas laisser des gros blancs => combler le vide soit en reformulant la question en ses propres mots, soit en demandant d'expliciter la question
 - Si on ne trouve pas une expression, la reformuler avec des paroles simples
-Khôlles- Il faudrait idéalement essayer de tendre la perche à l'examinateur pour des questions où on maîtrise le sujet => pendant le commentaire mentionner en exemple des sujets/débats dont on est informé, de façon à ce que le jury puisse vous en demander plus
+- Il faudrait idéalement essayer de tendre la perche à l'examinateur pour avoir des questions où on maîtrise le sujet => pendant le commentaire mentionner en exemple des sujets/débats dont on est informé, de façon à ce que le jury puisse vous en demander plus
  
-# Phrases types pour chaque partie
-
+### Phrases types pour chaque partie
 **Amorce**: 
 - As climate deadlines loom, today's governments are struggling to find clean, reliable energy sources to meet growing demand. 
 - In a period of history when, thanks to the internet, humanity has never been more connected, many young people have never felt so isolated. 
@@ -78,17 +78,16 @@ Khôlles- Il faudrait idéalement essayer de tendre la perche à l'examinateur p
 - To what extent is Z? 
 **Plan**: 
 - While X is making a comeback, Y is praised by others, and all the while hurdles remain for Z.
-**Conc**: 
+**Conclusion**: 
 - All things considered, X. 
 - Ultimately, it is evident that Y. However due to Y, in reality Z. 
 
-## Connecteurs logiques
+## Partie Langue
+### Connecteurs logiques
 - What's more, albeit, despite, however, nevertheless, hence(forth), thus, conversely (inversement), likewise, in short
-
-## Expression types pour décrire le sujet de l'article
+### Expression types pour décrire le sujet de l'article
 - sheds light on, infers that, advocates for, endorses the idea that, refutes that, stresses that
-
-## Vocabulaire
+### Vocabulaire
 - Outils -> hard though it is, no matter how, to shed light on, to infer, to advocate, to endorse, to refute, to stress
 - Red letter day -> A particularly significant day (personal or sectarian), usually very positive, sometimes very negative.
 - Pundit -> person who offers commentary
