@@ -22,7 +22,7 @@
 - Mon éléphant a des pâtes bleues -> methane, ethane, propane, butane, pentane, hexane, heptane, octane, nonane
 - CIP -> Cahn, Ingold, Prelog
 - VESPR -> AX5 bipyramide trig AX4 tetrahédrique, AX3 trigonal plan, AX2 lin, AX2E1/AX2E2 coudée, AX3E1 trig pyramidale (nom = nb faces)
-- 400-800nm -> Very Big Geese Yeet Our Rubbish
+- 400-800nm -> Very Big Geese Yeet Our Rubbish = Violet Blue Green Yellow Orange Red
 - Utilisation atomique -> M(prod)/sum(M(réac))
 - methanal -> H2C=O
 ##### Spectro IR
