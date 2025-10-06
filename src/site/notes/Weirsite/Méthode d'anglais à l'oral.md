@@ -52,7 +52,7 @@
 
 **Erreurs classiques** : 
 - toute subjectivité du candidat
-- dire "I" or "we"
+- dire "I" or "I think"
 - Citer le document fourni mot pour mot
 - Critiquer l'auteur
 - Faire l'impasse sur un exercice par manque de temps => vaut mieux faire les deux exercices au brouillon ou de façon inachevée, vous perdez moins de points
