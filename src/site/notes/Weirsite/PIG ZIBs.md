@@ -66,6 +66,7 @@ Vanessa veut avec des "matériaux poreux" => plutôt l'idée de faire un revête
 - par nucléation
 
 On peut aussi réfléchir sur les dendrites de [[Weirsite/Lithium batteries\|Lithium batteries]] (et les solutions proposés)
+
 **ATTENTION: NUANCE**
 Lithium: carbones du graphite se réduise
 Zinc: le zinc meme se réduit

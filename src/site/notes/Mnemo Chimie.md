@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/mnemo-chimie/"}
 ---
 
-
-```
-tags: [prepa, study]
-```
-[[Mnemo archive\|Mnemo archive]]
 ## CHIMIE :
 
 ##### ==Abréviations== 
@@ -80,24 +75,7 @@ tags: [prepa, study]
 - Règle Karplus -> 
 - Fluor 19 -> suit règle Karplus
 - Rapport signal/bruit -> $\dfrac{A_{signal}}{A_{bruit}}$ si on coupe haute fr => $\nearrow$ mais perds proportionnalité nb noyaux/$\mathcal{A_{courbe}}$ 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-## Text Elements
-coupé 
-A 
-Hz 
-
-
-</div></div>
-
+![Rapport signal bruit.png](/img/user/Rapport%20signal%20bruit.png)
 ##### Cinétique ($\alpha A +\beta B =\gamma C$ )
 - Vit vol R° -> $r=\frac{dx}{dt}=\frac1V\frac{d\xi}{dt}$ à vol cste (x avancement vol)
 - Vit disp A -> $v_{disp}=-\frac{1}{\gamma}\frac{d[A]}{dt}$ 
@@ -254,7 +232,7 @@ Potentiel: calomel
 - donat° -> se fait tjrs vers M, sinon parle de rétrodonat° 
 - rétrodonat° -> renforce liason avec format° OM liante
 - $\mathbb{C}-\pi$ -> liason M-dérivée éthylénique ou sys (les OM) $\pi$ même direct° metal (sens dz2) (on admet $E_{Md}$ compris entre E OF de L) : $OM_L$ $\pi$ (HO) => donat°, $OM_L$ $\pi*$ (BV) => rétrodonat°
-![markup_1000018962.jpg](/img/user/markup_1000018962.jpg)
+![M-derivee_ethylenique.png](/img/user/Excalidraw/M-derivee_ethylenique.png)
 - Peut avoir C=C lié en sys pi 
 - Longeur liason augmente -> moins forte avec occupat° du a rétrodonat°
 - $\mathbb{C}$ comme cat -> modifient densité elec ds molécule orga (donat°/retrodonat°), ou repositionnent optimalement réactifs
@@ -265,7 +243,7 @@ Potentiel: calomel
 - Syn grignard AO -> RX+Mg(s)=R-Mg-X no(Mg) passe de 0 à  
 - ==insert°== -> ligand A=B insaturé s'insère sur ML ==sans variat° no== : type (1,1) obtiens $L_nM-A(=B)-L$ et type (1,2) obtiens $L_nM-A-B-L$ : une étape de complexat° puis une migrat° 
 - $\mathbb{C}$° (1,2) et (1,1) méca -> (1,2) 
-![markup_1000018966.jpg](/img/user/markup_1000018966.jpg)
+![Complexation_12_11_mecanisme.png](/img/user/Excalidraw/Complexation_12_11_mecanisme.png)
 - ==élim non reductrice = désinsert°== -> R° inverse insert° : $\alpha$-elim pr (1,1) négligeable, $\beta$-elim (1,2)
 - Sur cycle -> $\exists$ AO = $\exists$ ER, flèche entre et sort <=> échange, peut avoir plusieurs R° une étape
 - Polymères se fabriquent sur cycles
@@ -354,7 +332,7 @@ Potentiel: calomel
 - ==RPAC== -> fermé, T et $[X]$ uniformes en RS ($D_m$ cons), $!\exists$ R° $\varphi$ liq incomp ($\rho \approx$ solvant donc $D_m=\rho D_V=\frac{D_n}{M}$ )
 - Rdt RPAC -> $X=\frac{k \tau}{1+k \tau}$ (catho en croix) :  $X=\frac{D_n^e-D_n^s}{D_n^e}=\frac{[A]^e-[A]^s}{[A]^e}$ car RS or $n(t+dt)-n(t)=dn^e-dn^s-dn^r=0$ donc $D_n^edt=D_n^sdt+d\xi$ et 
 - RP -> $0=d^2n(x)-d^2n(x+dx)-d^2n_r=d\xi$ <=> $D_V[A](x)dt-D_V[A](x+dx)dt=d\xi$ <=> or  vit vol $D_V\frac{d[A]}{dx}dx=-\frac{d\xi}{dt}=-rdxS$ et pr ordre 1 $r=-\frac{d[A]}{dt}$ => $[A]_s=[A]_ee^{-k\tau}$ et $X=1-e^{-k\tau}$ 
-![IMG_20240813_163315.jpg](/img/user/IMG_20240813_163315.jpg)
+![Reacteur_piston.png](/img/user/Excalidraw/Reacteur_piston.png)
 - Thermo/cin RO -> Arrhenius : T + => k + => fav cin
 ##### Composés bizarres:
 - Zwitterion -> associé acide aminé ou il y a $NH^3$ et l'acide est deprotonné (O4)
@@ -470,7 +448,6 @@ C1=CC(=CC(=C1)Cl)C(=O)OO
 ```smiles
 C1OC1C
 ```
-====
 ##### Transfo d'alcènes 
 - ==Markovnikov== -> OH maj formé est issu carbo  plus substitué par grps donneurs d'$e^-$ (regio) (attention cas particulier existe mésomérie)
 - Effet Karash -> anti-markovnikov
@@ -513,7 +490,6 @@ C1=CC=NC=C1
 - Sechage -> Sulfate de Magnésium anhydre, ajouté jusqu'à qu'on perçoit des grains de solide virevolter
 - Dean Stark -> il faut que solvant orga soit moins dense que l'eau pour que ça retombe en solution avec l'appareil de Dean Stark. De plus il faut que la fraction massique en eau dans l'heteroazotrope qui se liquéfie dans le réfrigérant soit important pour justifier l'utilisation du DS. 
 - Acételisation -> il faut que le solvant dissous bien les espèces, créat°/destruct° cycles, activat° cétone $H^+$ puis atk OH sur $C_{fonc}$ , régénération cat
-- 
 ##### Nomenclature générale
 - ==Aldéhyde== (Alde-hide) -> R-H suffixe -anal (pentanal), indice position tjrs 1 (pas chiffre) (-énal signifie $\exists$ C=C aussi)
 - ==Cétone== (Set-one -> R-R suffixe -one, préfixe oxo

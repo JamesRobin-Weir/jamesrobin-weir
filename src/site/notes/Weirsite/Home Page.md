@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/weirsite/home-page/","tags":["gardenEntry"]}
 ---
 
-# Weirsite : James Robin-Weir assorted ramblings
+# Weirsite : James Robin-Weir's assorted ramblings
 
 _Hear ye, hear ye thee faint of heart, random trifles of a scientific or pedagogical nature be found here. Turn back before it is too late..._
 
@@ -15,6 +15,7 @@ Page centrale du projet : [[Weirsite/PIG ZIBs\|PIG ZIBs]]
 - La technologie prédominante actuelle : [[Weirsite/Lithium batteries\|Lithium batteries]]
 - Un peu électrochimie : [[Weirsite/Accumulateur\|Accumulateur]]
 - Role de l'electrolyte en surface des electrode : [[Weirsite/SEI\|SEI]]
+### Projet Independent en Groupe : Zinc Ion Batteries
 
 ## École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)
 - Poster scientifique réalisé dans le cadre d'un stage de recherche au laboratoire SIMM : [Lien](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf)
