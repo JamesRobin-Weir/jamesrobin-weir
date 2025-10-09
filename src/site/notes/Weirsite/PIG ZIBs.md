@@ -56,4 +56,9 @@ Hour long summary of technological/chemical limitations and advantages of ZIBs :
 ### Sujets annexes
 On peut aussi réfléchir sur les dendrites de [[Weirsite/Lithium batteries\|Lithium batteries]] (et les solutions proposés)
 
-### Les MOFS comme agents de passivation
+### Les MOFS (réseau métallo-organique) comme agents de filme
+Les MOFS sont des réseaux de polymères couplées à des complexes de coordination métalliques d'une porosité très élevée, mais aussi spécifique en fonction de l'application souhaitée. 
+![Isoreticular_metal-organic_frameworks_of_the_IRMOF_family.png](/img/user/Isoreticular_metal-organic_frameworks_of_the_IRMOF_family.png)
+#### Caractérisation
+- La DRX est la méthode prédominante permettant de déterminer la structure
+- On calcule aussi expérimentalement les [[Isothermes d'adsorption\|Isothermes d'adsorption]]
