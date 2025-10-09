@@ -4,7 +4,7 @@
 
 Pages: [[Weirsite/PIG ZIBs\|PIG ZIBs]]
 ## What is an SEI (Solid Electrolyte Interphase) ?
-During LMB operation, an interphase passivation film (SEI) is formed between Li metal phase and electrolyte phase by spontaneous chemical reactions and electrochemical reductions of the electrolyte. 
+During LMB operation, an interphase passivation film (SEI) is formed between the Li metal phase and the [[Electrolyte\|Electrolyte]] phase by spontaneous chemical reactions and electrochemical reductions of the latter. 
 
 SEIs are responsible for not only impeding the continuous parasitic reactions between the electrolyte and Li electrode, but also influencing the deposition and stripping behaviours of Li. 
 
