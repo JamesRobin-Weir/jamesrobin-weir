@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/mnemo-chimie/"}
 ---
 
-## CHIMIE :
-
+Préface : les molécules sont visualisés sous format SMILES numérique
 ##### ==Abréviations== 
 - Rdt -> Rendement
 - $\varphi$ -> phase
@@ -114,16 +113,18 @@
 - Réactivité $A_N$ -> $R_{III}>R_{II}>R_I$ ©
 - Réactivité E ->
 - Compétition subs/elim -> si reactif à la fois Nu et base: $\Delta$ et $R_{III}$ fav elim
-##### Quantique 1:
+##### Chimie quantique
 - indice liason -> $i_L=\frac{1}{2} (L-AL)$ : ==1/2ice L-iALson==
 - Liant car liées même couleur
 - Pauli -> Quanti(que) : nombres
 - Klechkowski -> Check how it's (filled)
-- Hund -> (Mini)mund : spin para pour énergie minimale
-- Nvx énergie H -> $E(n)=-E_0/n^2$
+- Hund -> (Mini)mund : spin para pour énergie MINimale
+- Nvx énergie atome d'Hydrogène -> $E(n)=-\dfrac{E_0}{n^2}$ 
 - Symétries -> sigma autour de l'ax  e, π sinon
 - nrj OM liant/antiliant -> $\Delta E_{al} > \Delta E_l$ 
 - ==Loi Hooke== -> $\sigma=\frac{1}{2\pi c} \sqrt{\frac{k}{\mu}}$ liason = ressort, nb onde diminue => liaison - forte
+- Nbx Quant -> $n\in \mathbb{N}$, $l \in [\![0;n-1]\!]$, $m_l\in [\![-l;l]\!]$, $m_s\in [\![-s;s]\!]$ (pas de 1 même si s pas entier)
+- Terme spectroscopique -> Sober Physicists Don't Find Giraffes Hidden In the Kitchen (s,p,d,f,g,h,i,k)
 ##### Orbitales frontalières :
 - Approx Fukui -> HO énergie+ haute reagit BV énergie+ basse sous CC
 - Recouvrement axial > latéral

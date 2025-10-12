@@ -49,7 +49,3 @@
 - Éclairement -> $\epsilon(M)=KI(M)$$=K<s^2(M,t)>$ $=\frac{K}{2}|s|^2$ 
 - ==Évol w(z)== -> $w_0$ qd $z\rightarrow 0$ et $\approx w_0(z/z_r)$ en $+\infty$ 
 - Angle ouverture -> cas $z>>z_R$, $w(z)/z=tan(\theta)\approx \theta$ donc $\theta \approx  w_0/z_R$ 
-
-##### Chimie quantique
-- Nbx Quant -> $n\in \mathbb{N}$, $l \in [\![0;n-1]\!]$, $m_l\in [\![-l;l]\!]$, $m_s\in [\![-s;s]\!]$ (pas de 1 même si s pas entier)
-- Terme spectroscopique -> Sober Physicists Don't Find Giraffes Hidden In the Kitchen

@@ -32,20 +32,20 @@ Pour les documents de khôlle, ou pour toute autre question, je suis joignable �
 - Fiche Culture Générale Anglophone : [[Weirsite/Références Anglophones\|Références Anglophones]]
 
 ### Épreuves d'Anglais aux Concours
-Pour les concours, voici des fiches méthode, modèles de présentation personnel, ainsi que des extraits commentés des rapports des jurys.
+Pour les concours, voici des fiches méthode, modèles de présentation personnel, ainsi que des extraits commentés des rapports du jury des différents concours.
 
 - Fiche méthode pour les oraux : [[Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI\|Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI]]
 - Exemple de présentation type Mines Télécom : [[Typical Mines Télécom Presentation\|Typical Mines Télécom Presentation]]
 
-### Mathématiques
+### Mathématiques PCSI/PC
 
 - Fiche complète, programme de mathématiques PCSI/PC 2021 : [[Mnemo Maths\|Mnemo Maths]]
 
-### Physique
+### Physique PCSI/PC
 
 - Fiches imbriquées, programme de physique PCSI/PC 2021 : [[Mnemo Physique\|Mnemo Physique]]
 
-### Chimie
+### Chimie PCSI/PC
 
 - Fiche complète, programme de chimie PC 2021 : [[Mnemo Chimie\|Mnemo Chimie]]
 
