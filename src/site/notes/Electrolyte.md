@@ -7,6 +7,3 @@
 - Gasses like HCl can also act as electrolytes, as well as molten salts
 
 $\mu_{\mathrm{i}}={\frac{q_{\mathrm{i}}D_{\mathrm{i}}}{k_{\mathrm{B}}T}}$ 
-
-6000-8000 ft = 1800 - 2500 m
-Pressions 81489 Pa - 74683 Pa
