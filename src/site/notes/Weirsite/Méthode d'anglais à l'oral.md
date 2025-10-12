@@ -4,10 +4,10 @@
 
 # Méthode d'anglais à l'oral
 **Conseils généraux**:
-- Éviter au plus possible la lecture de ses notes pour rassurer le jury
+- Éviter au plus possible la lecture de ses notes
 - Regarder le jury dans ses yeux pour le réveiller
-- surligner l'article
-- Il est l'heure de s'acheter une montre (==fortement== ==conseillé==) pour les concours et pour la préparation pendant les khôlles
+- Surligner l'article en 3 couleurs correspondant à vos 3 parties
+- Il est l'heure de s'acheter une montre (c'est fortemen conseillé) pour les concours et pour la préparation lors des khôlles
 
 ## Khôlles type Grandes Mines/Centrale
 - Article de presse écrite (500 mots), 20 min de preparation, 8-15 min de passage + 5 min questions
@@ -51,11 +51,10 @@
 - Il faut des exemples spécifiques pour montrer sa culture G anglaise. Faire une ==liste d'exemples== d'une phrase
 
 **Erreurs classiques** : 
-- toute subjectivité du candidat
-- dire "I" or "I think"
-- Citer le document fourni mot pour mot
+- Toute subjectivité du candidat : ne pas dire "I", "I think", "In my opinion"
+- Citer le document fourni mot pour mot : il faut REFORMULER 
 - Critiquer l'auteur
-- Faire l'impasse sur un exercice par manque de temps => vaut mieux faire les deux exercices au brouillon ou de façon inachevée, vous perdez moins de points
+- Faire l'impasse sur un exercice par manque de temps => vaut mieux faire les deux exercices au brouillon ou de façon inachevée, vous perderez moins de points
 
 
 ## Entretien: 

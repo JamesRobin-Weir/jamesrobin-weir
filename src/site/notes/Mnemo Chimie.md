@@ -527,11 +527,11 @@ CC(=O)OC(=O)C
 - Cas particulier cétone -> pentan-3-one mais 2-méthylpent-3-one
 
 ##### Nomenclature stéréochimique
-- R/S
+- R/S -> Rectus = dRoite, Sinister = sinistra en italien = gauche
 ##### Mécanismes réactionnels:
-- ==Chimio== -> 1 grp f° privilégié
+- ==Chimioselectif== -> 1 grp f° privilégié
 - ==Régioselective== (Stéréosel) -> forme 1 iso const (stereoisomère) préférentiellement
-- ==Stereospecifique== -> reactifs!=stereochim => prods != stereochim: Diels Alder est stéréospécifique, les cis restent avec les cis, les trans restent avec les trans (ou cis donnent trans, trans donnent cis)
+- ==Stereospecifique== -> reactifs $\ne$ stereochim => prods $\ne$ stereochim: Diels Alder est stéréospécifique, les cis restent avec les cis, les trans restent avec les trans (ou cis donnent trans, trans donnent cis)
 - ==Postulat Hammond==-> 2 états successifs ont E semblable <=> faible réorganisation moléculaire, donc R° exo (endo) => ET $\approx$ reac (prod) => ET précoce (tardif)
 - Loi Vant Hoff pr acte ele -> ordres partielles = coefs stoech et ordre global = molécularité
 - $E_{a,indirecte}>>E_{a,directe}$ -> acte ele non renversible 
@@ -563,12 +563,7 @@ CC(=O)OC(=O)C
 - CFC -> cube côté a, condition contacte $4r=\sqrt{2}a$, centre chaque cube côté a/2 = site tétra tq $r_{tetra} \le (\sqrt{3/2}-1)r$, milieu arrêtes extérieurs + centre = sites octa tq $r_{octa} \le (\sqrt{2}-1)r$
 - Crystal macrovalent -> espèces liés liasons cov
 - Graphite -> plans macrovalents liés VdV
-- Aire hexagone -> 6xAiretriangle =$3a^2\sqrt{3}/3$ 
+- Aire hexagone -> 6x Aire triangle $=\dfrac{3\sqrt{3}a^2}{2}$ 
 
 ##### HP orga:
 - Coupure oxydante -> $OsO_4-NaIO_4$ + réduction (Zn, Me_2S) brise liason C=C sur C plus substitué en ajoutant O sur les deux nvlles molécules
-
-'''smiles= CC(=O)OC(=O)C''' 
-
-
-jhbj 
