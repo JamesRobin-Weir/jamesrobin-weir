@@ -22,13 +22,21 @@ Page centrale du projet : [[Weirsite/PIG ZIBs\|PIG ZIBs]]
 - Poster scientifique réalisé dans le cadre d'un stage de recherche au laboratoire SIMM : [Lien](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf)
 - Lien vers les donnés et résultats expérimentaux : [Lien](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main)
 
-## Lycée Pierre Gilles de Gennes - ENCPB
-### Khôlles d'Anglais
+---
+## Ressources pour Classes Préparatoires
+### Khôlles d'Anglais au Lycée Pierre Gilles de Gennes - ENCPB
 Pour les documents de khôlle, ou pour toute autre question, je suis joignable à adresse suivante : jamesrobinweir@gmail.com
 
-- ==Fiche méthode des khôlles== : [[Weirsite/Méthode d'anglais à l'oral\|Méthode d'anglais à l'oral]]
+- Fiche méthode des khôlles : [[Weirsite/Méthode d'anglais à l'oral\|Méthode d'anglais à l'oral]]
 
 - Fiche Culture Générale Anglophone : [[Weirsite/Références Anglophones\|Références Anglophones]]
+
+### Épreuves d'Anglais aux Concours
+Pour les concours, voici des fiches méthode, modèles de présentation personnel, ainsi que des extraits commentés des rapports des jurys.
+
+- Fiche méthode pour les oraux : [[Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI\|Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI]]
+- Exemple de présentation type Mines Télécom : [[Typical Mines Télécom Presentation\|Typical Mines Télécom Presentation]]
+
 ### Mathématiques
 
 - Fiche complète, programme de mathématiques PCSI/PC 2021 : [[Mnemo Maths\|Mnemo Maths]]
