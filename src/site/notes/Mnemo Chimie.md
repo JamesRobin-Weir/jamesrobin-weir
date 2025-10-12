@@ -14,7 +14,7 @@ Préface : les molécules sont visualisés sous format SMILES numérique
 - RO -> Réacteur Ouvert
 - $\bar{m}$ -> même
 ##### Générale :
-- $x_{eq}<<c°$ -> néglige termes ds $K°$ de type $c°-x_{eq}$~$c°$ puis vérifie hypothèse avec valeur trouvée
+- $x_{eq}<<c°$ -> néglige termes ds $K°$ de type $(c°-x_{eq})$~$c°$ puis vérifie hypothèse avec valeur trouvée
 ##### Noms et tableau:
 - 2ieme ligne -> Li, Be, B, C, N, O, F, Ne = Lili Becta Bien Chez Notre Oncle Fernand-Nestor
 - 3ieme ligne -> Na, Mg, Al, Si, P, S, Cl, Ar= Napoléon Mangea Allégrement Six Poulets Sans Claquer d’Argon
@@ -567,3 +567,8 @@ CC(=O)OC(=O)C
 
 ##### HP orga:
 - Coupure oxydante -> $OsO_4-NaIO_4$ + réduction (Zn, Me_2S) brise liason C=C sur C plus substitué en ajoutant O sur les deux nvlles molécules
+
+'''smiles= CC(=O)OC(=O)C''' 
+
+
+jhbj 
