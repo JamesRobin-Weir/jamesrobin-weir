@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/weirsite/home-page/","tags":["gardenEntry"]}
 ---
 
+
 # Weirsite : James Robin-Weir's assorted ramblings
 
 _Hear ye, hear ye thee faint of heart, random trifles of a scientific or pedagogical nature be found here. Turn back before it is too late..._
