@@ -10,7 +10,7 @@ SEIs are responsible for not only impeding the continuous parasitic reactions be
 
 Despite their significance, SEIs are not well understood due to their low thickness, complex structure, heterogeneous composition, and dynamic nature (spatially and temporally dynamic in morphology and composition).
 
-## Caracterisation
+## Characterisation
 - allows for influencing the Li deposition morphology and the cycle life of LMB
 - prevents continuous reactions between the non-aqueous electrolyte and the alkali metal anode
 - Caractérisés par : electronic conduction, ionic conduction, stability, and mechanical properties
