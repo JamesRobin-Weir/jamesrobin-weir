@@ -36,8 +36,9 @@
 - Axe de réflexion : "Selon vous quel est l'élément le plus problématique par période dans son utilisation actuel?" (10-15 minutes)
 - Ensuite on donne la réponse selon le tableau de James : ils sont ensuite associés à une période et un élément : "Cherchez 1-3 matériaux avancés pouvant remplacer cet élément dans ses usages le plus courant"
 - Recherches biblio sur ce sujet jusqu'à fin de séance 1
-- Demander à chaque groupe que une personne présente
-- Il faut réunir tout les powerpoint : on leur demande de nous les envoyer avant la prochaine session (le jour d'après)
+### Séance 2
+- Demander à chaque groupe que 1-2 personnes présente
+- Il faut réunir tout les powerpoint pour gagner du temps : on leur demande de nous les envoyer avant la prochaine session (le jour d'après) et on les réuni dans un grand powerpoint
 
 ---
 ## 6A (20 élèves)
