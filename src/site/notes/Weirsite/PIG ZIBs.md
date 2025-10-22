@@ -3,7 +3,7 @@
 ---
 
 ## Organisation
-- Copils = réunions pr faire point sur theme
+- Copils = réunions pr faire point sur theme, voir [[Copils\|Copils]]
 - Inspiration: 23 oct
 - 27 novembre proposition
 
