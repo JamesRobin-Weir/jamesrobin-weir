@@ -25,7 +25,7 @@
 - échanges entre groupes
 
 ---
-## 5A : Remplacer les éléments critiques par des matériaux avancés?...
+## 5A (20 élèves) : Remplacer les éléments critiques par des matériaux avancés?...
 - James fait un mini calcul des scores attribués aux différents éléments selon nos critères afin d'identifier les éléments problématiques et critiques 
 - On retient le pire élément encore utilisé (pertinent dans l'industrie) par période, comme ça ils travaillent à la fois sur la période et sur son pire élément qui le représente (Alcalins = Lithium, Halogènes=Brome...)
 ### Pour démarrer l'atelier
@@ -70,7 +70,7 @@
 ---
 
 ## Répartition du travail
-- James + Lucie : toute la partie sur le tableau, faire le choix des éléments, accessible en local, beautify, faire un deck sans se faire chier
+- James + Lucie : toute la partie sur le tableau, faire le choix des éléments, accessible en local, beautify, faire un deck
 - Préparer un deck = pitch managériale pour chacun des groupes, se basant sur notre notre présentation finale à Chimie Paris
 - Alexandre et Léo atélier des 6A : deck + préparation de questions
 - Baptiste et Pauline : deck histoire du tableau périodique
