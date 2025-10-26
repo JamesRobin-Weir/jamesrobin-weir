@@ -70,7 +70,7 @@
 ---
 
 ## Répartition du travail
-- James + Lucie : toute la partie sur le tableau, faire le choix des éléments, accessible en local, beautify, faire un deck
+- James + Lucie : toute la partie sur le tableau, faire le choix des éléments, accessible en local, faire un deck se basant sur nos présentations
 - Préparer un deck = pitch managériale pour chacun des groupes, se basant sur notre notre présentation finale à Chimie Paris
 - Alexandre et Léo atélier des 6A : deck + préparation de questions
 - Baptiste et Pauline : deck histoire du tableau périodique
