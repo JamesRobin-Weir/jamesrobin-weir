@@ -25,9 +25,9 @@
 - échanges entre groupes
 
 ---
-## 6A : Remplacer les éléments critiques par des matériaux avancés?...
+## 5A : Remplacer les éléments critiques par des matériaux avancés?...
 - James fait un mini calcul des scores attribués aux différents éléments selon nos critères afin d'identifier les éléments problématiques et critiques 
-- On retiens le pire élément encore utilisé (pertinent dans l'industrie) par période, comme ça ils travaillent à la fois sur la période et sur son pire élément qui le représente (Alcalins = Lithium, Halogènes=Brome...)
+- On retient le pire élément encore utilisé (pertinent dans l'industrie) par période, comme ça ils travaillent à la fois sur la période et sur son pire élément qui le représente (Alcalins = Lithium, Halogènes=Brome...)
 ### Pour démarrer l'atelier
 - Au début on présente notre tableau, et on demande leur avis: "quel est le pire élément par famille?"
 ### Séance 1
