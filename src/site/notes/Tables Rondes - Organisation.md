@@ -25,7 +25,7 @@
 - échanges entre groupes
 
 ---
-## 5A (20 élèves) : Remplacer les éléments critiques par des matériaux avancés?...
+## 5A (20 élèves : 4 groupes de 5 élèves) : Remplacer les éléments critiques par des matériaux avancés?...
 - James fait un mini calcul des scores attribués aux différents éléments selon nos critères afin d'identifier les éléments problématiques et critiques 
 - On retient le pire élément encore utilisé (pertinent dans l'industrie) par période, comme ça ils travaillent à la fois sur la période et sur son pire élément qui le représente (Alcalins = Lithium, Halogènes=Brome...)
 ### Pour démarrer l'atelier
@@ -41,7 +41,7 @@
 - Il faut réunir tout les powerpoint pour gagner du temps : on leur demande de nous les envoyer avant la prochaine session (le jour d'après) et on les réuni dans un grand powerpoint
 
 ---
-## 6A (20 élèves) : Discussions ouvertes sur les matériaux avancés, et la matrice "garder/réduire/substituer”
+## 6A (20 élèves : 4 groupes de 5 élèves) : Discussions ouvertes sur les matériaux avancés, et la matrice "garder/réduire/substituer”
 - On donne un sujet plus libre car ils ont moins de temps mais plus de connaissances à nous donner
 - Leur demander de fournir des informations sur les matériaux avancés afin d'informer le projet de PTD de l'année prochaine de Véolia => une divergence puis convergence classique par séance
 - On fait les groupes puis on les re-mélange : 4 groupes de 5 qui sont ensuite mélangés
