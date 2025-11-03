@@ -27,8 +27,8 @@
 **Conseils** :
 
 * Surligner de plusieurs couleurs l’article = bonne manière de gagner du temps pour ne pas réécrire l’ordre des idées (et cela rassure immédiatement le jury de votre travail, car il voit le travail de réorganisation).
-* ==PAS DE CITATIONS DU TEXTE== → IL FAUT REFORMULER DANS SES PROPRES MOTS. Il ne faut pas citer non plus ceux qui parlent dans le texte, et il est inutile de donner leurs noms (donner plutôt leur fonction).
-* « Informative article » si les informations sont simples, « opinion piece » s’il y a une part de subjectivité de l’auteur.
+* ==PAS DE CITATIONS DU TEXTE== → IL FAUT REFORMULER DANS SES PROPRES MOTS. Il ne faut pas citer non plus ceux qui parlent dans le texte, et il est inutile de donner leurs noms (donner plutôt leur fonction, type scientifique, journaliste...).
+* « Informative article » si les informations sont simples et objectives, « opinion piece » s’il y a une part de subjectivité de l’auteur.
 
 ---
 
