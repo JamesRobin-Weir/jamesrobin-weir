@@ -49,13 +49,13 @@
 ---
 ## Organisation de la semaine
 
-|             | M   | T   | W   | T             | F      |
-| ----------- | --- | --- | --- | ------------- | ------ |
-| 8h-10h      |     | Y6  | Y4  |               |        |
-| 10h30-13h30 |     |     | Y5  |               |        |
-| 14h-16h     |     |     | Y6  |               |        |
-| 14h-17h     |     |     |     |               | Véolia |
-| 18h30-20h30 | Y4  | Y5  |     | French Corner |        |
+|             | M     | T     | W   | T             | F      |
+| ----------- | ----- | ----- | --- | ------------- | ------ |
+| 8h-10h      |       | Y6    | Y4  |               |        |
+| 10h30-13h30 |       |       | Y5  |               |        |
+| 14h-16h     |       |       | Y6  |               |        |
+| 14h-17h     |       |       |     |               | Véolia |
+| 18h30-20h30 | Y4/Y5 | Y5/Y4 |     | French Corner |        |
 
 ---
 ## Restitution finale avec Véolia
@@ -63,9 +63,9 @@
 - En 3h de présentation, il faut que tout le monde ai parlé
 ### Planning
 - 15 minutes de présentation
-- 3x15 min : 4A
-- 5x(10-15 min) : 5A
-- 4x15 min : 6A
+- 3x10 min : 4A
+- 5x(10 min) : 5A
+- 4x10 min : 6A
 
 ---
 
