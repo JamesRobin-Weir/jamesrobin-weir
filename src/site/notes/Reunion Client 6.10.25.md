@@ -96,7 +96,7 @@ On laisse cycler pendant 1-2 semaines, un mois max
 ---
 ## Comment faire le tri dans les articles
 - regarder informations supplémentaires : si ils utilisent 250 mL de DMF et de l'acide par exemple, le mettre de côté (pas industrialisable)
-- l'innovation n'est pas le nouveau nécéssairement, mais d'être accessible et propre
+- l'innovation n'est pas le nouveau nécessairement, mais d'être accessible et propre
 
 ---
 ## Batteries Zinc Air
@@ -106,3 +106,21 @@ On laisse cycler pendant 1-2 semaines, un mois max
 ## A faire
 - Envoyer le document du COPIL à Vanessa
 - ne pas oublier à envoyer le prochain doc avant le prochain COPIL (jeudi 20 nov)
+- Trouver un plan B si notre plan A MOF innovant avec polymère innovant ne marche pas (e.g. MOF innovant avec PVDF)
+- Ne pas oublier de valoriser ce qui n'a pas marché 
+- Faire confiance à WIley, Elseivier, Advanced Materials
+- 15 publications de bonne qualité : 1 MOF sort du lot,avec une stratégie similaire : pourquoi ils proposent la même chose, comment on propose une voie parallèle qui accomplit la même chose mais avec d'autres avantages
+
+---
+
+CAU-10 porosité 3D par rapport a la poussé de dendrites dans le Mof
+- pour etudier comment la porosité du mof influence la poussé de denrites
+- ultra stable dans l'eau 100%
+- a faire des recherches 
+- effet confinement ions
+- peut mettre groupes NH4, NO2 ou autres (avec des charges?)
+- charge opposé pour guider les ions zinc
+- cela depends du pH
+- 
+
+Dans le 10053 
