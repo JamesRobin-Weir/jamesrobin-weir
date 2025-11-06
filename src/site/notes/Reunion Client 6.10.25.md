@@ -16,6 +16,14 @@
 Regarder le caractère durable
 IU-66 COH MOF
 
+- Ou trouver de la poudre de zinc : ça s'achète (plan d'expérience)
+---
+## Plan d'experience
+- IMAP a des ruban de zinc achèté sur Alibaba (ça se prononce ALDRITCHbaba)
+- zinc mesh avec taille de particule défini pour la poudre de zinc
+- Electrolyte on prends sel eau et on mélange
+- On peut faire des manips ou on veut quand on veut (selon Davide Cerrati)
+
 ---
 ## Polymère
 - Brittleness (cassabilité) du film sera élèvé si on met juste le MOF sans polymère => on peut peut être jouer sur l'épaisseur du film ajouté
@@ -31,6 +39,11 @@ IU-66 COH MOF
 
 - Il y a de la cellulose, nano-cellulose à l'IMAP
 
+- PVDF pas giga-cher, mais on peut trouver mieux (matériau fluoré)
+	- PAN : Poly acrylo nitryl, mais soluble que dans acide nitrique de vert (est-ce qu'il va se dissoudre dans l'eau)
+	- PANY : polyanyline Dr Pimenta en a
+	- PO est très conducteur du lithium, mais soluble dans l'eau
+	- Agent de réticulation?
 ---
 
 ## MOFS flexibles
@@ -84,9 +97,12 @@ On laisse cycler pendant 1-2 semaines, un mois max
 ## Comment faire le tri dans les articles
 - regarder informations supplémentaires : si ils utilisent 250 mL de DMF et de l'acide par exemple, le mettre de côté (pas industrialisable)
 - l'innovation n'est pas le nouveau nécéssairement, mais d'être accessible et propre
-- PVDF pas giga-cher, mais on peut trouver mieux (matériau fluoré)
-	- PAN : Poly acrylo nitryl
 
 ---
 ## Batteries Zinc Air
 - matériau avec poudre zinc pour limiter formation dendrites
+
+---
+## A faire
+- Envoyer le document du COPIL à Vanessa
+- ne pas oublier à envoyer le prochain doc avant le prochain COPIL (jeudi 20 nov)
