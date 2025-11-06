@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/reunion-client-6-10-25/"}
 ---
 
-# Réunion Client 6.10.25
+# Réunion Client 06.10.25
 ## Introduction
 - pas de base de données de MOFS, et les MOFS sont bcp plus récents*
 - EN générale les gens fixent un paramètre mais varient le reste (meme si électrolytre svnt le meme)
@@ -109,7 +109,7 @@ On laisse cycler pendant 1-2 semaines, un mois max
 - Trouver un plan B si notre plan A MOF innovant avec polymère innovant ne marche pas (e.g. MOF innovant avec PVDF)
 - Ne pas oublier de valoriser ce qui n'a pas marché 
 - Faire confiance à WIley, Elseivier, Advanced Materials
-- 15 publications de bonne qualité : 1 MOF sort du lot,avec une stratégie similaire : pourquoi ils proposent la même chose, comment on propose une voie parallèle qui accomplit la même chose mais avec d'autres avantages
+- 15 publ   ications de bonne qualité : 1 MOF sort du lot,avec une stratégie similaire : pourquoi ils proposent la même chose, comment on propose une voie parallèle qui accomplit la même chose mais avec d'autres avantages
 
 ---
 
