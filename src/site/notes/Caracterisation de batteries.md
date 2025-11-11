@@ -44,15 +44,10 @@ Sommaire hiérarchisé des principales méthodes de caractérisation des batteri
 - Peut permettre la détermination des phases cristallines et de leurs transformations lors du cyclage
 - Permet également d'étudier les mécanismes d’intercalation ou de conversion
 
-### 2.2. Microscopies électroniques (MEB/MET)
+### 2.2. Microscopies électroniques (MEB/[[MET\|MET]])
 
 - Observation des morphologies à la surface de l'électrode, et des dégradations
 - MET operando (durant la réaction) permet de visualiser la migration d’ions en temps réel en utilisant une micro-chambre de réaction
 
-### 2.4. Spectroscopies de surface (XPS, ToF-SIMS, AES)
-
-- Analyse chimique fine des couches superficielles : SEI, oxydes...
-- Indispensable pour corréler la chimie de surface et la stabilité électrochimique.
-
-### 2.4. Calcul des [[Isothermes d'adsorption\|Isothermes d'adsorption]]
+### 2.3. Calcul des [[Isothermes d'adsorption\|Isothermes d'adsorption]]
 - Permet de décrire la formation d'une couche d'adsorbat sur l'électrode (aSEI)
