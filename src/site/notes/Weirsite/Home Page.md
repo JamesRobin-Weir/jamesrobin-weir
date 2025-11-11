@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/weirsite/home-page/","tags":["gardenEntry"]}
 ---
 
-
 # Weirsite : Site Personnel de James Robin-Weir
 
 ---
@@ -14,7 +13,7 @@ Ce projet, réalisé pour le laboratoire IMAP de l'ESPCI sur une période de 5 m
 - Contexte et équations de fonctionnement : [[Weirsite/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
 - La technologie prédominante actuelle : [[Weirsite/Lithium batteries\|Lithium batteries]]
 - Role de l'électrolyte en surface des electrode : [[Weirsite/SEI\|SEI]]
-- [[Caracterisation de batteries\|Caracterisation de batteries]] 
+- [[Caracterisation de batteries\|Caracterisation de batteries]] avec différentes techniques analytiques
 
 ### **Projet Transdisciplinaire : Green and sustainable chemistry, towards a better periodic table for the Right Chemistry**
 Projet de 6 mois portant sur l'histoire du tableau périodique et son adaptation aux besoins des scientifiques s'intégrant dans la transition durable de la chimie (chimie verte), réalisé pour Véolia France.

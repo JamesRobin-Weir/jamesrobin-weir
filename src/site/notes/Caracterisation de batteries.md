@@ -47,7 +47,8 @@ Sommaire hiérarchisé des principales méthodes de caractérisation des batteri
 ### 2.2. Microscopies électroniques (MEB/[[MET\|MET]])
 
 - Observation des morphologies à la surface de l'électrode, et des dégradations
-- MET operando (durant la réaction) permet de visualiser la migration d’ions en temps réel en utilisant une micro-chambre de réaction
+- [[MET\|MET]] operando (durant la réaction) permet de visualiser la migration d’ions en temps réel en utilisant une micro-chambre de réaction
+- La diffraction électronique avec le MET permet d'identifier des réseaux cristallins à partir de fines couches du composé d’intérêt 
 
 ### 2.3. Calcul des [[Isothermes d'adsorption\|Isothermes d'adsorption]]
-- Permet de décrire la formation d'une couche d'adsorbat sur l'électrode (aSEI)
+- Permet de décrire la formation d'une couche d'adsorbat sur l'électrode (SEI/aSEI)
