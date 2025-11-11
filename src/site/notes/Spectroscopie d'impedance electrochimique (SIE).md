@@ -3,7 +3,7 @@
 ---
 
 # Spectroscopie d'impédance électrochimique (SIE)
-La spectroscopie d’impédance électrochimique (SIE) est une technique de caractérisation d'un système électrochimique (batterie, électrolyseur, pile à combustible) qui consiste à appliquer un signal alternatif de faible amplitude au système électrochimique et à en mesurer la réponse à différentes fréquences. 
+La spectroscopie d’impédance électrochimique (SIE) est une technique de caractérisation d'un système électrochimique (batterie, électrolyseur, pile à combustible) qui consiste à appliquer un signal alternatif de faible amplitude au système électrochimique et à en mesurer la réponse à différentes fréquences.
 ![SIE.png|400](/img/user/SIE.png)
 	_Fig. : Réponse imaginaire et réel à l'excitation de la SIE (wikipedia)_
 
@@ -18,7 +18,7 @@ On impose un potentiel $E_0cos(\omega t)$ et on mesure i(t) en sortie (ou invers
 
 On calcul l'impédance $Z=\dfrac{E(\omega)}{i(\omega)}$ qui est complexe à priori.
 
-- **Diagramme de Bode** -> 2 graphes, l'amplitude et puis l'angle de phase en fonction de la fréquence 
+- **Diagramme de Bode** -> 2 graphes, l'amplitude et puis l'angle de phase en fonction de la fréquence
 
 En coordonnées polaires on graphe $Ze^{i\theta}$ directement, ou sinon on peut projeter $Z$ selon x et y (tel que $Z_x=Z_{réel}=Z*\cos(\theta)$ et idem pour $Z_y$, tel que $Z=\sqrt{Z_x^2+Z_y^2}$ ), qui donne le graphe suivant :
 
@@ -36,9 +36,6 @@ En coordonnées polaires on graphe $Ze^{i\theta}$ directement, ou sinon on peut 
 ### Impedance de Warburg
 
 ![Warburg.png](/img/user/Warburg.png)
-Associated with diffusion, characterised by a 45° line in Nyquist plot meaning that the charge carriers are moving at a constant speed
-- real impedance = diffusion distance in oxide layer, imaginary impedance = time delay for the ion to diffuse (through the oxide layer)
-
 Associée à la diffusion, ce régime est caractérisée par une ligne à 45° dans le diagramme de Nyquist, ce qui signifie que les porteurs de charge se déplacent à une vitesse constante. Cela peut être rationalisé par les définitions suivantes :
 
 - **Impédance réelle** = distance de diffusion dans la couche d'oxyde, 
