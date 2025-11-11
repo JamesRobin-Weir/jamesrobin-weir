@@ -21,7 +21,7 @@ Néanmoins, comme il en est aussi pour les batteries Li-ion, il reste diverses l
 
 ![ZIB_Dendrite_types.png](/img/user/ZIB_Dendrite_types.png)
 
-*Fig. 2 : Illustration schématique de la déposition d’ions zinc sur l'électrode²
+*Fig. 2 : Illustration schématique de la déposition d’ions zinc sur l'électrode²*
 
 Plusieurs techniques existent afin de limiter ces croissances. Pour les piles Li-ion, l'électrolyte organique va former une phase intermédiaire protectrice ([[Weirsite/SEI\|SEI]]) à la surface de l’anode, permettant le passage des ions tout en dé-favorisant la formation de dendrites. En milieu aqueux, nous pouvons avoir recours à des additifs dans l'électrolyte, ou bien des traitements de surface par des matériaux poreux qui permettent le passage des ions zinc mais empêchent la croissance du zinc métallique.
 
@@ -32,7 +32,7 @@ Plusieurs techniques existent afin de limiter ces croissances. Pour les piles Li
 
 Tout d’abord, nous avons rappelé les enjeux du PIG, de la problématique du sujet et du fonctionnement général des piles. Ensuite, nous avons eu une discussion sur les informations récoltées à propos des batteries zinc-ion aqueuses (aZIBs), comprenant les mécanismes de formations des dendrites par diffusion selon différentes géométries, et comment minimiser leur formation. Prof. Giaume nous a recommandé de s’informer sur la formation de dendrites dans différentes technologies de batteries, car le phénomène de formation reste similaire. De plus, on peut trouver différentes techniques empêchant la formation de dendrites, telles que les modifications de l’électrolyte, les différents alliages Zn-Métal de l’anode, et les matériaux poreux ou revêtement à l’anode.
 
-**Entrevue avec Vanessa Pimenta : **
+**Entrevue avec Vanessa Pimenta :**
 
 Suite à la réunion avec notre tutrice, nous avons organisé une réunion avec notre cliente au laboratoire IMAP à l’ESPCI. Elle nous a rappelé les attentes du projet, “proposer et tester une nouvelle méthode pour réduire la formation de dendrites”. Ensuite, nous avons discuté des recherches bibliographiques que nous avions effectuées, sur des revêtements de l’anode, des alliages et de modifications de l'électrolyte. Mme Pimenta nous a partagé quant à elle les axes possibles de recherche pour ce projet compris dans son champ de recherche, qui est principalement l’étude des MOFs (Metal-Organic-Frameworks). Elle a aussi proposé d’étudier des zéolithes ou encore les silices mésoporeuses. Elle nous a confié qu’elle est plus intéressée par les MOFs et qu’il y a également un bon nombre de réactifs et instruments pour les produire au sein de l’IMAP, que nous avons découverts par la suite dans une visite. Suite à cela, nous nous sommes mis d’accord pour continuer nos recherches et d’explorer davantage sur les matériaux poreux cités précédemment, jusqu’à la prochaine réunion que nous avons fixés le 6 novembre.
 
@@ -119,6 +119,7 @@ Avec ce MOF, les auteurs ont pu faire des mesures en cellule complète et les pr
 * Aucune croissance de dendrites est observée même à 10 mA/cm².
 * Durée de cycle prolongée : 1800 h à 1mA/cm² (très faible polarisation, 31 mV) et 950 h à 10 mA/cm².
 * Capacité stable de 130 mAh/g après 2000 cycles et possède une excellente résistance à la corrosion et à l’autodécharge.
+
 
 	C) Silice Mésoporeuse
 
