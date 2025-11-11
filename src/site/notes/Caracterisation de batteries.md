@@ -22,7 +22,7 @@ Sommaire hiérarchisé des principales méthodes de caractérisation des batteri
 
 - Méthode clef pour étudier la résistance interne souvent selon un modèle de circuit électrique, la cinétique de transfert de charge, la diffusion ionique (Warburg) et l’évolution de la SEI (Solid Electrolyte Interphase)
 - L'étude utilise souvent un modèle de circuit électrique équivalent, comme en thermodynamique (diffusion de chaleur) 
-- Méthode la plus puissante pour corréler performance et vieillissement.
+- Méthode classique pour corréler performance et vieillissement.
 
 ### 1.4. Potentiostatic Intermittent Titration Technique (PITT)
 
