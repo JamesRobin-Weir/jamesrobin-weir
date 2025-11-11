@@ -36,7 +36,7 @@ En coordonnées polaires on graphe $Ze^{i\theta}$ directement, ou sinon on peut 
 ### Impedance de Warburg
 
 ![Warburg.png](/img/user/Warburg.png)
-Associée à la diffusion, ce régime est caractérisée par une ligne à 45° dans le diagramme de Nyquist, ce qui signifie que les porteurs de charge se déplacent à une vitesse constante. Cela peut être rationalisé par les définitions suivantes :
+Associée à la diffusion, ce régime est caractérisée par une ligne à 45° dans le diagramme de Nyquist, ce qui signifie que les porteurs de charge se déplacent à une vitesse constante. Cela peut être rationalisé de la manière suivante :
 
 - **Impédance réelle** = distance de diffusion dans la couche d'oxyde, 
 - **Impédance imaginaire** = délai nécessaire à la diffusion de l'ion (à travers la couche d'oxyde)

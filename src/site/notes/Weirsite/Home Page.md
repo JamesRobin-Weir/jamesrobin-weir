@@ -15,9 +15,7 @@ Ce projet, réalisé pour le laboratoire IMAP de l'ESPCI sur une période de 6 m
 
 - Contexte et equations de fonctionnement : [[Weirsite/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
 - La technologie prédominante actuelle : [[Weirsite/Lithium batteries\|Lithium batteries]]
-- Un peu électrochimie : [[Weirsite/Accumulateur\|Accumulateur]]
-- Role de l'electrolyte en surface des electrode : [[Weirsite/SEI\|SEI]]
-- Entretien client : [[Reunion Client 6.10.25\|Reunion Client 6.10.25]]
+- Role de l'électrolyte en surface des electrode : [[Weirsite/SEI\|SEI]]
 - [[Caracterisation de batteries\|Caracterisation de batteries]] 
 ### Projet Transdisciplinaire réalisé pour Véolia
 - Lien vers le site web réalisé dans le cadre du projet La Chimie Verte et le Tableau Périodique : [Lien](https://projet-colibri.github.io/)

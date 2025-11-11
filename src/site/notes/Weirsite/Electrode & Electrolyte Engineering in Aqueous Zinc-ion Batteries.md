@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/weirsite/electrode-and-electrolyte-engineering-in-aqueous-zinc-ion-batteries/"}
 ---
 
+# Webinaire : Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batter
+
 Speaker :  Professor Husam AlShareef
 ###### Why ZIBs ?
 - ZIBs usecase = low-cost, long life batteries for grid storage (not for high energy density applications)
