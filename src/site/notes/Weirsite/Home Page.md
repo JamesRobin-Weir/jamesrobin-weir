@@ -17,6 +17,7 @@ Page centrale du projet : [[Weirsite/PIG ZIBs\|PIG ZIBs]]
 - Un peu électrochimie : [[Weirsite/Accumulateur\|Accumulateur]]
 - Role de l'electrolyte en surface des electrode : [[Weirsite/SEI\|SEI]]
 - Entretien client : [[Reunion Client 6.10.25\|Reunion Client 6.10.25]]
+- [[Caractérisation de batteries\|Caractérisation de batteries]] 
 ### Projet Transdisciplinaire réalisé pour Véolia
 - Lien vers le site web réalisé dans le cadre du projet La Chimie Verte et le Tableau Périodique : [Lien](https://projet-colibri.github.io/)
 ## École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)

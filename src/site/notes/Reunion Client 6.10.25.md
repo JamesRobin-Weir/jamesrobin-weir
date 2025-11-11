@@ -5,19 +5,19 @@
 # Réunion Client 06.10.25
 ## Introduction
 - Pas de base de données de MOFS (puisqu'ils sont récents)
-- En générale les chercheurs fixent un paramètre mais varient le reste (meme si l'électrolyte reste souvent le meme)
+- En générale les chercheurs fixent un paramètre mais varient le reste (même si l'électrolyte reste souvent le même)
 - Il n'y a seulement 20-30 exemples de MOFS crédibles pour l'usage sur anode
 - IU-66 (avec COH) est le plus commun
 
-Les chercheurs utilisent presque tout le temps le meme type de MOF et de polymère :
+Les chercheurs utilisent presque tout le temps le même type de MOF et de polymère :
 - Nouveau polymère? (qui ne soit pas PVDF) -> ?
-- Nouveau MOF (pas IU-66) -> MOFs flexibles (tout en étant crystallins)
+- Nouveau MOF (pas IU-66) -> MOFs flexibles (tout en étant cristallins)
 
 Il faut regarder le caractère durable
 - Polymère écosourcé?
 
 ---
-## Plan d'experience
+## Plan d'éxperience
 - IMAP a des ruban de zinc achèté sur Alibaba (ça se prononce ALDRITCHbaba)
 - Acheter "zinc mesh" avec taille de particule défini pour la poudre de zinc
 - Electrolyte on prends sel eau et on mélange
