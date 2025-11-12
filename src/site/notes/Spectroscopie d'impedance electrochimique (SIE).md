@@ -5,25 +5,7 @@
 # Spectroscopie d'impédance électrochimique (SIE)
 La spectroscopie d’impédance électrochimique (SIE) est une technique de caractérisation d'un système électrochimique (batterie, électrolyseur, pile à combustible) qui consiste à appliquer un signal alternatif de faible amplitude au système électrochimique et à en mesurer la réponse à différentes fréquences.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-## Embedded Files
-35ac161058b84732fac19d257f80125bb09bf770: [[SIE.png\|SIE.png]]
-
-
-
-</div></div>
-
+![SIE_white.png](/img/user/Excalidraw/SIE_white.png) 
 	_Fig. : Réponse imaginaire et réel à l'excitation de la SIE (wikipedia)_
 
 ---
