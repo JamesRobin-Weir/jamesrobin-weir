@@ -14,8 +14,8 @@ La spectroscopie d’impédance électrochimique (SIE) est une technique de cara
 **Principe de la méthode**
 On impose un potentiel $E_0cos(\omega t)$ et on mesure i(t) en sortie (ou inversement), puis on prends la transformée de Fourier pour passer du domaine temporel au domain spectral.
 
-- SIE potentiostatique -> impose E,t mesure i
-- SIE galvanostatique -> impose i, mesure E
+- **SIE potentiostatique** : On impose V(t) afin de mesurer i(t)
+- **SIE galvanostatique** : On impose i(t) afin de mesurer V(t)
 
 On calcul l'impédance $Z=\dfrac{E(\omega)}{i(\omega)}$ qui est complexe à priori.
 
@@ -37,7 +37,7 @@ En coordonnées polaires on graphe $Ze^{i\theta}$ directement, ou sinon on peut 
 ### Impedance de Warburg
 
 ![Warburg.png](/img/user/Warburg.png)
-Associée à la diffusion, ce régime est caractérisée par une ligne à 45° dans le diagramme de Nyquist, ce qui signifie que les porteurs de charge se déplacent à une vitesse constante. Cela peut être rationalisé de la manière suivante :
+Associée à la diffusion, ce régime est caractérisé par une ligne à 45° dans le diagramme de Nyquist, ce qui signifie que les porteurs de charge se déplacent à une vitesse constante. Cela peut être rationalisé de la manière suivante :
 
 - **Impédance réelle** = distance de diffusion dans la couche d'oxyde, 
 - **Impédance imaginaire** = délai nécessaire à la diffusion de l'ion (à travers la couche d'oxyde)

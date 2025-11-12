@@ -16,7 +16,7 @@ Sommaire hiérarchisé des principales méthodes de caractérisation des batteri
 ### 1.2. Voltamétrie cyclique 
 
 - Analyse des processus redox
-- Permet de déterminer le coefficient la diffusion ionique et de caractériser les mécanismes de réaction (intercalation, conversion, etc.)
+- Permet de déterminer le coefficient de diffusion ionique et de caractériser les mécanismes de réaction (intercalation, conversion, etc.)
 
 ### 1.3. [[Spectroscopie d'impedance electrochimique (SIE)\|Spectroscopie d'impedance electrochimique (SIE)]]
 
@@ -33,10 +33,10 @@ Sommaire hiérarchisé des principales méthodes de caractérisation des batteri
 ### 1.5. Chronoampérométrie / Chronopotentiométrie
 
 - Étude de la réponse temporelle à un potentiel ou courant fixe.
-- Utile pour caractériser la nucleation du lithium et la formation de la [[Weirsite/SEI\|SEI]] en milieux orga
+- Utile pour caractériser la nucléation du lithium et la formation de la [[Weirsite/SEI\|SEI]] en milieux orga
 
 ---
-
+nucleation
 ## **2. Méthodes de caractérisation physico-chimique**
 
 ### 2.1. Diffraction des rayons X (DRX)

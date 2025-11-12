@@ -3,7 +3,7 @@
 ---
 
 # Comment comparer différentes batteries?
-Il existe de nombreux standards et grandeurs permettant de caractériser différents batteries entre eux. Ce qui suit est une survol de quelques-uns souvent rencontrés :
+Il existe de nombreux standards et grandeurs permettant de caractériser différentes batteries entre eux. Ce qui suit est une survol de quelques-uns souvent rencontrés :
 
 ---
 ### Capacité énergétique
