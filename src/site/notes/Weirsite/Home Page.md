@@ -8,7 +8,7 @@
 
 ## **Chimie ParisTech - ENSCP**
 ### **[[Weirsite/Projet Independent en Groupe - Batteries Zinc Ion Aqueuses\|Projet Independent en Groupe - Batteries Zinc Ion Aqueuses]]**
-Ce projet, réalisé pour le laboratoire IMAP de l'ESPCI sur une période de 5 mois, vise à identifier et évaluer expérimentalement des solutions au problème de poussée dendritique dans des batteries zinc eau.
+Ce projet, réalisé pour le laboratoire IMAP de l'ESPCI sur une période de 6 mois, vise à identifier et évaluer expérimentalement des solutions au problème de poussée dendritique à l'anode des batteries zinc eau.
 
 - Contexte et équations de fonctionnement : [[Weirsite/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
 - La technologie prédominante actuelle : [[Weirsite/Lithium batteries\|Lithium batteries]]

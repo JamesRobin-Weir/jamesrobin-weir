@@ -11,3 +11,6 @@ $\mu_{\mathrm{i}}={\frac{q_{\mathrm{i}}D_{\mathrm{i}}}{k_{\mathrm{B}}T}}$
 
 ## Water in Salt Electrolytes (WiSE) for aqueous batteries
 - Worked on by Jean-Marie Tarascon at the Collège de France
+
+### Aqueous electrolyte additives
+![ZIB_Electrolytes.png](/img/user/ZIB_Electrolytes.png)
