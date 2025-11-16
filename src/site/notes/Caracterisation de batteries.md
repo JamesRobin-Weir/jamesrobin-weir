@@ -33,10 +33,10 @@ Sommaire hiérarchisé des principales méthodes de caractérisation des batteri
 ### 1.5. Chronoampérométrie / Chronopotentiométrie
 
 - Étude de la réponse temporelle à un potentiel ou courant fixe.
-- Utile pour caractériser la nucléation du lithium et la formation de la [[Weirsite/SEI\|SEI]] en milieux orga
+- Utile pour caractériser la nucléation du lithium et la formation de la [[Weirsite/SEI\|SEI]] en milieux organique
 
 ---
-nucleation
+
 ## **2. Méthodes de caractérisation physico-chimique**
 
 ### 2.1. Diffraction des rayons X (DRX)
@@ -52,3 +52,4 @@ nucleation
 
 ### 2.3. Calcul des [[Isothermes d'adsorption\|Isothermes d'adsorption]]
 - Permet de décrire la formation d'une couche d'adsorbat sur l'électrode (SEI/aSEI)
+- Il y a une quantité de poudre minimum : 10 m² de surface (on calcule la masse nécessaire avec la surface spécifique)

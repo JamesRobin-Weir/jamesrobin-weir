@@ -24,14 +24,18 @@ On calcul l'impédance $Z=\dfrac{E(\omega)}{i(\omega)}$ qui est complexe à prio
 En coordonnées polaires on graphe $Ze^{i\theta}$ directement, ou sinon on peut projeter $Z$ selon x et y (tel que $Z_x=Z_{réel}=Z*\cos(\theta)$ et idem pour $Z_y$, tel que $Z=\sqrt{Z_x^2+Z_y^2}$ ), qui donne le graphe suivant :
 
 ![Impedance_cartesien.png](/img/user/Impedance_cartesien.png)
+	_Fig. : Graphe de l’impédance en coordonnées cartésiennes_
+
 - **Diagramme de Nyquist** -> norme de l'impédance $Z$ et l'angle de phase $\theta$  en fonction de la fréquence imposée
 ![Nyquist_Bode.png](/img/user/Nyquist_Bode.png)
-- Cela permet de faire un modèle électrique (circuit), puis de faire du fitting pour déterminer les valeurs des composantes (voir ce [site de fitting](https://app.circuitfitting.net/tools/fitting))
-### Ordres de grandeur
-- Temps de chargement de la double couche électronique -> microseconde
-- Temps caractéristique de diffusion -> centaine de milliseconde
-- Basse fréquence  <=> processus haute impédance, comme la diffusion
-- Sur le spectre, la réaction anodique doit correspondre aux fréquences basses, car la HER ($2H2O \rightarrow O_2 + 4e^- +4H^+$) est la réaction cinétiquement limitante (lente)
+Cela permet de faire un modèle électrique (circuit), puis de faire du fitting pour déterminer les valeurs des composantes (voir ce [site de fitting](https://app.circuitfitting.net/tools/fitting))
+
+---
+### Quelques principes et ordres de grandeur
+- **Temps de chargement de la double couche électronique** : microseconde
+- **Temps caractéristique de diffusion ionique** : centaine de milliseconde
+- A basse fréquence on retrouve plutôt les processus de haute impédance, comme la diffusion ionique
+- Sur le spectre, la réaction anodique doit correspondre aux fréquences basses, car la HER : $2H2O \rightarrow O_2 + 4e^- +4H^+$ est la réaction cinétiquement limitante (lente)
 
 ---
 ### Impedance de Warburg
