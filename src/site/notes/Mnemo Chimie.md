@@ -57,7 +57,6 @@ Préface : les molécules sont visualisés sous format SMILES numérique
 - Plaques shim -> permettent homog $B_0$ 
 - Spinner -> tourne tube essaie pr corriger inhomog locales, permet voir singulet/doublet etc
 - Champs écran $e^-$ -> $\exists$ format° champ diamag $B_e$ empêche résonance => + amp $B_0$ 
-- Bonhomme d'Ampère ???
 - Fréquence de Larmor -> réf en rot à $\omega_0$ 
 - Effet de toit -> tendance pour deux groupes de pics de même hauteur a prendre la forme d'un toit en se rapprochant
 - ==Sys AX==  (2 $p^+$) -> 2 doublets de pics de $\bar{m}$ hauteur et fines, lorsque $|\delta_a-\delta_b|>>J_{AX}$
