@@ -27,6 +27,8 @@ Stage réalisé en parallèle des cours du cursus ingénieur chimiste puis en fu
 - [Poster scientifique](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf) réalisé pour l'affichage en laboratoire en fin de stage
 - [Donnés et résultats expérimentaux](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main) publiés en fin de stage
 
+### EE Days - Game changer au sujet de la réindustrialisation verte et souveraineté industrielle
+- Document compte rendu du [[EE DAYS\|EE DAYS]]
 ---
 ## **Ressources pour Classes Préparatoires**
 ### **Khôlles d'Anglais au Lycée Pierre Gilles de Gennes - ENCPB**

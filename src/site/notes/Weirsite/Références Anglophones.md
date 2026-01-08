@@ -19,7 +19,7 @@
 
 ### Human rights
 - First **female** minister for women under the Whitlam government in Australia. Until then the position either didn't exist or was occupied by men
-- Third world mining installations with low safety precautions and exploitative practices including child labour export essential ressources like lithium for batteries, uranium for nuclear plants, etc etc to european and american processing plants 
+- Third world mining installations with low safety precautions and exploitative practices including child labour export essential ressources like lithium for batteries, uranium for nuclear plants, etc to european and american processing plants 
 - The introduction of same-sex marriage laws in the UK, starting with the Marriage (Same Sex Couples) Act 2013, represented a significant step forward for LGBTQ+ rights in an Anglo country.
 - Canada's Charter of Rights and Freedoms, established in 1982, guarantees fundamental rights and freedoms, including equality rights that protect against discrimination based on race, national or ethnic origin, color, religion, sex, age, or mental or physical disability.
 - **The Civil Rights Act of 1964** in the United States was landmark legislation that outlawed discrimination based on race, color, religion, sex, or national origin, marking a significant victory for the civil rights movement.
@@ -27,7 +27,7 @@
 - **The Equal Pay Act of 1970 in the UK** aimed to eliminate the wage disparity between men and women, ensuring equal pay for equal work across genders.
 
 ### Health
-- Brexit causes a lack of essential workers notably in healthcare, causing the quality of treatment of the NHS to drop drastically
+- Brexit caused a lack of essential workers notably in healthcare, causing the quality of treatment of the NHS to drop drastically
 - The NHS being an old, beaucratic institution is currently unable to serve the health needs of now recognised trans people despite a right to care in Britain. This causes waiting periods of multiple years to access gender affirming (not altering because they are already that gender even before) surgery. 
 - The opioid crisis in the United States has highlighted significant flaws in the healthcare system, particularly in how pain management drugs are prescribed and regulated, leading to widespread addiction and overdose deaths.
 - Australia's Medicare system, introduced in 1984, provides universal healthcare to its citizens, though it faces challenges such as funding, access to services in rural areas, and the increasing cost of healthcare.
