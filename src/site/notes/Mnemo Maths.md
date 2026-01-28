@@ -37,7 +37,7 @@
 - $\sum_{k=1}^{n} k^4 = \frac{n(n+1)(2n+1)(3n^2 + 3n - 1)}{30}$
 - gof surj -> g surj car surjecte de l'extérieur
 - gof inj -> f inj car injecte de l'intérieur
-- ITL -> f $\mathcal{C}^{n+1}(I)$ tq $|f^{(n+1)}| \le M$, $\forall (a,b)\in I^2$ : $|f(b) - f(a) - \sum_{k=1}^{n} \frac{(b-a)^k}{k!} f^{(k)}(a)| \leq M \frac{|b-a|^{n+1}}{(n+1)!}$
+- ITL (Inégalité Taylor Lagrange) -> f $\mathcal{C}^{n+1}(I)$ tq $|f^{(n+1)}| \le M$, $\forall (a,b)\in I^2$ : $|f(b) - f(a) - \sum_{k=1}^{n} \frac{(b-a)^k}{k!} f^{(k)}(a)| \leq M \frac{|b-a|^{n+1}}{(n+1)!}$
 - Pascal -> p parmi n = p-1 parmi n-1 + p parmi n-1 mitose ++
 - ==Operat°s licites inégalités== -> +/-, mult nb pos ou neg en inversant, mult tàt par termes pos, composer f° stricte croiss ou decroiss en inversant (si pas strict inégalités larges)
 - Min/max eq $x^2$ -> derivée =0 => $x=-\frac{b}{2a}$ 
@@ -45,7 +45,7 @@
 - $e^x \approx \sum_{k=0}^{n} \frac{x^k}{k!}$
 - $\sin(x) \approx \sum_{k=0}^{n} (-1)^k \frac{x^{2k+1}}{(2k+1)!}$
 - $\cos(x) \approx \sum_{k=0}^{n} (-1)^k \frac{x^{2k}}{(2k)!}$
-- $\tan(x) \approx \sum_{k=1}^{n} \frac{B_{2k}(2k)!}{(2k)!} \frac{x^{2k-1}}{(2k-1)!}$, où $B_{2k}$ est le $2k$-ième nombre de Bernoulli.
+- $\tan(x) \approx \sum_{k=1}^{n} \frac{B_{2k}(2k)!}{(2k)!} \frac{x^{2k-1}}{(2k-1)!}$, où $B_{2k}$ est le $2k$-ième nombre de Bernoulli
 - $\arctan(x) \approx \sum_{k=0}^{n} (-1)^k \frac{x^{2k+1}}{2k+1}$
 - $\frac{1}{1+x} \approx \sum_{k=0}^{n} (-1)^k x^k$
 - $\frac{1}{1-x} \approx \sum_{k=0}^{n} x^k$, R=1 sur $\mathbb{C}$  
