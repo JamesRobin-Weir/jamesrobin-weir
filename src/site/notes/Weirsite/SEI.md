@@ -1,10 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/weirsite/sei/"}
+{"dg-publish":true,"permalink":"/weirsite/sei/","dg-note-properties":{}}
 ---
 
-Pages: [[Weirsite/Projet Independent en Groupe - Batteries Zinc Ion Aqueuses\|Projet Independent en Groupe - Batteries Zinc Ion Aqueuses]]
-## What is an SEI (Solid Electrolyte Interphase) ?
-During LMB operation, an interphase passivation film (SEI) is formed between the Li metal phase and the [[Electrolyte\|Electrolyte]] phase by spontaneous chemical reactions and electrochemical reductions of the latter. 
+# Weirsite : Site Personnel de James Robin-Weir
+
+---
+# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+---
+
+## **What is an SEI (Solid Electrolyte Interphase) ?**
+
+During Lithium Metal Battery (LMB) operation, an interphase passivation film (SEI) is formed between the Li metal phase and the [[Weirsite/Electrolyte\|Electrolyte]] phase by spontaneous chemical reactions and electrochemical reductions of the latter. 
 
 ![Ideal_SEI.png](/img/user/Ideal_SEI.png)
 

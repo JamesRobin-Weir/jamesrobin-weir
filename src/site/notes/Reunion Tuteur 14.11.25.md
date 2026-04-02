@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reunion-tuteur-14-11-25/"}
+{"dg-publish":true,"permalink":"/reunion-tuteur-14-11-25/","dg-note-properties":{}}
 ---
 
 # Reunion Tuteur 14.11.25

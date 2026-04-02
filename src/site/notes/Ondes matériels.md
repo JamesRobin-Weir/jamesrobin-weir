@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ondes-materiels/"}
+{"dg-publish":true,"permalink":"/ondes-materiels/","dg-note-properties":{}}
 ---
 
 
-[[Mnemo Physique\|Mnemo Physique]]
+[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### ONDES MEC DS SOLIDES
 - Chaine ressorts -> variable réduite $\xi_n=x_n-x_{n,eq}$ avec $x_{n,eq}-x_{n-1,eq}=a$ avec PFD, approx milieux continues => $\xi(x,t)$, donne $c=\sqrt{\frac{ka^2}{m}}$ 
 - Cas général solide cristalin -> $c=\sqrt{\frac{E}{\mu_l}}$ 

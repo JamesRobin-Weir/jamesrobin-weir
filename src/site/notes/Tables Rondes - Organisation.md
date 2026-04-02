@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tables-rondes-organisation/"}
+{"dg-publish":true,"permalink":"/tables-rondes-organisation/","dg-note-properties":{}}
 ---
 
 # Organisation des tables rondes en Chine

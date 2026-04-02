@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/"}
+{"dg-publish":true,"permalink":"/index/","dg-note-properties":{}}
 ---
 
 [[Reunion Mme. Sauvage Chinois - Culture Chinoise\|Reunion Mme. Sauvage Chinois - Culture Chinoise]]

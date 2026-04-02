@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pig-zi-bs/"}
+{"dg-publish":true,"permalink":"/pig-zi-bs/","dg-note-properties":{}}
 ---
 
 - Entretien client : [[Reunion Client 6.10.25\|Reunion Client 6.10.25]]
@@ -55,7 +55,7 @@ Zinc: le zinc meme se réduit
 Hour long summary of technological/chemical limitations and advantages of ZIBs : see [[Weirsite/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
 
 ### Sujets annexes
-On peut aussi réfléchir sur les dendrites de [[Weirsite/Lithium batteries\|Lithium batteries]] (et les solutions proposés)
+On peut aussi réfléchir sur les dendrites de [[Weirsite/Lithium batteries - Overview\|Lithium batteries - Overview]] (et les solutions proposés)
 
 ### Les MOFS (réseau métallo-organique) comme agents de filme
 Les MOFS sont des réseaux de polymères couplées à des complexes de coordination métalliques d'une porosité très élevée, mais aussi spécifique en fonction de l'application souhaitée. 

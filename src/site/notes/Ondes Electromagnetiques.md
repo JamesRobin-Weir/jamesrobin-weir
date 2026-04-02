@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ondes-electromagnetiques/"}
+{"dg-publish":true,"permalink":"/ondes-electromagnetiques/","dg-note-properties":{}}
 ---
 
 
-[[Mnemo Physique\|Mnemo Physique]]
+[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### MAGNÉTOSTAT PCSI
 - LDChamps -> courbe auquel $\vec{B}$ tangent
 - Bobines Helmoltz -> 2 bobines coaxiales

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/biochimie-2022-2023/"}
+{"dg-publish":true,"permalink":"/biochimie-2022-2023/","dg-note-properties":{}}
 ---
 
 # Biochimie 2022 2023

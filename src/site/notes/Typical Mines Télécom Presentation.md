@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/typical-mines-telecom-presentation/"}
+{"dg-publish":true,"permalink":"/typical-mines-telecom-presentation/","dg-note-properties":{}}
 ---
 
-# Typical Mines Télécom Presentation
+# Weirsite : Site Personnel de James Robin-Weir
+
+---
+# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+---
+
+## Typical Mines Télécom Presentation
 
 La suivante présentation est ici en guise d'exemple afin d'informer l'écriture de votre présentation **personnel**. Certaines parties, comme la présentation de votre parcours au lycée, vont peut-être beaucoup se ressembler, donc il faut tenter de se distinguer face au jury tout en respectant le temps et le format de la présentation!
 

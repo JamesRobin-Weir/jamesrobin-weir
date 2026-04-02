@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/polymeres-bis/"}
+{"dg-publish":true,"permalink":"/polymeres-bis/","dg-note-properties":{}}
 ---
 
 # Polymères l'essentiel

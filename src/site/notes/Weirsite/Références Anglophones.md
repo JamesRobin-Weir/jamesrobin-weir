@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/weirsite/references-anglophones/"}
+{"dg-publish":true,"permalink":"/weirsite/references-anglophones/","dg-note-properties":{}}
 ---
 
-# Références Anglophones
+# Weirsite : Site Personnel de James Robin-Weir
+
+---
+# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+---
+
+## **Références Anglophones**
 ### AI and computers 
 - I Robot, Isaac Asimov
 - The **paperclip maximizer** is a thought experiment described by Swedish philosopher Nick Bostrom. The scenario describes an advanced artificial intelligence tasked with manufacturing paperclips. If such a machine were not programmed to value human life, given enough power over its environment, it would try to turn all matter in the universe, including human beings, into paperclips or machines that manufacture further paperclips

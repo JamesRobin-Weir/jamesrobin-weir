@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/weirsite/electrode-and-electrolyte-engineering-in-aqueous-zinc-ion-batteries/"}
+{"dg-publish":true,"permalink":"/weirsite/electrode-and-electrolyte-engineering-in-aqueous-zinc-ion-batteries/","dg-note-properties":{"aliases":null}}
 ---
 
-# Webinaire : Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batter
+# Webinair : Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries
 
-Speaker :  Professor Husam AlShareef
+**Speaker :  Professor Husam AlShareef**
 ### Why chose ZIBs ?
-- **Use case of ZIBs** = low-cost, long life batteries for grid storage (not for high energy density applications like )
+- **Use case of ZIBs** = low-cost, long life batteries for grid storage but not for high energy density applications like portable devices
 #### Advantages of Zinc Batteries
-- Much safer and more ecofriendly than lithium batteries
-- Abundant and therefore cheap ($2/kg instead of $19/kg lithium)
-- Zinc is multivalent so there is higher potential charge density
-- It also has a similar ionic radius to lithium
-- It has a suitable redox potential (-0.78V VS ESH), which also makes it stable in aqueous electrolytes which are cheaper and less polluting
+- Much safer and more eco-friendly than lithium batteries
+- Abundant and therefore cheap (bulk zinc costs $2/kg instead of $19/kg for lithium)
+- Zinc is multivalent so there is higher potential charge density, as it has a similar ionic radius to lithium
+- It has a suitable redox potential (-0.78V VS ESH) for use in aqueous electrolytes which are cheaper and less polluting
 ![Metal_volumetric_capacity_VS_E.png](/img/user/Metal_volumetric_capacity_VS_E.png)
 	_Fig. 1 : Volumetric capacity of different ions as a function of oxydation potential_
 
@@ -21,7 +20,7 @@ Speaker :  Professor Husam AlShareef
 - **1986** : Zn-MnO2ZnSO4 rechargeable battery
 - **2010s** : Stable zinc anodes
 ---
-### Issues in current ZIB technology
+### Issues with current ZIB technology
 #### At the Cathode
 - Dissolution
 - Structural stability
@@ -31,6 +30,7 @@ Speaker :  Professor Husam AlShareef
 - Surface by-products (ZHS at higher pH)
 - Irreversible Hydrogen evolution reaction ($2H^+ + 2e^− → H_{2}$)
 - Dendrite formation (risking short circuiting or rupturing the cell)
+
 ![ZIB_Dendrite_types.png](/img/user/ZIB_Dendrite_types.png)
 	_Fig. 2 : Dendrite formation mechanisms_
 

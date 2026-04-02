@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/thermodynamique/"}
+{"dg-publish":true,"permalink":"/thermodynamique/","dg-note-properties":{}}
 ---
 
 
-[[Mnemo Physique\|Mnemo Physique]]
+[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### PCSI
 - Libre parcours moyen -> dist moyen parcouru entre deux chocs
 - Isotrope -> $\exists$ pas direct° privilégié

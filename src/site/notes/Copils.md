@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/copils/"}
+{"dg-publish":true,"permalink":"/copils/","dg-note-properties":{}}
 ---
 
 ## Trois phases

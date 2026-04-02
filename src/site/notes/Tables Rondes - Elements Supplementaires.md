@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tables-rondes-elements-supplementaires/"}
+{"dg-publish":true,"permalink":"/tables-rondes-elements-supplementaires/","dg-note-properties":{}}
 ---
 
 # Tables Rondes - Elements Supplémentaires

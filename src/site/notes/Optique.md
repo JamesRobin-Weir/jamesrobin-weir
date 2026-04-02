@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/optique/"}
+{"dg-publish":true,"permalink":"/optique/","dg-note-properties":{}}
 ---
 
 
-[[Mnemo Physique\|Mnemo Physique]]
+[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### OPTIQUE GÉOMÉTRIQUE
 - Minute d'arc -> $\frac{1}{60}$ de degré, $\frac{\pi}{60*180}$ de radian
 - Seconde d'arc -> $\frac{1}{60}$ de minute d'arc

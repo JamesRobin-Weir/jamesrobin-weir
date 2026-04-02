@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/leakage/"}
+{"dg-publish":true,"permalink":"/leakage/","dg-note-properties":{}}
 ---
 
 ## Définitions

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reunion-mme-sauvage-chinois-culture-chinoise/"}
+{"dg-publish":true,"permalink":"/reunion-mme-sauvage-chinois-culture-chinoise/","dg-note-properties":{}}
 ---
 
 # Préparation au voyage en Chine
@@ -132,7 +132,7 @@ Commission militaire
 - 1978 -> échec du grand bond en avant, nouveau projet : nourrir tout les chinois, favoriser la croissance économique, maintenir le monopole politique du parti communiste chinois. 
 - Cela se fonde sur l'exploitation du travailleur migrand (Nong min gong), dont il y a 30 millions en 1989, < 200 millions ajd
 
-![IMG-20260128-WA0000.jpg|400](/img/user/IMG-20260128-WA0000.jpg)
+![Migong.jpg\|400](/img/user/Migong.jpg)
 
 ### La jeunesse
 **Enfants isolés**

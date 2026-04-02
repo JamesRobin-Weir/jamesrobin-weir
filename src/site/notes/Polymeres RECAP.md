@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/polymeres-recap/"}
+{"dg-publish":true,"permalink":"/polymeres-recap/","dg-note-properties":{}}
 ---
 
 # Tableau Récapitulatif Polymères 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reunion-client-6-10-25/"}
+{"dg-publish":true,"permalink":"/reunion-client-6-10-25/","dg-note-properties":{}}
 ---
 
 # Réunion Client 06.10.25

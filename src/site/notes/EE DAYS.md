@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ee-days/"}
+{"dg-publish":true,"permalink":"/ee-days/","dg-note-properties":{}}
 ---
 
 # Thème 2.3 - Réindustrialisation verte et souveraineté industrielle
@@ -16,11 +16,14 @@ L'exposition énergétique est 4 fois la production annuelle (540 TWh) et de 70%
 
 #### Importation d'énergie
 ![France_imported_energy.png](/img/user/France_imported_energy.png)
+
 - Importe 3x plus qu'on en produit, et surtout du fossil
 - Même en doublant son parc énergétique (nucléaires, éoliennes, hydraulique...), la France ne disposerait pas de suffisamment d’énergie pour produire l’ensemble des biens et services qu’elle consomme
 - Les biens et services importés représentent la moitié de l’empreinte carbone de la France, car elles sont produites avec de énergies fossiles, majoritairement dans d'autres pays européens en en seconde place en Asie
 - Ces produits concernent des secteurs clés comme l’industrie de base (plastique, acier, ciment…), de manufacturière (industrie agroalimentaire, machinerie, automobile…), l’agriculture et la pêche
+
 ![Energies_des_importations_francaises.png](/img/user/Energies_des_importations_francaises.png)
+
 ## Futur
 - 7 des 10 principaux fournisseurs de pétrole de la France risquent de voir leur production fortement décliner d’ici à 2050
 - Mondialement, plus de la moitié du gaz naturel vient des Etats-Unis, en Russie et du Moyen-Orient. D’ici 2050, ce monopole s'accentuera davantage, car la production de la Norvège, de l’Afrique et de l’Amérique du Sud sont en déclin
@@ -32,5 +35,3 @@ L'exposition énergétique est 4 fois la production annuelle (540 TWh) et de 70%
 
 ## Game changer
 - Réindustrialisation verte -> réimplantation industries traditionnelles (délocalisées) vertes par nature ou verdies par de nouvelles technologies
-- On peut resserrer plus ou moins le sujet
-- 
