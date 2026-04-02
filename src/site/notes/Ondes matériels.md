@@ -14,11 +14,7 @@
 - ==Déform milieu mat== -> $P(M,t)=P_0+p_1$ supress° = pression acoustique, $u_1(M,t)$ vitesse, $\rho(M,t)=\rho_0+\rho_1(M,t)$ masse vol
 - Domaines sonores -> infrasons < 20Hz, audibles 20 Hz - kHz, ultrasons > 20 kHz
 - ==Approx acoustique== -> $|p_1|<<P_0$, $|\rho_1|<<\rho_0$ et $|v_1|<<c_{son}$
-- ==Tuyau sonore== (M1) -> $dm=\rho_0Sdx$, au passage onde masse bouge en $[x+\xi(x),x+dx+\xi(x+dx)]$, alors $dm=(\rho_0+\rho_1(x,t))S(\frac{\delta \xi}{\delta x}+1)dx$ => nég $\rho_1 \dot{\xi}$ terme ordre sup $\mu_0 \frac{\delta \xi}{\delta x} = - \mu_1(x,t)$ ==eq1== or $\sum \vec{F}_{lat}=\vec{0}$, PFD $dm \frac{\delta
-{ #2}
- \xi}{\delta x^2} \vec{u}_x=\vec{F}_p(x+dx)+\vec{F}_p(x)$ $=(-P(x+dx)+P(x,t))S\vec{u}_x=-S\frac{\delta P}{\delta x}dx\vec{u}_x$ donc $\rho_0 \frac{\delta
-{ #2}
- \xi}{\delta x^2} =- \frac{\delta p_1}{\delta x}$ ==eq2==
+- ==Tuyau sonore== (M1) -> $dm=\rho_0Sdx$, au passage onde masse bouge en $[x+\xi(x),x+dx+\xi(x+dx)]$, alors $dm=(\rho_0+\rho_1(x,t))S(\frac{\delta \xi}{\delta x}+1)dx$ => nég $\rho_1 \dot{\xi}$ terme ordre sup $\mu_0 \frac{\delta \xi}{\delta x} = - \mu_1(x,t)$ ==eq1== or $\sum \vec{F}_{lat}=\vec{0}$, PFD $dm \frac{\delta^2 \xi}{\delta x^2} \vec{u}_x=\vec{F}_p(x+dx)+\vec{F}_p(x)$ $=(-P(x+dx)+P(x,t))S\vec{u}_x=-S\frac{\delta P}{\delta x}dx\vec{u}_x$ donc $\rho_0 \frac{\delta^2 \xi}{\delta x^2} =- \frac{\delta p_1}{\delta x}$ ==eq2==
 - ==EE acoustique== (M2) -> OG $\frac{v^2/L^*} {v/\tau^*}=\frac{v}{c}$<<1 donc néglige terme convectif, 1ier ordre $\rho_0 \frac{\partial v_1}{\partial t}=-\frac{\partial p_1}{\partial x}$ ==eq2==, eq cons masse $\frac{\partial \rho_1}{\partial t} +\rho_0 \frac{\partial v_1}{\partial x}=0$ ==eq1== 
 - Masse vol GP -> $\rho=nM/V=PM/RT$
 - ==Masse vol gén== -> $\rho(P)=\rho(P°+p_1)$= $\rho_0+p_1\frac{\delta \rho}{\delta P}(P°)$ donc $\rho_1=p_1 \frac{\delta \rho}{\delta P}(P°)=p_1 \rho_0 \chi_0$ ==eq3==
