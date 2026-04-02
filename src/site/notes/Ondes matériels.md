@@ -29,9 +29,7 @@
 - Densité vol $e_c$ -> $e_c(M,t)=\frac{1}{2}\rho_0 v_1^2(M,t)$
 - Densité vol $e_p$ -> $E=\int \int \int e d\tau$ avec $e_p(M,t)=\frac{1}{2}\chi_S p_1^2(M,t)$ 
 - Densité vol e -> $e=e_c+e_p$ 
-- Propagation e -> $\Delta e = \frac{1}{c^2} \frac{\partial
-{ #2}
- e}{\delta t^2}$
+- Propagation e -> $\Delta e = \frac{1}{c^2} \frac{\partial^2e}{\delta t^2}$
 - ==Vect densité courant== -> $\vec{\Pi}=P(M,t)\vec{v_1(M,t)}$ 
 - Puissance traversant surface -> $\mathcal{P}=\int \int \vec{\Pi}\vec{dS}$ 
 - Bilan E -> $\frac{\partial E}{\delta t}=\int \int \int \frac{\partial e}{\delta t} d\tau=-\int \int _{Sfermé} \vec{\Pi}\vec{dS}$ 
