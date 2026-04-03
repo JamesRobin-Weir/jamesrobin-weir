@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/leakage/","dg-note-properties":{}}
 ---
 
-# Weirsite : James Robin-Weir's personal website
-
 ---
 # [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
-## Définitions
+## **Leakage in chemistry**
+## Definitions
 - Electric polarisability : relative tendency of a charge distribution, like the electron cloud of an atom or molecule, to be distorted from its normal shape by an external electric field, measured a the quotient of the induced dipole moment over the electric field strength $\alpha=\dfrac{|p|}{|E|}$ 
 ## Leakage in electronics
 - Leakage is the gradual transfer of electrical energy across a boundary normally viewed as insulating, such as the spontaneous discharge of a charged capacitor or magnetic coupling of a transformer with other components
