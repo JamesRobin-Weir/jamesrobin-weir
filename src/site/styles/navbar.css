@@ -1,8 +1,0 @@
-.internal-embed[alt*="Navbar"],
-.markdown-embed[alt*="Navbar"] {
-  border-left: none !important;
-  padding-left: 0 !important;
-  margin-left: 0 !important;
-  background: transparent !important;
-  box-shadow: none !important;
-}
