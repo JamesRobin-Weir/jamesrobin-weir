@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/electrode-and-electrolyte-engineering-in-aqueous-zinc-ion-batteries/","dg-note-properties":{"aliases":null}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Webinair : Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries
 
 **Speaker :  Professor Husam AlShareef**

@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/isothermes-d-adsorption/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 ## Définitions
 - **Adsorbat** : composé adsorbé sur la surface de l'adsorbant
 - **Adsorbant** : composé solide intervenant dans le processus d’adsorption. Il effectue une catalyse hétérogène e.g. charbon actif, zéolites

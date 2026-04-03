@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/caracterisation-de-batteries/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Caractérisation de batteries
 Sommaire hiérarchisé des principales méthodes de caractérisation des batteries Li-ion / Li métal / Na-ion utilisées en recherche (voir [[Weirsite/Comment comparer differentes batteries\|Comment comparer differentes batteries]] pour les grandeurs fréquemment utilisés) :
 

@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/spectroscopie-d-impedance-electrochimique-sie/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Spectroscopie d'impédance électrochimique (SIE)
 La spectroscopie d’impédance électrochimique (SIE) est une technique de caractérisation d'un système électrochimique (batterie, électrolyseur, pile à combustible) qui consiste à appliquer un signal alternatif de faible amplitude au système électrochimique et à en mesurer la réponse à différentes fréquences.
 

@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/fiche-mnemotechnique-maths/","dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
-
 ---
-# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
---- 
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
 
 ## **Mathématiques Complètes PCSI/PC**
 

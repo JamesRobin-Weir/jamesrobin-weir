@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/fiche-mnemotechnique-chimie/","dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
-
 ---
-# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
 Préface : les molécules sont visualisés sous format SMILES numérique

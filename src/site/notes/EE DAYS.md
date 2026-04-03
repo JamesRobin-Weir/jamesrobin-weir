@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/ee-days/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Thème 2.3 - Réindustrialisation verte et souveraineté industrielle
 
 ## The Shift Project

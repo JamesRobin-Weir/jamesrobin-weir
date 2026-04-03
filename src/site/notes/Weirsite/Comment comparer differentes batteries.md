@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/comment-comparer-differentes-batteries/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Comment comparer différentes batteries?
 Il existe de nombreux standards et grandeurs permettant de caractériser différentes batteries entre eux. Ce qui suit est une survol de quelques-uns souvent rencontrés :
 

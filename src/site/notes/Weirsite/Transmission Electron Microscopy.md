@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/transmission-electron-microscopy/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Microscopie électronique en transmission (MET)
 
 La microscopie électronique à transmission est une technique de microscopie dans laquelle un faisceau d'électrons est transmis à travers un échantillon pour former une image. L'échantillon est le plus souvent une section ultra-mince de moins de 100 nm d'épaisseur ou une suspension sur une grille. Une image est formée à partir de l'interaction des électrons avec l'échantillon lorsque le faisceau est transmis à travers celui-ci.

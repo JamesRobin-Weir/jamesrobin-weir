@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/typical-mines-telecom-presentation/","dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
-
 ---
-# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
 ## Typical Mines Télécom Presentation

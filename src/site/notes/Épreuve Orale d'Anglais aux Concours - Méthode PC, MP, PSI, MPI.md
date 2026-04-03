@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/epreuve-orale-d-anglais-aux-concours-methode-pc-mp-psi-mpi/","dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
-
 ---
-# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
 ## **Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI**

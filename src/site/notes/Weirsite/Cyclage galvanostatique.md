@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/weirsite/cyclage-galvanostatique/","dg-note-properties":{}}
 ---
 
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
+---
+
 # Cyclage galvanostatique
 
 La méthode la plus classique, grâce au cyclage en effectuant un ensemble de cycles de charge décharge pour un ensemble de piles (comportant également des piles témoins), on peut caractériser leur performance en fonction de leur particularité chimique (revêtement, additif à électrolyte...).

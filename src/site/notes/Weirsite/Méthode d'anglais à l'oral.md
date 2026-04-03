@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/weirsite/methode-d-anglais-a-l-oral/","dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
-
 ---
-# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
 ## Méthode d’anglais à l’oral
