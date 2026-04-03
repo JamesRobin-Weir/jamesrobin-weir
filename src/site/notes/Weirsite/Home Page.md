@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/weirsite/home-page/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
+# Weirsite : James Robin-Weir's personal site
 
 ---
 # [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
@@ -18,6 +18,10 @@ I am interested in functional materials for energy and the sustainable chemistry
 **Where to find me:**
 - [Linkedin](www.linkedin.com/in/james-robin-weir-5360a7310)
 - [Github](https://github.com/JamesRobin-Weir)
+
+## What can be found here ?
+
+This website allows me to publish revision notes and method sheets for my [classe préparatoire aux grandes écoles](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) khôlle students in maths and English, as well as updates on internships or research initiatives usually related to materials and energy that I thought might be worth sharing. 
 
 For any inquiries, or for suggestions or feedback regarding my site's revision sheets and articles, please contact me at jamesrobinweir@gmail.com !
 
