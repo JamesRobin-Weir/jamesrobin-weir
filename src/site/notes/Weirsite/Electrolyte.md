@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/weirsite/electrolyte/","dg-note-properties":{}}
 ---
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+# Weirsite : Site Personnel de James Robin-Weir
+
+---
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]] | Test
+---
+
+</div></div>
+
 ## **Electrolyte**
 - An electrolyte is a substance that conducts electricity through the movement of ions, but not through the movement of electrons : this includes most soluble salts, acids, and bases, dissolved in a polar solvent like water. Such a substance is called an ionic conductor.
 - The electrolyte is electrically neutral
