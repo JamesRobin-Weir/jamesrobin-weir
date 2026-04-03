@@ -2,19 +2,12 @@
 {"dg-publish":true,"permalink":"/leakage/","dg-note-properties":{}}
 ---
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-# Weirsite : Site Personnel de James Robin-Weir
+# Weirsite : James Robin-Weir's personal website
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]] | V2
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
-</div></div>
- 
 ## Définitions
 - Electric polarisability : relative tendency of a charge distribution, like the electron cloud of an atom or molecule, to be distorted from its normal shape by an external electric field, measured a the quotient of the induced dipole moment over the electric field strength $\alpha=\dfrac{|p|}{|E|}$ 
 ## Leakage in electronics

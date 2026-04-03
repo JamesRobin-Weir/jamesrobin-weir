@@ -7,10 +7,10 @@
 
 
 
-# Weirsite : Site Personnel de James Robin-Weir
+# Weirsite : James Robin-Weir's personal website
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]] | V2
+# [[Weirsite/Home Page\| Home]] | [[Projects\|Projects]] | [[CPGE\|CPGE]] | [[My carbon footprint\|My carbon footprint]]
 ---
 
 </div></div>
