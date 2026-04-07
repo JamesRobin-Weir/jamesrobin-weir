@@ -17,4 +17,4 @@ With this setup, he does 800 cycles, at which point the cathode half cell goes b
 CC[N+]1(CCCC1)C
 ```
 
-He does not use ion exchange membranes, but cheaper [[AIBN/AIBN - Daramic Polyethylene Separator\|AIBN - Daramic Polyethylene Separator]] which are an industrial product used in lead batteries. The total thickness is 900 micrometers
+He does not use ion exchange membranes, but cheaper [[AIBN/AIBN - Daramic Polyethylene Separator\|Daramic separators]] which are an industrial product used in lead batteries. The total thickness is 900 micrometers, with sub micrometer porosity. 

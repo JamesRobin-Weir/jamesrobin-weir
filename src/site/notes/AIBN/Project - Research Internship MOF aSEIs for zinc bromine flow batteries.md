@@ -17,4 +17,4 @@ The battery system studied uses a [[AIBN/AIBN - Daramic Polyethylene Separator\|
 
 ![AIBN_ZBRBs.png](/img/user/Excalidraw/AIBN_ZBRBs.png)
 
-
+In the context of this system explained here above, thin films of MOF species can be applied in potentially multiple locations via multiple deposition methods. More classically, they can be applied locally on the surface of the zinc anode via spin coating, or 
