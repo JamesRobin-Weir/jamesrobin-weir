@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pig-zi-bs/","dg-note-properties":{}}
 ---
 
-- Entretien client : [[Reunion Client 6.10.25\|Reunion Client 6.10.25]]
+- Entretien client : [[PIG Reunion Client 6.10.25\|PIG Reunion Client 6.10.25]]
 ## Organisation
 - Copils = réunions pr faire point sur theme, voir [[Copils\|Copils]]
 	- Inspiration: 23 oct

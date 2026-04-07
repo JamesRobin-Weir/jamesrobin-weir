@@ -5,7 +5,7 @@
 # Weirsite : Site Personnel de James Robin-Weir
 
 ---
-# [[Home Page \| Home]] [[Projects\|Projects]] [[CPGE\|CPGE]]
+# [[Home Page \| Home]] [[Weirsite/Projects\|Projects]] [[CPGE\|CPGE]]
 ---
 
 # Les Accumulateurs Électrochimiques
