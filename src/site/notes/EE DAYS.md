@@ -26,13 +26,13 @@ L'exposition énergétique est 4 fois la production annuelle (540 TWh) et de 70%
 - Les biens et services importés représentent la moitié de l’empreinte carbone de la France, car elles sont produites avec de énergies fossiles, majoritairement dans d'autres pays européens en en seconde place en Asie
 - Ces produits concernent des secteurs clés comme l’industrie de base (plastique, acier, ciment…), de manufacturière (industrie agroalimentaire, machinerie, automobile…), l’agriculture et la pêche
 
-![Energies_des_importations_francaises.png](/img/user/Energies_des_importations_francaises.png)
+![Energies_des_importations_francaises.png](/img/user/Energies_des_importations_francaises.png)Pasted image 20260108135427
 
 ## Futur
 - 7 des 10 principaux fournisseurs de pétrole de la France risquent de voir leur production fortement décliner d’ici à 2050
 - Mondialement, plus de la moitié du gaz naturel vient des Etats-Unis, en Russie et du Moyen-Orient. D’ici 2050, ce monopole s'accentuera davantage, car la production de la Norvège, de l’Afrique et de l’Amérique du Sud sont en déclin
 
-![Pasted image 20260108135427.png](/img/user/Pasted%20image%2020260108135427.png)
+![Future_energy_usage.png](/img/user/Future_energy_usage.png)
 ## Zenon
 ![Importations_energetiques_europe.png](/img/user/Importations_energetiques_europe.png)
 *Figure - Dépendances aux importations énergétiques des pays de l’Union européenne en 2023 (Eurostat, 2024)*
