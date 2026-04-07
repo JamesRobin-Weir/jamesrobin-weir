@@ -27,7 +27,7 @@ This project, carried out for the IMAP laboratory at ESPCI over a six-month peri
 A six-month project focusing on the history of the periodic table and its adaptation to the needs of scientists working within the context of the sustainable transition in chemistry (green chemistry), carried out for Veolia France.
 
 - Coding of an [interactive website](https://projet-colibri.github.io/) as part of the _Green Chemistry and the Periodic Table_ project, based on a synthesis of academic sources
-- [Series of lectures organised and hosted in Beijing](https://www.linkedin.com/posts/chimiepekin_avec-le-soutien-financier-de-veolia-et-sous-activity-7392092733483405312-fFP6?utm_source=share& utm_medium=member_desktop&rcm=ACoAAE8JHDoBCK5XF3AXqhmDEumK1hWcE4jtWQc) with students from Beijing University of Chemical Technology (BUCT) over a 10-day period as part of the project, with the support of Veolia 
+- [Series of lectures organised and hosted in Beijing](https://www.linkedin.com/posts/chimiepekin_avec-le-soutien-financier-de-veolia-et-sous-activity-7392092733483405312-fFP6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8JHDoBCK5XF3AXqhmDEumK1hWcE4jtWQc) with students from Beijing University of Chemical Technology (BUCT) over a 10-day period as part of the project, with the support of Veolia 
 
 ## **École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)**
 ### **UROP research placement at the [Soft Matter Science and Engineering (SIMM)](https://www.simm.espci.fr/-Home-.html) laboratory at ESPCI**
