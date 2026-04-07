@@ -15,28 +15,6 @@ For an introduction to the ongoing research in the field of zinc bromine flow ba
 
 The battery system studied uses a [[AIBN/AIBN - Daramic Polyethylene Separator\| Daramic seperator]], often sprayed with a [[AIBN/AIBN - Nafion\|AIBN - Nafion]] solubilised in ethanol, sandwiched in between two functionalised porous carbon felt pads in which flows the anolyte (negative electrolyte) and catholyte (positive electrolyte) on their respective sides. Whilst zinc metal is oxidised to $Zn^{2+}$ on the anode side, bromide ions are reduced to bromine gas remains in solution via a complexing agent, 1-ethyl-1-methylpyrrolidinium. 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Ion exchange membrane / Daramic 
-Graphite felt (porous to catholyte) 
-Brome catholyte 
-Zinc anolyte 
-Graphite felt (porous to anolyte) 
-Anode (zinc) 
-e⁻ 
-
-
-</div></div>
-
+![AIBN_ZBRBs.png](/img/user/Excalidraw/AIBN_ZBRBs.png)
 
 
