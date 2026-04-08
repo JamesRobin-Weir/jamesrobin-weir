@@ -37,8 +37,20 @@ _Source : 10.1016/j.jpowsour.2012.11.033_
 #### Carbon Nanotube (CNT) filling
 In order to limite the bromine diffusion, CNTs are added in the fill of the pores of the Daramic membrane to inhibit the crossover of bromine species, with [[AIBN/AIBN - Nafion\|nafion]] ionomer as the pore filling agent.
 
+---
+## Sulfonated poly (ether ether ketone) (SPEEK) membrane
 
+Speek is a hydrocarbon-based membrane that is widely used in fuel cells and vanadium redox flow batteries as an ion-exchange membrane with excellent chemical, thermal stability, and low cost. The sulfonate anions of SPEEK are fixed on the polymer backbone, with only the counter-cations being mobile. 
+
+![AIBN_SPEEK_membrane.png](/img/user/AIBN_SPEEK_membrane.png)
+
+Immersion of the SPEEK membrane in an electrolytic solution containing ZnCl2 results in replacement of the H⁺ ions with Zn²⁺ ions through the ion-exchange process. However, in ZBFBs, due to its harsh nature, bromine permeates through the SPEEK membrane and attacks the sulfonate group, leading to low membrane durability. 
+
+---
 
 Further reading : 
 - https://asianbatteryconference.com/wp-content/uploads/sites/28/2023/05/Wednesday-Jorg-Deiters.pdf 
 - https://chemisting.com/2023/06/03/an-improved-diy-cation-exchange-membrane-with-less-degradation-using-a-daramic-pe-microporous-separator-as-base/
+
+Sources : Synthesis and characterization of highly durable hydrocarbon-based
+composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821

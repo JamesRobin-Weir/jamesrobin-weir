@@ -13,7 +13,7 @@ This project builds on a previous research project, [[Weirsite/Project - Enhanci
 
 For an introduction to the ongoing research in the field of zinc bromine flow batteries, refer to [[AIBN/AIBN - Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters\|AIBN - Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters]], a synthesis of a 2023 review. 
 
-The battery system studied uses a [[AIBN/AIBN - Separator\| Daramic seperator]], often sprayed with a [[AIBN/AIBN - Nafion\| Nafion polymer]] solubilised in ethanol, sandwiched in between two functionalised porous carbon felt pads in which flows the anolyte (negative electrolyte) and catholyte (positive electrolyte) on their respective sides. Whilst zinc metal is oxidised to $Zn^{2+}$ on the anode side, bromide ions are reduced to bromine gas remains in solution via a complexing agent, 1-ethyl-1-methylpyrrolidinium. 
+The battery system studied uses a [[AIBN/AIBN - Separator\| Daramic seperator]], often sprayed with a [[AIBN/AIBN - Nafion\| Nafion polymer]] solubilised in ethanol, sandwiched in between two functionalised porous carbon felt pads in which flows the anolyte (negative [[Weirsite/Electrolyte\|electrolyte]]) and catholyte (positive electrolyte) on their respective sides. Whilst zinc metal is oxidised to $Zn^{2+}$ on the anode side, bromide ions are reduced to bromine gas remains in solution via a complexing agent, 1-ethyl-1-methylpyrrolidinium. 
 
 ![AIBN_ZBRBs.png](/img/user/Excalidraw/AIBN_ZBRBs.png)
 
@@ -26,5 +26,5 @@ The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve t
 1) Dry mechano-sythesis of MOF + binder via ball mill, then usage of a slurry to avoid membrane dissolution
 2) Simply changing the solvent to avoid membrane dissolution
 
-In addition, it will be worth investigating the film application from the following methods: simple doctored blade application, usage of a spray bottle, or spin coating.
+In addition, it will be worth investigating the film application from the following methods: simple doctored blade application (or slot-die coating), usage of a spray bottle, or spin coating.
 
