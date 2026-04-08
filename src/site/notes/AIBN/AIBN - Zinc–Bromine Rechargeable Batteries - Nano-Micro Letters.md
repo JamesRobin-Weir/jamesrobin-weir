@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aibn/aibn-zinc-bromine-rechargeable-batteries-nano-micro-letters/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/aibn/aibn-zinc-bromine-rechargeable-batteries-nano-micro-letters/","dg-note-properties":{"aliases":["ZBRB","ZBRBs"]}}
 ---
 
 ---
@@ -134,4 +134,4 @@ e⁻
 - operando measurement = taken while a battery is operating (cycling)
 - in situ measurement (meaning on site) = measuring a variable against a parameter relevant to the system, such as time, temperature, pressure or other variables, to minimise its degradation
 
-![Pasted image 20260406205131.png](/img/user/AIBN/Pasted%20image%2020260406205131.png)
+![Overview_ZBRBs.png](/img/user/AIBN/Overview_ZBRBs.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aibn/aibn-nafion/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/aibn/aibn-nafion/","dg-note-properties":{"aliases":["Nafion"]}}
 ---
 
 ---

@@ -26,3 +26,4 @@ The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve t
 - Vary the solvent to avoid membrane dissolution
 - Usage of a slurry to avoid membrane dissolution
 - Doctored blade versus spray bottle versus spin coating for MOF deposition
+

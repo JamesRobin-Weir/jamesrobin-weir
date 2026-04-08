@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weirsite/projects/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/weirsite/projects/","tags":["linker-exclude"],"dg-note-properties":{"aliases":null,"tags":["linker-exclude"]}}
 ---
 
 ---
