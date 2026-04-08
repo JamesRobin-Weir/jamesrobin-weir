@@ -34,6 +34,8 @@ In addition, it will be worth investigating the film application from the follow
 
 In order to quantify their effects, film homogeneity will be evaluated via optical microscopy and thickness via a micrometer caliper. If possible, SEM imaging would help confirm suspicions established via these macro methods. 
 
+Once completed, the stable binder + MOF combinations can be evaluated on their effect on bromine diffusion across the separator. 
+
 ## Protocoles
 ### H-cell diffusion experiment
 
