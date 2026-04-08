@@ -21,10 +21,46 @@ In the context of this system explained here above, thin films of MOF species ca
 
 In order to use MOF in the $ZrBr_2$ anolyte/catolyte half cells, the latter notably containing agressive bromide ions, chemical and electrochemical stability test will be carried out. 
 
-The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve the membrane : therefore new MOF plus binder combinations, or new MOF synthesis, must be explored. Potential alternatives are listed below.
+The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve the membrane : therefore new MOF plus binder combinations, or new MOF synthesis, must be explored. Potential alternatives are listed below :
 
-1) Dry mechano-sythesis of MOF + binder via ball mill, then usage of a slurry to avoid membrane dissolution
+1) Dry mechano-sythesis of MOF + binder via ball mill, then usage of a slurry to avoid excessive membrane dissolution
 2) Simply changing the solvent to avoid membrane dissolution
 
 In addition, it will be worth investigating the film application from the following methods: simple doctored blade application (or slot-die coating), usage of a spray bottle, or spin coating.
+
+## Protocoles
+### H-cell diffusion experiment
+
+Necessary to create a calibration spectrum for complexed bromine first using different concentrations of ZnBr2. Identify $\lambda_{max}$ .
+
+Using a two-compartment diffusion cell with membrane area known accurately, compare bromine cross over for :
+- bare Daramic
+- Nafion/ethanol benchmark coating
+- binder-only coating on top of Daramic
+- MOF+binder thin film on top of Daramic
+
+#### Donor side
+Charged-state catholyte simulant containing:
+- ZnBr$_2$
+- bromine complexing agent
+- known bromine/polybromide concentration
+#### Receiver side
+Matching ZnBr$_2$ anolyte **without free bromine/polybromide**
+### Procedure
+
+![AIBN_Bromine_Crossover_Quantification.png](/img/user/Excalidraw/AIBN_Bromine_Crossover_Quantification.png)
+
+1. Install membrane with attention to coating orientation
+2. Sample receiver side after 0, $\dfrac12$ , 1, 2, 4, 8 and 24 hours
+3. Replace sampled volume with fresh receiver electrolyte if necessary depending on total electrolyte volume in cell
+
+### Analysis
+
+Quantify bromine crossover by **UV-vis** of tribromide/polybromide, using reference spectrum.
+
+Calculate:
+- cumulative crossover
+- steady-state flux
+- apparent permeability
+- permeability normalized by film thickness
 
