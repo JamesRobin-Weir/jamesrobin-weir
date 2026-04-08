@@ -19,7 +19,7 @@ The battery system studied uses a [[AIBN/AIBN - Separator\| Daramic seperator]],
 
 In the context of this system explained here above, thin films of MOF species can be applied in potentially multiple locations via multiple deposition methods. More classically, they can be applied locally on the surface of the zinc anode via spin coating, doctor blade or simply a spray bottle (viscosity allowing). However, dendrite growth often occurs within the graphite felt matrix on the side closest to the separator. A MOF coating could therefore be applied to the zinc side of the separator. This could potentially also reduce bromine diffusion between the half cells, which should ideally be isolated from one another. 
 
-In order to use MOF in the $ZrBr_2$ anolyte/catolyte half cells, the latter notably containing agressive bromide ions, chemical and electrochemical stability test will be carried out, in acid conditions as usual electrolyte pH is in the 2-4 range.
+In order to use MOF in the $ZrBr_2$ anolyte/catolyte half cells, the latter notably containing agressive bromide ions, chemical and electrochemical stability test will be carried out. The electrolyte mainly consists of 1-2M ZnBr2 with KCl and ZnCl2 as supporting salts, and the pH is typically in the range of 2-5.
 
 The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve the membrane : therefore new MOF plus binder combinations, must be explored. Potential alternatives are listed below :
 
