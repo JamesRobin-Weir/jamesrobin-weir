@@ -90,6 +90,8 @@ Zinc anolyte
 Graphite felt (porous to anolyte) 
 Anode (zinc) 
 e⁻ 
+ZINC BROMINE FLOW BATTERY SCHEMATIC 
+PUMPS 
 
 
 </div></div>
