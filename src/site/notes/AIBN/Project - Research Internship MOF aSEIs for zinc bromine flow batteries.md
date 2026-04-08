@@ -21,10 +21,11 @@ In the context of this system explained here above, thin films of MOF species ca
 
 In order to use MOF in the $ZrBr_2$ anolyte/catolyte half cells, the latter notably containing agressive bromide ions, chemical and electrochemical stability test will be carried out. 
 
-The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve the membrane : therefore new MOF plus binder combinations, or new MOF synthesis, must be explored. Potential alternatives are listed below :
+The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve the membrane : therefore new MOF plus binder combinations, must be explored. Potential alternatives are listed below :
 
-1) Dry mechano-sythesis of MOF + binder via ball mill, then usage of a slurry to avoid excessive membrane dissolution
-2) Simply changing the solvent to avoid membrane dissolution
+1) Usage of a slurry to avoid excessive membrane dissolution
+2) Changing the solvent to avoid membrane dissolution (usage of alternative water soluble binders)
+3) MOF + nafion combination, as this polymer is a proven choice for daramic coatings
 
 In addition, it will be worth investigating the film application from the following methods: simple doctored blade application (or slot-die coating), usage of a spray bottle, or spin coating.
 
