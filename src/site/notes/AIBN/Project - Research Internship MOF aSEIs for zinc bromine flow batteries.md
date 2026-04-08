@@ -98,8 +98,9 @@ Assemble a battery stack : Zn | anolyte | coated separator | catholyte simulant 
 
 - protrusions at the separator surface
 - zinc penetration into separator pores
-- localized metallic bridges
+- localised metallic bridges
 
 Because the site notes that dendrites often develop in the graphite felt region nearest the separator, this can be repeated after instead coating that region with MOF.
+
 ---
 
