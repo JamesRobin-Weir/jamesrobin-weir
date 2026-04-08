@@ -32,7 +32,7 @@ In addition, it will be worth investigating the film application from the follow
 2) usage of a spray bottle
 3) spin coating
 
-In order to quantify their effects, film homogeneity will be evaluated via optical microscopy and thickness via a micrometer caliper. 
+In order to quantify their effects, film homogeneity will be evaluated via optical microscopy and thickness via a micrometer caliper. If possible, SEM imaging would help confirm suspicions established via these macro methods. 
 
 ## Protocoles
 ### H-cell diffusion experiment
