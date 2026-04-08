@@ -37,8 +37,7 @@ In order to quantify their effects, film homogeneity will be evaluated via optic
 Once completed, the stable binder + MOF combinations can be evaluated on their effect on bromine diffusion across the separator
 
 ---
-## Protocoles
-### H-cell diffusion experiment
+## Protocole : H-cell diffusion experiment
 
 Necessary to create a calibration spectrum for complexed bromine first using different concentrations of ZnBr2. Identify $\lambda_{max}$ . Verify the effects of poly-bromine species on absorption spectra, make a matching reference spectrum if possible. 
 
@@ -72,5 +71,35 @@ Calculate:
 - apparent permeability
 - permeability normalised by film thickness
 
+---
+## Protocole : dendrite suppression testing
+
+Zinc dendrites are a core failure mode, often growing towards the membrane. Therefore constant-current experiments shall be used as a rapid morphology screen before closer inspection, in order to eliminate low performance MOF + binder combinations. 
+
+### A. Quick-screen chronopotentiometry
+
+Prepare a coated Zn or coated separator in a Zn deposition cell, then :
+
+1. Apply constant cathodic current for 15–30 min
+2. Stop immediately on abrupt voltage excursion (chose a maximum value)
+3. Rinse and inspect by optical microscopy
+
+### B. Extended plating morphology test
+
+1. Plate Zn at fixed current density to a defined areal capacity.
+2. Remove sample.
+3. Inspect via optical microscopy :
+   - top surface
+   - separator-facing side
+   - cross-section if possible
+### C. Separator-blocking configuration
+
+Assemble a battery stack : Zn | anolyte | coated separator | catholyte simulant or matched electrolyte, then run repeated plating/stripping to see whether the coating suppresses:
+
+- protrusions at the separator surface
+- zinc penetration into separator pores
+- localized metallic bridges
+
+Because the site notes that dendrites often develop in the graphite felt region nearest the separator, this can be repeated after instead coating that region with MOF.
 ---
 
