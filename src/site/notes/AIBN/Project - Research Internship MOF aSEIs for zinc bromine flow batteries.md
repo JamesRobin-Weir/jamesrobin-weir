@@ -27,7 +27,12 @@ The PVDF + NMP mixture used in the previous project for the ESPCI may dissolve t
 2) Changing the solvent to avoid membrane dissolution (usage of alternative water soluble binders)
 3) MOF + nafion combination, as this polymer is a proven choice for daramic coatings
 
-In addition, it will be worth investigating the film application from the following methods: simple doctored blade application (or slot-die coating), usage of a spray bottle, or spin coating.
+In addition, it will be worth investigating the film application from the following methods: 
+1) simple doctored blade application (or slot-die coating)
+2) usage of a spray bottle
+3) spin coating
+
+In order to quantify their effects, film homogeneity will be evaluated via optical microscopy and thickness via a micrometer caliper. 
 
 ## Protocoles
 ### H-cell diffusion experiment
