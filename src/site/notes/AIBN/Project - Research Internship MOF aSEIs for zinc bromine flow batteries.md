@@ -37,9 +37,9 @@ In order to quantify their effects, film homogeneity will be evaluated via optic
 Once completed, the stable binder + MOF combinations can be evaluated on their effect on bromine diffusion across the separator
 
 ---
-## Protocole : H-cell diffusion experiment
+## Protocol : H-cell diffusion experiment
 
-Necessary to create a calibration spectrum for complexed bromine first using different concentrations of ZnBr2. Identify $\lambda_{max}$ . Verify the effects of poly-bromine species on absorption spectra, make a matching reference spectrum if possible. 
+Necessary to create a calibration spectrum for complexed bromine first using different concentrations of $\text{ZnBr}_2$. Identify $\lambda_{max}$ . Verify the effects of poly-bromine species on absorption spectra, make a matching reference spectrum if possible. 
 
 Using a two-compartment diffusion cell with membrane area known accurately, compare bromine cross over for :
 - bare Daramic
@@ -72,7 +72,7 @@ Calculate:
 - permeability normalised by film thickness
 
 ---
-## Protocole : dendrite suppression testing
+## Protocol : dendrite suppression testing
 
 Zinc dendrites are a core failure mode, often growing towards the membrane. Therefore constant-current experiments shall be used as a rapid morphology screen before closer inspection, in order to eliminate low performance MOF + binder combinations. 
 

@@ -29,7 +29,7 @@ For industrial battery separator families from Daramic/DARAK, the manufacturer d
 #### Activated carbon coating
 Activated carbon can be applied to the Daramic membrane in order to decrease the internal resistance of the cell, as can be seen from the Nyquist plots.
 
-Protocol : A piece of Daramic microporous membrane with a thickness of 200 mm was used as the substrate for carbon coating. The activated carbon layer was prepared by spraying carbon ink onto the surface of microporous membrane with loading of 5 mg cm⁻². The carbon ink was made by dispersing activated carbon and 0.05 wt% naﬁon solution based on the desired ratios in ethanol under a strong ultrasonication. At last the CCM was dried at 70°C for 4 h.
+**Protocol :** A piece of Daramic microporous membrane with a thickness of 200 mm was used as the substrate for carbon coating. The activated carbon layer was prepared by spraying carbon ink onto the surface of microporous membrane with loading of 5 mg cm⁻². The carbon ink was made by dispersing activated carbon and 0.05 wt% naﬁon solution based on the desired ratios in ethanol under a strong ultrasonication. At last the CCM was dried at 70°C for 4 h.
 
 ![Carbon_Coated_Membrane.png](/img/user/AIBN/Carbon_Coated_Membrane.png)
 

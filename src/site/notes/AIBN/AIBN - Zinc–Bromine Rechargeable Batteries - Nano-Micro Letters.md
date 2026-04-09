@@ -8,19 +8,20 @@
 
 [[AIBN/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
 
-## Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters (2023)
+## Zinc-Bromine Rechargeable Batteries - Nano-Micro Letters (2023)
 
 ### Glossary, safety and general information
 - GF = Graphite Felt
 - Anolyte : gives up $e⁻$
 - Catholyte : accepts $e⁻$
 - Membrane : lets $p⁺$ through
-- An aqueous solution of ZnBr2 (1-4 M) is used as the electrolyte in most ZBRBs
-- ZBRBs are hybrid batteries : some of the energy is stored at the negative electrode (anode) via metallic zinc plated during the charging phase, while the remaining energy is stored in a liquid phase at the catholyte.
-- $ZnBr_2$ in aqueous electrolyte is a common system
-- Two configurations : static (cheaper, no pump/maintenance) and flow (higher efficiency)
-- Bromine smells like bleach
+- An aqueous solution of dissolved $\text{ZnBr}_2$ 1-4 M) is used as the electrolyte in most ZBRBs
+- Bromine smells like bleach, and $Br_3⁻$ or polyhalide ions are highly oxidising
 - Bromine shuttle eﬀect : diffusion of polybromide ions (resulting from $\text{Br}_2$ binding with $\text{Br}⁻$) from cathode to anode, leading to battery degradation (self discharge, capacity fade)
+
+---
+
+Zinc bromine rechargeable batteries (ZBRBs) are hybrid batteries : some of the energy is stored at the negative electrode (anode) via metallic zinc plated during the charging phase, while the remaining energy is stored in a liquid phase at the catholyte. They come in two configurations : static (cheaper, no pumping and lesser maintenance) and flow (higher efficiency). This study concentrates on flow ZBRBs. 
 
 ### Limitations of the technology
 1) Zinc dendrite growth resulting from repeated electroplating and stripping of zinc that can pierce the membrane and eventually forms a conductive bridge between the electrodes (shorting)
@@ -137,11 +138,11 @@ In practical batteries much of the bromine inventory is stored in these complexe
 ---
 ### Electrolyte
 
-On top of ZnBr2, supporting secondary salts (e.g. ZnCl2 and KCl) are normally used to promote ionic conductivity and lower internal resistance due to the low conductivity of zinc–bromide solution, thereby increasing the battery’s energy efficiency
+On top of $\text{ZnBr}_2$, supporting secondary salts (e.g. $\text{ZnCl}_2$ and KCl) are normally used to promote ionic conductivity and lower internal resistance due to the low conductivity of zinc–bromide solution, thereby increasing the battery’s energy efficiency
 
 ---
 ### Membrane
-- Must minimise the diffusion of Br2 to the electroplated zinc, which causes self-discharge and lower CE for the system
+- Must minimise the diffusion of $\text{Br}_2$ to the electroplated zinc, which causes self-discharge and lower CE for the system
 - In terms of morphology, membranes can be generally classified into porous and ion-exchange membranes (e.g. Nafion®), which are both appropriate and capable of separating the anode and cathode electrolytes in ZBFBs.
 	- Porous membranes are defined as macroporous (> 50 nm), mesoporous (2–50 nm) or microporous (0.2–2 nm) depending on their average pore diameter, while non-porous membranes transport ions via solution–diffusion mechanisms
 
