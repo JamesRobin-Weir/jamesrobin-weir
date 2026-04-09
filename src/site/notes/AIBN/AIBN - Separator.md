@@ -3,7 +3,7 @@
 ---
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
 ## ZBRB Separator
 t is necessary to keep both compartments of the half cell separate with regards to zinc metal and bromine gas, in order to avoid self discharge (see figure below), whilst still allowing for ion transport.
@@ -30,7 +30,7 @@ Activated carbon can be applied to the Daramic membrane in order to decrease the
 
 Protocol : A piece of Daramic microporous membrane with a thickness of 200 mm was used as the substrate for carbon coating. The activated carbon layer was prepared by spraying carbon ink onto the surface of microporous membrane with loading of 5 mg cm⁻². The carbon ink was made by dispersing activated carbon and 0.05 wt% naﬁon solution based on the desired ratios in ethanol under a strong ultrasonication. At last the CCM was dried at 70°C for 4 h.
 
-![Carbon_Coated_Membrane.png](/img/user/Carbon_Coated_Membrane.png)
+![Carbon_Coated_Membrane.png](/img/user/AIBN/Carbon_Coated_Membrane.png)
 
 _Source : 10.1016/j.jpowsour.2012.11.033_
 

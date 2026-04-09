@@ -4,7 +4,7 @@
 
 - Entretien client : [[PIG Reunion Client 6.10.25\|PIG Reunion Client 6.10.25]]
 ## Organisation
-- Copils = réunions pr faire point sur theme, voir [[Copils\|Copils]]
+- Copils = réunions pr faire point sur theme, voir [[ESPCI PIG/Copil PIG\|Copil PIG]]
 	- Inspiration: 23 oct
 - 27 novembre proposition
 
@@ -26,7 +26,7 @@
 SELS MIXTES : Li/Zn
 - By employing a pH neutral 20 m LiTFSI + 1 m Zn(TFSI) 2 salt mixture in water as the electrolyte, Wang et al. demonstrated dendrite-free cycling of a Zn anode with nearly 100% Coulombic efficiency. Molecular dynamics calculations further revealed that in this highly concentrated electrolyte, the TFSI anion completely eliminates H2O from the Zn 2+ solvation shell (Figure 10B), which not only suppresses H 2 evolution at low voltages but also prohibits O 2 evolution with a high-voltage cathode such as LiMn2O4
 ## Copils
-Rencontre pédagogique ou nous présentons l'avancé de notre projet dans différentes pphases. Voir [[Copils\|Copils]] pour plus d'informations.
+Rencontre pédagogique ou nous présentons l'avancé de notre projet dans différentes pphases. Voir [[ESPCI PIG/Copil PIG\|Copil PIG]] pour plus d'informations.
 
 ## Fonctionnement des piles
 - On reste milieu basique afin de ne pas solubiliser le zinc => agents modifiants peuvent modifier le pH, attention

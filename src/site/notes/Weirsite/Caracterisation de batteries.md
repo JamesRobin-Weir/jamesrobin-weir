@@ -3,7 +3,7 @@
 ---
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
 
 # Caractérisation de batteries
