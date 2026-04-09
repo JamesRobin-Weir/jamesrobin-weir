@@ -19,7 +19,7 @@
 - $\vec{M}(\vec{f})=\vec{OM} \wedge \vec{f}$    mf Ô mf
 - Loi lenz -> $i_{induit}$ tends par $\vec{B}_{induit}$ modérer variation de $\phi (\vec{B})=L.i +M.i_{autres bobines}$ 
 - Inductance mutuelle -> $[M]=H$
-- Loi de Faraday: $e_{induit}=- \frac{\partial \phi (\vec{B})}{\partial t}$ 
+- Loi de Faraday : $e_{induit}=- \frac{\partial \phi (\vec{B})}{\partial t}$ 
 - P=Ui=-$e_{induit}i$=$\frac{\partial \frac{1}{2} Li^{2}}{\partial t}$ donc $E_L=\frac{1}{2} Li^{2}$ 
 - $I=\int \int \vec{j} \vec{dS}$ 
 ##### ÉLECTROSTATIQUE
