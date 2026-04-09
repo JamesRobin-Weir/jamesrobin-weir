@@ -5,6 +5,7 @@
 ---
 # [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
+
 ## ZBRB Separator
 t is necessary to keep both compartments of the half cell separate with regards to zinc metal and bromine gas, in order to avoid self discharge (see figure below), whilst still allowing for ion transport.
 

@@ -20,6 +20,7 @@
 - $ZnBr_2$ in aqueous electrolyte is a common system
 - Two configurations : static (cheaper, no pump/maintenance) and flow (higher efficiency)
 - Bromine smells like bleach
+- Bromine shuttle eﬀect : diffusion of polybromide ions (resulting from $\text{Br}_2$ binding with $\text{Br}⁻$) from cathode to anode, leading to battery degradation (self discharge, capacity fade)
 
 ### Limitations of the technology
 1) Zinc dendrite growth resulting from repeated electroplating and stripping of zinc that can pierce the membrane and eventually forms a conductive bridge between the electrodes (shorting)
