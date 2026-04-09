@@ -40,7 +40,7 @@
 - VFRB (vanadium) are well-developed and commercialised
 - ZBFB has substantial advantages over other flow batteries, such as high energy density, high cell voltage and the low cost of the materials
 
-![ZBRB_schema.png](/img/user/ZBRB_schema.png)
+![ZBRB_schema.png](/img/user/AIBN/ZBRB_schema.png)
 
 - Negative electrode (zinc), positive electrode (bromine), separated by a membrane to prevent cross-contamination. 
 - Two tanks of aqueous electrolyte solutions (anolyte and catholyte) contain electrochemically active species, including zinc (Zn2+) and bromide (Br-)
@@ -51,7 +51,7 @@
 #### (Parasitic) Reactions
 - Zn 2+ + 2e− → Zn 0 (Charging)
 - Zn 0 → Zn 2+ + 2e− (Discharging) (E◦= −0.763 vs SHE at 25 ◦C)
-![ZBRB_parasitic.png](/img/user/ZBRB_parasitic.png)
+![ZBRB_parasitic.png](/img/user/AIBN/ZBRB_parasitic.png)
 
 Page 8 : 
 - Lex and Matthews emphasised the necessity to strip the zinc in ZBRBs for extended periods to ensure a smooth electrode surface for next zinc deposition.
@@ -117,12 +117,26 @@ PUMPS
 ---
 ### Bromine half-cell
 
-- 2Br− → Br2 + 2e− (Charging)
-- Br2 + 2e− → 2Br− (Discharging)
+In a Zn–Br flow battery, the fundamental positive-electrode electron-transfer reaction is usually written as :
+
+- 2$\text{Br}⁻$ → $\text{Br}_2$ + 2e⁻ (Charging)
+- $\text{Br}_2$ + 2e⁻ → 2$\text{Br}⁻$ (Discharging)
+
+However, $Br_3^- / Br^-$ appears in the literature because once $\mathrm{Br_2}$ is formed in a bromide-rich aqueous electrolyte, it rapidly undergoes the equilibrium $\mathrm{Br_2} + \mathrm{Br^-} \rightleftharpoons \mathrm{Br_3^-}$
+
+So the same cathode chemistry is often written in the overall form:
+
+- $3\,\mathrm{Br^-} \rightarrow \mathrm{Br_3^-} + 2e^-$ (Charging)
+- $\mathrm{Br_3^-} + 2e^- \rightarrow 3\,\mathrm{Br^-}$ (Discharging)
+
+Conceptually, at the electrode bromide is oxidized to bromine. Then, in the electrolyte, bromine is redistributed into dissolved/complexed bromine species, especially $\mathrm{Br_3^-}$, and at higher bromine loading also higher polybromides such as $\mathrm{Br_5^-}$ and $\mathrm{Br_7^-}$.
+
+In practical batteries much of the bromine inventory is stored in these complexed forms rather than as “free” $\mathrm{Br_2}$.
 
 ---
 ### Electrolyte
-- On top of ZnBr2, supporting secondary salts (e.g. ZnCl2 and KCl) are normally used to promote ionic conductivity and lower internal resistance due to the low conductivity of zinc–bromide solution, thereby increasing the battery’s energy efficiency
+
+On top of ZnBr2, supporting secondary salts (e.g. ZnCl2 and KCl) are normally used to promote ionic conductivity and lower internal resistance due to the low conductivity of zinc–bromide solution, thereby increasing the battery’s energy efficiency
 
 ---
 ### Membrane

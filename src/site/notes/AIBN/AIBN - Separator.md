@@ -8,7 +8,7 @@
 ## ZBRB Separator
 t is necessary to keep both compartments of the half cell separate with regards to zinc metal and bromine gas, in order to avoid self discharge (see figure below), whilst still allowing for ion transport.
 
-![ZBRB_self_discharge.png](/img/user/Excalidraw/ZBRB_self_discharge.png)
+![ZBRB_self_discharge.png](/img/user/AIBN/ZBRB_self_discharge.png)
 
 Hence, a cost-effective ion-exchange membrane preventing positive and negative electrolytes from cross-mixing while transporting Zn²⁺ and Br⁻ is a key requirement of ZBFBs.
 ## Daramic Polyethylene Separator
@@ -52,5 +52,5 @@ Further reading :
 - https://asianbatteryconference.com/wp-content/uploads/sites/28/2023/05/Wednesday-Jorg-Deiters.pdf 
 - https://chemisting.com/2023/06/03/an-improved-diy-cation-exchange-membrane-with-less-degradation-using-a-daramic-pe-microporous-separator-as-base/
 
-Sources : Synthesis and characterization of highly durable hydrocarbon-based
-composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821
+Sources : 
+- Synthesis and characterization of highly durable hydrocarbon-based composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821

@@ -8,7 +8,7 @@
 
 ## **What is an SEI (Solid Electrolyte Interphase) ?**
 
-During Lithium Metal Battery (LMB) operation, an interphase passivation film (SEI) is formed between the Li metal phase and the [[Weirsite/Electrolyte\|Electrolyte]] phase by spontaneous chemical reactions and electrochemical reductions of the latter. 
+During Lithium Metal Battery (LMB) operation, an interphase passivation film (SEI) is formed between the Li metal phase and the [[Weirsite/ZIB - Electrolyte\|ZIB - Electrolyte]] phase by spontaneous chemical reactions and electrochemical reductions of the latter. 
 
 ![Ideal_SEI.png](/img/user/Ideal_SEI.png)
 
@@ -21,7 +21,7 @@ Despite their significance, SEIs are not well understood due to their low thickn
 - prevents continuous reactions between the non-aqueous electrolyte and the alkali metal anode
 - Caractérisés par : electronic conduction, ionic conduction, stability, and mechanical properties
 
-![SEI_schema.png](/img/user/Excalidraw/SEI_schema.png)
+![ZIB_SEI_schema.png](/img/user/Excalidraw/ZIB_SEI_schema.png)
 
 ## Uniformité 
 Non-uniform SEI results in lower resistance spots which Li-ions would preferentially travel through. When this happens, Li-ion flux along the length of the electrode is uneven and there is a buildup of ions at particular spots on the electrode. At these localized spots, the surface potential drops and results in lithium plating since at lower potentials, it is more kinetically favorable to plate metallic lithium than intercalate lithium. This could result in dendrite formation and affect the safety and lifespan of the battery. 
