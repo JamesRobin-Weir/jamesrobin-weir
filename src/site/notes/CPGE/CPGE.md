@@ -18,7 +18,7 @@ Pour les documents de khôlle, ou pour toute autre question, je suis joignable �
 #### **Épreuves d'Anglais aux Concours**
 Pour les concours, voici des fiches méthode, modèles de présentation personnel, ainsi que des extraits commentés des rapports du jury des différents concours.
 
-- Fiche méthode pour les oraux : [[Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI\|Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI]]
+- Fiche méthode pour les oraux : [[CPGE/Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI\|Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI]]
 - Exemple de présentation type Mines Télécom : [[CPGE/Typical Mines Télécom Presentation\|Typical Mines Télécom Presentation]]
 
 ## **Mathématiques PCSI/PC**
