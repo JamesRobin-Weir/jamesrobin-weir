@@ -6,8 +6,6 @@
 # [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
 
-[[AIBN/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
-
 ## Zinc-Bromine Rechargeable Batteries - Nano-Micro Letters (2023)
 
 ### Glossary, safety and general information
@@ -149,7 +147,7 @@ On top of $\text{ZnBr}_2$, supporting secondary salts (e.g. $\text{ZnCl}_2$ and 
 ---
 
 ### Characterisation (page 22)
-- operando measurement = taken while a battery is operating (cycling)
-- in situ measurement (meaning on site) = measuring a variable against a parameter relevant to the system, such as time, temperature, pressure or other variables, to minimise its degradation
+- Operando measurement = taken while a battery is operating (cycling)
+- In situ measurement (meaning on site) = measuring a variable against a parameter relevant to the system, such as time, temperature, pressure or other variables, to minimise its degradation
 
 ![Overview_ZBRBs.png](/img/user/AIBN/Overview_ZBRBs.png)

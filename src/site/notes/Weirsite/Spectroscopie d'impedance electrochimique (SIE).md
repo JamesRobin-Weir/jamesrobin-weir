@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weirsite/spectroscopie-d-impedance-electrochimique-sie/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/weirsite/spectroscopie-d-impedance-electrochimique-sie/","dg-note-properties":{"aliases":["SIE"]}}
 ---
 
 ---
