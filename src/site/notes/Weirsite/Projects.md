@@ -13,14 +13,14 @@
 Building on previous research projects, this 5 month research placement aims to investigate the effects of metal organic framework (MOF) coatings on the separator as well as the anode in a Zinc Bromine Rechargeable Battery (ZBRB) system.  
 
 ## **Chimie ParisTech - ENSCP**
-### [[Weirsite/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
+### [[ESPCI ZIBs/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
 ![ZIF8_HQ.png](/img/user/ZIF8_HQ.png)
 This project, carried out for the IMAP laboratory at ESPCI over a six-month period, aimed to identify and experimentally evaluate solutions to the problem of dendrite growth on the anode of aqueous zinc ion batteries.
 
-- Background and operating equations: [[Weirsite/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
-- The current dominant technology: [[Weirsite/Lithium batteries - Overview\|Lithium batteries - Overview]]
-- Role of the electrolyte on the surface of the electrodes: [[Weirsite/SEI\|SEI]]
-- [[Weirsite/Caracterisation de batteries\|Caracterisation de batteries]] avec différentes techniques analytiques (FRENCH)
+- Background and operating equations: [[ESPCI ZIBs/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
+- The current dominant technology: [[ESPCI ZIBs/Lithium batteries - Overview\|Lithium batteries - Overview]]
+- Role of the electrolyte on the surface of the electrodes: [[ESPCI ZIBs/SEI\|SEI]]
+- [[ESPCI ZIBs/Caracterisation de batteries\|Caracterisation de batteries]] avec différentes techniques analytiques (FRENCH)
 
 ### Transdisciplinary Project : Green and sustainable chemistry, towards a better periodic table for the Right Chemistry
 ![Tableau_PTD.png](/img/user/Tableau_PTD.png)
@@ -38,7 +38,7 @@ Internship initially undertaken alongside the chemical engineering degree progra
 
 ### EE Days - A game-changer in green reindustrialisation and industrial sovereignty
 ![Energies_des_importations_francaises.png](/img/user/Energies_des_importations_francaises.png)
-- Report on [[EE DAYS\|EE DAYS]] (FRENCH)
+- Report on [[Weirsite/EE DAYS\|EE DAYS]] (FRENCH)
 - Oral presentation delivered
 
 ---
