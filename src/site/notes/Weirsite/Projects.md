@@ -9,18 +9,18 @@
 ## **Projets**
 
 ## **University of Queensland - AIBN**
-### [[AIBN/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
+### [[AIBN Zinc-Bromine Batteries/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
 Building on previous research projects, this 5 month research placement aims to investigate the effects of metal organic framework (MOF) coatings on the separator as well as the anode in a Zinc Bromine Rechargeable Battery (ZBRB) system.  
 
 ## **Chimie ParisTech - ENSCP**
-### [[ESPCI ZIBs/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
+### [[ESPCI Zinc Ion Batteries/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
 ![ZIF8_HQ.png](/img/user/ZIF8_HQ.png)
 This project, carried out for the IMAP laboratory at ESPCI over a six-month period, aimed to identify and experimentally evaluate solutions to the problem of dendrite growth on the anode of aqueous zinc ion batteries.
 
-- Background and operating equations: [[ESPCI ZIBs/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
-- The current dominant technology: [[ESPCI ZIBs/Lithium batteries - Overview\|Lithium batteries - Overview]]
-- Role of the electrolyte on the surface of the electrodes: [[ESPCI ZIBs/SEI\|SEI]]
-- [[ESPCI ZIBs/Caracterisation de batteries\|Caracterisation de batteries]] avec différentes techniques analytiques (FRENCH)
+- Background and operating equations: [[ESPCI Zinc Ion Batteries/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
+- The current dominant technology: [[ESPCI Zinc Ion Batteries/Lithium batteries - Overview\|Lithium batteries - Overview]]
+- Role of the electrolyte on the surface of the electrodes: [[ESPCI Zinc Ion Batteries/SEI\|SEI]]
+- [[ESPCI Zinc Ion Batteries/Caracterisation de batteries\|Caracterisation de batteries]] avec différentes techniques analytiques (FRENCH)
 
 ### Transdisciplinary Project : Green and sustainable chemistry, towards a better periodic table for the Right Chemistry
 ![Tableau_PTD.png](/img/user/Tableau_PTD.png)
@@ -31,7 +31,7 @@ A six-month project focusing on the history of the periodic table and its adapta
 
 ## **École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)**
 ### **UROP research placement at the [Soft Matter Science and Engineering (SIMM)](https://www.simm.espci.fr/-Home-.html) laboratory at ESPCI**
-![Sliding_drop.png](/img/user/ESPCI%20UROP/Sliding_drop.png)
+![Sliding_drop.png](/img/user/ESPCI%20Tribo%C3%A9lectricit%C3%A9/Sliding_drop.png)
 Internship initially undertaken alongside the chemical engineering degree programme and subsequently on a full-time basis, focusing on the characterisation of the triboelectric charging of droplets in microfluidic devices at the [SIMM](https://www.simm.espci.fr/-Home-.html) laboratory.
 - [Scientific poster](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf) produced for display in the laboratory at the end of the internship
 - [Experimental data and results](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main) published at the end of the internship

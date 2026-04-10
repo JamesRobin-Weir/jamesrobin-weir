@@ -5,7 +5,7 @@
 # Weirsite : James Robin-Weir's personal site
 
 ---
-# [[Weirsite/Projects\|Projects]] | [[CPGE/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# [[Weirsite/Projects\|Projects]] | [[CPGE Fiches/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
 
 ![James ROBIN-WEIR.jpg\|200](/img/user/Weirsite/James%20ROBIN-WEIR.jpg)
