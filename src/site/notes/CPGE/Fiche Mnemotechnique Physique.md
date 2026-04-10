@@ -7,15 +7,15 @@
 ---
 
 ## Chapitres
-## [[OSCILLATEURS\|OSCILLATEURS]]
-## [[Quantique\|Quantique]]
-## [[Ondes Electromagnetiques\|Ondes Electromagnetiques]]
-## [[Diffusion\|Diffusion]]
-## [[Thermodynamique\|Thermodynamique]]
-## [[Ondes matériels\|Ondes matériels]]
-## [[Mécanique des fluides\|Mécanique des fluides]]
-## [[Optique\|Optique]]
-## [[Electricité\|Electricité]]
+## [[CPGE/OSCILLATEURS\|OSCILLATEURS]]
+## [[CPGE/Quantique\|Quantique]]
+## [[CPGE/Ondes Electromagnetiques\|Ondes Electromagnetiques]]
+## [[CPGE/Diffusion\|Diffusion]]
+## [[CPGE/Thermodynamique\|Thermodynamique]]
+## [[CPGE/Ondes matériels\|Ondes matériels]]
+## [[CPGE/Mécanique des fluides\|Mécanique des fluides]]
+## [[CPGE/Optique\|Optique]]
+## [[CPGE/Electricité\|Electricité]]
 
 
 ## Annexe
