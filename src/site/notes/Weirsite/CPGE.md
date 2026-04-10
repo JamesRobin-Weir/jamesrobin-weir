@@ -3,7 +3,7 @@
 ---
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
 ## **Ressources pour Classes Préparatoires**

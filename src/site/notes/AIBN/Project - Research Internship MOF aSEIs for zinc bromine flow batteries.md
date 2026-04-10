@@ -3,7 +3,7 @@
 ---
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
 ## MOF aSEIs for ZBRBs to avoid bromine diffusion and zinc dendrite growth

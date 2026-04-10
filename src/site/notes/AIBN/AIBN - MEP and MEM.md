@@ -3,7 +3,7 @@
 ---
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
 Classically in ZBRBs systems, quaternary ammonium bromides (QBr), such as N-ethyl-N-methyl-morpholinium bromide (MEM) and N-ethyl-N-methyl-pyrrolidinium bromide (MEP), are added the positive and negative half cell electrolytes.

@@ -3,7 +3,7 @@
 ---
 
 ---
-# [[Weirsite/Home Page\| Home]] | [[Weirsite/Projects\|Projects]] | [[Weirsite/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
+# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
 He is working on High Entropy Alloys (HEAs) deposited on porous carbon subtrate to mitigate dendrite growth on carbon directly and encourage homogeneous plating. The HEA in question, a mix of Zinc, Indium, Bismuth, Lead and Tin, has a low activation energy (low overpotential) for zinc nucleation. 
