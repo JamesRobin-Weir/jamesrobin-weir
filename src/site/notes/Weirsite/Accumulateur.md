@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/weirsite/accumulateur/","dg-note-properties":{}}
 ---
 
-# Weirsite : Site Personnel de James Robin-Weir
-
 ---
-# [[Home Page \| Home]] [[Weirsite/Projects\|Projects]] [[Weirsite/CPGE\|CPGE]]
+# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
 # Les Accumulateurs Électrochimiques

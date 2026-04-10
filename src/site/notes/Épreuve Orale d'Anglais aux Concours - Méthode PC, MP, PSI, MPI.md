@@ -25,7 +25,7 @@ L'oral des petites Mines se distingue complètement de celui de Mines Ponts. Le 
 - Il s'agit d'assurer le jury que vous êtes est un bon candidat pour l'école : il faut savoir se vendre sans pour autant être ridicule ou orgueilleux 
 - C'est un histoire organisé (par des connecteurs logiques) de votre vie qui mène logiquement à l'intégration d'une (ou deux) écoles particulières du réseau, en justifiant pourquoi (grace à votre projet personnel, vos centres d’intérêt...)
 
-Pour un exemple de présentation, voir : [[Typical Mines Télécom Presentation\|Typical Mines Télécom Presentation]]
+Pour un exemple de présentation, voir : [[CPGE/Typical Mines Télécom Presentation\|Typical Mines Télécom Presentation]]
 
 **Comment présenter sa vie**
 - passions et activités (et ce qu'on en a tiré)

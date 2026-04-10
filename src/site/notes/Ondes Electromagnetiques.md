@@ -3,7 +3,7 @@
 ---
 
 
-[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
+[[CPGE/Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### MAGNÉTOSTAT PCSI
 - LDChamps -> courbe auquel $\vec{B}$ tangent
 - Bobines Helmoltz -> 2 bobines coaxiales

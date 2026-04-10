@@ -3,7 +3,7 @@
 ---
 
 
-[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
+[[CPGE/Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### MECA FLU CINÉMATIQUE
 - Eulérienne VS Lagrangienne -> champs vect + pot vitesses VS suivre particules sur leur trajectoire
 - Dérivée parti -> $\frac{D\vec{v}}{Dt}=\dot{\vec{v}}+(\vec{v}\vec{grad})\vec{v}$ 

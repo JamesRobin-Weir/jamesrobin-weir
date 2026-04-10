@@ -3,7 +3,7 @@
 ---
 
 
-[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
+[[CPGE/Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 Équa diff gén -> $x''+\frac{w_0}{Q}x'+w_0^2x=0$ ou sinon $x''+2lx'+w_0^2x=0$ 
 - Discriminant -> $\Delta =\omega_0^2 (\frac{1}{Q^2}-4)$
 - ==Regime pseudopériodique== $\Delta <0$ -> $Q>1/2$ <=> $l<w_0$ <=> deux racines complexes $r=-\frac{1}{\tau} \pm j \Omega$ 

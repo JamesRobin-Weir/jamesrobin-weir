@@ -3,7 +3,7 @@
 ---
 
 
-[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
+[[CPGE/Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### PARTICULES QUANTIQUE
 - $\lambda$ de de Broglie -> $=h/p$ est OG effets quant
 - Plank réduit -> $\bar{h}=h/2\pi$

@@ -3,7 +3,7 @@
 ---
 
 
-[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
+[[CPGE/Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]]
 ##### PCSI
 - Libre parcours moyen -> dist moyen parcouru entre deux chocs
 - Isotrope -> $\exists$ pas direct° privilégié

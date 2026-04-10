@@ -3,7 +3,7 @@
 ---
 
 
-[[Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]] 
+[[CPGE/Fiche Mnemotechnique Physique\|Fiche Mnemotechnique Physique]] 
 ##### CIRCUITS
 - Lois de Kirchhoff -> LdN + LdM
 - Méthode f° trans -> multiplier par conductance Y inverse de l'impédance au numérateur pr trouver forme simplifiée
