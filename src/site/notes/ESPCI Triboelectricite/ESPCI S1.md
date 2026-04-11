@@ -56,7 +56,9 @@ Pour cela j'ai réalisé un montage similaire en remplaçant la plaque par une p
 Le montage étant disposé à la verticale avec la goutte occupant tout une section du capillaire, j'ai élargi la cage de Faraday précédente pour l’accueillir. Sinon la manipulation est restée inchangée par rapport à la première expérience. 
 ### Résultats
 ![Tension_capillaire.png\|Evolution temporelle de la tension pour le capillaire](/img/user/ESPCI%20Triboelectricite/Tension_capillaire.png)
-La valeur moyenne du bruit sur les 10 premières secondes est de $B=-0.0004$ volts. La précision en gain de l'amplificateur à transimpédance est de ±1 % de 10⁶ :$$\frac{u(V)}{V} =\sqrt{\left(\frac{u(R_{f})}{R_{f}}\right)^2}$$Donc $u(V)=0.01 V \approx 10^{-3} \gg B$, on voit que cette valeur de bruit est négligeable en vue de cette incertitude sur $R_f$ 
+La valeur moyenne du bruit sur les 10 premières secondes est de $B=-0.0004$ volts. La précision en gain de l'amplificateur à transimpédance est de ±1 % de 10⁶ :
+$$\frac{u(V)}{V} =\sqrt{\left(\frac{u(R_{f})}{R_{f}}\right)^2}$$
+Donc $u(V)=0.01 V \approx 10^{-3} \gg B$, on voit que cette valeur de bruit est négligeable en vue de cette incertitude sur $R_f$ 
 
 On divise alors directement par $R_f$, puis on coupe le signal en dessous du seuil de 0,11 μA, ce qui donne le graphe suivant :
 
