@@ -14,29 +14,8 @@ Ce document vise à rendre compte des expériences et donc des montages réalis�
 
 ![Plaque_silice_schema.png\|Schema extrait de Nature Physics doi 10.1038](/img/user/ESPCI%20Triboelectricite/Plaque_silice_schema.png)
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Surface hydrophobe 
-Fil de tungsten 
-+ 
-+ 
-+ 
-- 
-- 
-- 
-Amplification 
-
-
-</div></div>
+Avec la représentation cela donne : 
+![Plaque_hydrophobe.png](/img/user/Excalidraw/Plaque_hydrophobe.png)
 
 La seule différence était que les deux électrodes, des fils de tungsten, étaient disposés sur la surface de la plaque perpendiculairement à la direction du glissement. L'angle $\alpha$ était choisi à 67° grâce à un support rotatoire.
 
@@ -55,7 +34,7 @@ La valeur moyenne du bruit sur les 4 premières secondes est de $B=-0.001$ volts
 
 Ensuite il faut diviser par le facteur $R_f$ pour obtenir les intensités correspondantes mesurées à l'amplificateur à transimpédance. On supprime aussi le signal en dessous d'un seuil de 0,007 μA, ce qui donne le graphe suivant :
 
-![Intensité_plaque.png\|Evolution temporelle de l'intensité mesurée](/img/user/ESPCI%20Triboelectricite/Intensit%C3%A9_plaque.png)
+![Intensity_plaque.png\|Evolution temporelle de l'intensité mesurée](/img/user/ESPCI%20Triboelectricite/Intensity_plaque.png)
 On peut alors calculer l'aire de chaque pic pour obtenir la charge sachant que : $$Q=\int_{t_{i}}^{t_{f}} I(t) \, dt=-\dfrac{1}{R_{f}}\int_{t_{i}}^{t_{f}} V(t) \, dt$$Cela donne le graphique suivant qui montre une décroissance exponentielle de la charge déposée avec le nombre de gouttes déposées.
 
 ![Charges_plaque.png\|Saturation de la plaque](/img/user/ESPCI%20Triboelectricite/Charges_plaque.png)
@@ -114,8 +93,6 @@ Taylor slugs
 </div></div>
 
 
-
-![[Montage.jpg\|Montage glissement dans un capillaire]]
 Le montage étant disposé à la verticale avec la goutte occupant tout une section du capillaire, j'ai élargi la cage de Faraday précédente pour l’accueillir. Sinon la manipulation est restée inchangée par rapport à la première expérience. 
 ### Résultats
 ![Tension_capillaire.png\|Evolution temporelle de la tension pour le capillaire](/img/user/ESPCI%20Triboelectricite/Tension_capillaire.png)
@@ -126,12 +103,13 @@ On divise alors directement par $R_f$, puis on coupe le signal en dessous du seu
 ![Intensite_capillaire.png\|Accumulation de charges pour le capillaire](/img/user/ESPCI%20Triboelectricite/Intensite_capillaire.png)
 On remarque que chaque pic après dé-bruitage est triangulaire, caractérisée par une seule valeur d'intensité non nulle, de la façon suivante (premier pic) :
 
-[](Pic1.png)
+![Pic_1.png](/img/user/ESPCI%20Triboelectricite/Pic_1.png)
 
 On ne peut donc pas voir l'évolution de l'intensité lors du passage de la goutte sur l’électrode inférieur comme pour le premier montage. Il faudrait pour cela augmenter la fréquence d’échantillonnage. Cela pourrait être du à la vitesse plus importante de la goutte glissant à la vertical.
 
+## Oeufs de grenouille
 
-## Frog spawn
+En déposant mes gouttes chargées dans de l'huile, j'ai remarqué une forme de self assembly en amas de gouttes. De plus, il y avait une phase transitoire ou la goutte restait piégée à la surface.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -150,3 +128,6 @@ charging
 
 
 </div></div>
+
+
+Ce phénomène d'adsorption à la surface sera étudiée en détail au semestre 2. 

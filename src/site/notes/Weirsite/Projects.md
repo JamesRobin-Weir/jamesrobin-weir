@@ -32,7 +32,11 @@ A six-month project focusing on the history of the periodic table and its adapta
 ## **École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)**
 ### **UROP research placement at the [Soft Matter Science and Engineering (SIMM)](https://www.simm.espci.fr/-Home-.html) laboratory at ESPCI**
 ![Sliding_drop.png](/img/user/ESPCI%20Triboelectricite/Sliding_drop.png)
+
 Internship initially undertaken alongside the chemical engineering degree programme and subsequently on a full-time basis, focusing on the characterisation of the triboelectric charging of droplets in microfluidic devices at the [SIMM](https://www.simm.espci.fr/-Home-.html) laboratory.
+
+The research undertook was documented in the [internship defence presentation](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/ESPCI_Soutenance_Stage_James_ROBIN-WEIR.pdf), but in addition to that are accessible the following :
+
 - [Scientific poster](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf) produced for display in the laboratory at the end of the internship
 - [Experimental data and results](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main) published at the end of the internship
 

@@ -24,7 +24,7 @@ Pour les concours, voici des fiches méthode, modèles de présentation personne
 
 - Exemple de présentation type Mines Télécom : [[CPGE Fiches/Typical Mines Télécom Presentation\|Typical Mines Télécom Presentation]]
 
-- (**NOUVEAU**) Synthèse des rapport des épreuves écrites : [[Rapports des Jurys - Épreuve Écrite d'Anglais\|Rapports des Jurys - Épreuve Écrite d'Anglais]]
+- (**NOUVEAU**) Synthèse des rapport des épreuves écrites : [[CPGE Fiches/Rapports des Jurys - Épreuve Écrite d'Anglais\|Rapports des Jurys - Épreuve Écrite d'Anglais]]
 
 ---
 
