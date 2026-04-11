@@ -35,7 +35,9 @@ La valeur moyenne du bruit sur les 4 premières secondes est de $B=-0.001$ volts
 Ensuite il faut diviser par le facteur $R_f$ pour obtenir les intensités correspondantes mesurées à l'amplificateur à transimpédance. On supprime aussi le signal en dessous d'un seuil de 0,007 μA, ce qui donne le graphe suivant :
 
 ![Intensity_plaque.png\|Evolution temporelle de l'intensité mesurée](/img/user/ESPCI%20Triboelectricite/Intensity_plaque.png)
-On peut alors calculer l'aire de chaque pic pour obtenir la charge sachant que : $$Q=\int_{t_{i}}^{t_{f}} I(t) \, dt=-\dfrac{1}{R_{f}}\int_{t_{i}}^{t_{f}} V(t) \, dt$$Cela donne le graphique suivant qui montre une décroissance exponentielle de la charge déposée avec le nombre de gouttes déposées.
+On peut alors calculer l'aire de chaque pic pour obtenir la charge sachant que : 
+$$Q=\int_{t_{i}}^{t_{f}} I(t) \, dt=-\dfrac{1}{R_{f}}\int_{t_{i}}^{t_{f}} V(t) \, dt$$
+Cela donne le graphique suivant qui montre une décroissance exponentielle de la charge déposée avec le nombre de gouttes déposées.
 
 ![Charges_plaque.png\|Saturation de la plaque](/img/user/ESPCI%20Triboelectricite/Charges_plaque.png)
 On voit donc que la plaque devient saturée en charges à partir de la quarantième goutte, ou la variation de la charge est uniquement du au bruit (comparer la largeur type) : un régime permanent est donc atteint. 
