@@ -49,49 +49,7 @@ Dans le cadre de ce stage on souhaite plus particulièrement s'intéresser au ca
 
 Pour cela j'ai réalisé un montage similaire en remplaçant la plaque par une pipette plastique coupée aux deux extrémités, sans traitement hydrophobe en surface.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Amplification 
-Continuous flow 
-Taylor slugs 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-- 
-- 
-- 
-- 
-- 
-- 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-</div></div>
-
+![ESPCI_Rigid_capillary.png](/img/user/Excalidraw/ESPCI_Rigid_capillary.png)
 
 Le montage étant disposé à la verticale avec la goutte occupant tout une section du capillaire, j'ai élargi la cage de Faraday précédente pour l’accueillir. Sinon la manipulation est restée inchangée par rapport à la première expérience. 
 ### Résultats
@@ -111,23 +69,8 @@ On ne peut donc pas voir l'évolution de l'intensité lors du passage de la gout
 
 En déposant mes gouttes chargées dans de l'huile, j'ai remarqué une forme de self assembly en amas de gouttes. De plus, il y avait une phase transitoire ou la goutte restait piégée à la surface.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-Amplification 
-charging 
-
-
-</div></div>
-
+![ESPCI_Frog_spawn.png](/img/user/Excalidraw/ESPCI_Frog_spawn.png)
 
 Ce phénomène d'adsorption à la surface sera étudiée en détail au semestre 2. 
+
+---

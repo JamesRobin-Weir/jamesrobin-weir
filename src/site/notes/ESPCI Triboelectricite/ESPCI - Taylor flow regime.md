@@ -28,6 +28,7 @@ Source : [https://doi.org/10.3390/pr9050870](https://doi.org/10.3390/pr9050870)
 | Reynolds       | Re                          | $\rho \mathrm{Ud} / \mu$                                                                           | The ratio between the inertia and the viscous forces                             |
 | Suratman       | Su                          | $\frac{\mathrm{Re}^2}{\mathrm{We}^2}=\frac{1}{\mathrm{Oh}^2}=\frac{\mathrm{\sigma \rho d}}{\mu^2}$ | The ratio of the surface tension to the viscous forces                           |
 | Weber          | We                          | $\mathrm{CaRe}=\frac{{ }\rho \mathrm{U}^2 \mathrm{~d}}{\sigma}$                                    | The ratio of the inertial forces to the interfacial forces                       |
+
 _TABLEAU : Nombres adimensionnels pour un flux multiphasé_
 
 ![Microfluidic_flow_regimes.png](/img/user/ESPCI%20Triboelectricite/Microfluidic_flow_regimes.png)
@@ -68,51 +69,7 @@ where $\varepsilon$ is a fitting parameter related to the geometry of the microc
 _SOURCE : Investigation of pressure profile evolution during confined micro-droplet formation using a two-phase level set method_
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
-charging 
-air 
-Syringe pump 
-Syringe
-pump 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-+ 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-
-</div></div>
-
+![Microfluidic_pumping.png](/img/user/Excalidraw/Microfluidic_pumping.png)
 
 ---
 
