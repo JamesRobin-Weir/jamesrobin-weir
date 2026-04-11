@@ -23,7 +23,7 @@ Alors, des technologies alternatives performantes et écologiques d'[[ESPCI Zinc
 
 Néanmoins, comme il en est aussi pour les batteries Li-ion, il reste diverses limitations chimiques plus ou moins résolues, comme la formation de dendrites. Ces croissances métalliques à l’anode provoquent des court-circuits dans la batterie (Fig. 2. f.), et nuisent à sa durée de vie. Elles se forment en deux stades: initialement les ions Zn²⁺ se réduisent de façon hétérogène sur la surface de l'électrode de zinc. Ceci engendre la création d’agglomérats (Fig. 2. d.), qui vont grandir en pointe selon différentes géométries (Fig. 2 e.) en direction de la cathode. Ces croissances favorisent aussi des réactions parasites comme la réduction de l’eau (Hydrogen Evolution Reaction : HER, Fig. 2 b.), et si les dendrites viennent à casser entraînent une perte du zinc et donc une diminution de la capacité totale de la batterie. 
 
-![ZIB_Dendrite_types.png](/img/user/ZIB_Dendrite_types.png)
+![ZIB_Dendrite_types.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_Dendrite_types.png)
 
 *Fig. 2 : Illustration schématique de la déposition d’ions zinc sur l'électrode²*
 

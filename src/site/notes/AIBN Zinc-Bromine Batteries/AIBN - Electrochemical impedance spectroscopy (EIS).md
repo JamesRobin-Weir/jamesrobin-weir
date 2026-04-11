@@ -31,7 +31,7 @@ In polar coordinates, $Ze^{i\theta}$ is plotted directly, or else $Z$ can be pro
 	_Fig.: Impedance plot in Cartesian coordinates_
 
 - **Nyquist plot** -> impedance magnitude $Z$ and phase angle $\theta$ as a function of the imposed frequency
-![Nyquist_Bode.png](/img/user/Nyquist_Bode.png)
+![Nyquist_Bode.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/Nyquist_Bode.png)
 This makes it possible to build an electrical model (circuit), then perform fitting to determine the values of the components (see this [fitting site](https://app.circuitfitting.net/tools/fitting))
 
 ---
@@ -44,7 +44,7 @@ This makes it possible to build an electrical model (circuit), then perform fitt
 ---
 ### Warburg impedance
 
-![Warburg.png](/img/user/Warburg.png)
+![ZIB_Warburg.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_Warburg.png)
 Associated with diffusion, this regime is characterized by a 45° line in the Nyquist plot, which means that the charge carriers move at a constant speed. This can be rationalized as follows:
 
 - **Real impedance** = diffusion distance in the oxide layer, 

@@ -35,7 +35,7 @@
 - Irreversible Hydrogen evolution reaction ($2H^+ + 2e^− → H_{2}$)
 - Dendrite formation (risking short circuiting or rupturing the cell)
 
-![ZIB_Dendrite_types.png](/img/user/ZIB_Dendrite_types.png)
+![ZIB_Dendrite_types.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_Dendrite_types.png)
 	_Fig. 2 : Dendrite formation mechanisms_
 
 #### With the Electrolyte
@@ -46,13 +46,13 @@
 ### Chemical equations at play
 
 There are multiple sets of chemical reactions at play, depending on pH and the imposed potential, as illustrated by the following figure :
-![ZIB_Reactions.png](/img/user/ZIB_Reactions.png)
+![ZIB_Reactions.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_Reactions.png)
 	_Fig. 3 : Working principle equations of ZIB batteries_
 
 ### HER and OER parasitic reactions
 
 The evolution reactions of hydrogen at the cathode and oxygen at the anode are parasitic in nature, decreasing the overall efficiency and potentially damaging the battery cell. Their reaction equations are illustrated below :
-![ZIB_HER_OER.png](/img/user/ZIB_HER_OER.png)
+![ZIB_HER_OER.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_HER_OER.png)
 _Fig. 4 : HER and OER reaction equations_
 
 ---

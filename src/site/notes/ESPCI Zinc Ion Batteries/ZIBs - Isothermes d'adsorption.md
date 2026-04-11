@@ -40,7 +40,7 @@ Cet isotherme décrit de façon simple la formation d'une monocouche d'adsorbat 
 
 
 ## Isotherme de Freundlich
-![Freundlich_isoT.png](/img/user/Freundlich_isoT.png)
+![Freundlich_isoT.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/Freundlich_isoT.png)
 - $\dfrac{m_a}{m_b}=K_f \times p^{\frac1n}$ ou $m_a$ est la masse adsorbée de A, $m_b$ la masse d'adsorbant A totale, $K_f$ un constante =f(T, A, surface)
 - Contrairement à celui de Langmuir, l'isotherme de Freundlich s'applique à des adsorptions multi-couche sur des surfaces hétérogènes
 - un ${\displaystyle \Delta _{\mathrm {r} }H}$ qui varie avec l'occupation des sites indique une surface inhomogène et donc l'emploi de l'isotherme de Freundlich

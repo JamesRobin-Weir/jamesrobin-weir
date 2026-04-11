@@ -14,7 +14,7 @@ Building on previous research projects, this 5 month research placement aims to 
 
 ## **Chimie ParisTech - ENSCP**
 ### [[ESPCI Zinc Ion Batteries/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
-![ZIF8_HQ.png](/img/user/ZIF8_HQ.png)
+![ZIF8_HQ.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIF8_HQ.png)
 This project, carried out for the IMAP laboratory at ESPCI over a six-month period, aimed to identify and experimentally evaluate solutions to the problem of dendrite growth on the anode of aqueous zinc ion batteries.
 
 - Background and operating equations: [[ESPCI Zinc Ion Batteries/Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries\|Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries]]
@@ -37,7 +37,7 @@ Internship initially undertaken alongside the chemical engineering degree progra
 - [Experimental data and results](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main) published at the end of the internship
 
 ### EE Days - A game-changer in green reindustrialisation and industrial sovereignty
-![Energies_des_importations_francaises.png](/img/user/Energies_des_importations_francaises.png)
+![Energies_des_importations_francaises.png](/img/user/Weirsite/Energies_des_importations_francaises.png)
 - Report on [[Weirsite/EE DAYS\|EE DAYS]] (FRENCH)
 - Oral presentation delivered
 

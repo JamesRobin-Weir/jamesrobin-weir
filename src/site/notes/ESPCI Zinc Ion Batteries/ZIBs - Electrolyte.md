@@ -15,14 +15,14 @@ An electrolyte is a substance that conducts electricity through the movement of 
 - Solid state batteries use solid ionic conductors as opposed to liquid electrolytes
 
 ### Characterisation of Electrolytes
-![ZIB_characterisation_electrolytes.png](/img/user/ZIB_characterisation_electrolytes.png)
+![ZIB_characterisation_electrolytes.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_characterisation_electrolytes.png)
 
 ---
 ### Water in Salt Electrolytes (WiSE) for aqueous batteries
 
 WISEs are highly concentrated dissolves salts, having less water content than salt in terms of overall ratio. They may increase the electrochemical stability window (ESW) of aqueous batteries, as minority water content helps mitigate parasitic reactions like OER/HER. To achieve these conditions, various solvation sphere alteration approaches have been explored. Water can dissolve salt easily due to its high dielectric constant, but the minimal amount of water present in WiSEs means that these have a negligible tendency to dissolve electrode material.
 
-![ZIB_WISE_electrolyte.png](/img/user/ZIB_WISE_electrolyte.png)
+![ZIB_WISE_electrolyte.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_WISE_electrolyte.png)
 
 An important phenomenon present in MIBs with organic electrolytes is the formation of the SEI, which protects the electrodes and enables a wider ESW. In WISEs there can be ionically conductive and electrically insulating passivation of the electrodes due to highly concentrated electrolyte composition. This helps prevent dendritic growth and also protects the electrode from corrosion by water by suppressing the water activity at its surface and thereby mitigating HER and OER.
 
@@ -33,7 +33,7 @@ An important phenomenon present in MIBs with organic electrolytes is the formati
 ### Aqueous electrolyte additives for ZIBs
 Many different electrolytes and electrolytic additives can be used for ZIBs at different potentials and pH values, with differing effects on parasitic reactions and the kinetics of the support reaction of the battery.
 
-![ZIB_Electrolytes.png](/img/user/ZIB_Electrolytes.png)
+![ZIB_Electrolytes.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_Electrolytes.png)
 
 ---
 

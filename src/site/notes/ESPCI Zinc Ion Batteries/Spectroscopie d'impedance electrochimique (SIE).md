@@ -31,7 +31,7 @@ En coordonnées polaires on graphe $Ze^{i\theta}$ directement, ou sinon on peut 
 	_Fig. : Graphe de l’impédance en coordonnées cartésiennes_
 
 - **Diagramme de Nyquist** -> norme de l'impédance $Z$ et l'angle de phase $\theta$  en fonction de la fréquence imposée
-![Nyquist_Bode.png](/img/user/Nyquist_Bode.png)
+![Nyquist_Bode.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/Nyquist_Bode.png)
 Cela permet de faire un modèle électrique (circuit), puis de faire du fitting pour déterminer les valeurs des composantes (voir ce [site de fitting](https://app.circuitfitting.net/tools/fitting))
 
 ---
@@ -44,7 +44,7 @@ Cela permet de faire un modèle électrique (circuit), puis de faire du fitting 
 ---
 ### Impedance de Warburg
 
-![Warburg.png](/img/user/Warburg.png)
+![ZIB_Warburg.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_Warburg.png)
 Associée à la diffusion, ce régime est caractérisé par une ligne à 45° dans le diagramme de Nyquist, ce qui signifie que les porteurs de charge se déplacent à une vitesse constante. Cela peut être rationalisé de la manière suivante :
 
 - **Impédance réelle** = distance de diffusion dans la couche d'oxyde, 
