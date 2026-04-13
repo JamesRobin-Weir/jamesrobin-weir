@@ -30,7 +30,18 @@ However, the addition of QBrs does result in a roughly 10% loss of cell efficien
 Bromide ions reduced to bromine gas are stabilised in solution via a complexing agent, 1-ethyl-1-methylpyrrolidinium ([[AIBN Zinc-Bromine Batteries/AIBN - MEP and MEM\|MEP]]). As opposed to MEM, another complexing agent, dissolved MEP⁺ cations undergo a **homogeneous** chemical reaction with generated bromine. Thus, the storage as complex MEP-Br$_n$ is faster than with the heterogeneous electrochemical reaction of MEM-Br$_n$.
 
 ---
+### Spectroscopic analysis
 
+MEP-Br salt is colourless to pale, with no strong intrinsic visible absorption band. 
+
+However, molecular Br₂ has a visible absorption centered around 390 nm, while Br₃⁻ has a strong UV band around 267-279 nm. 
+
+The main limitation is speciation. In water, bromine, bromide, and tribromide are in equilibrium:
+
+$$\mathrm{Br_2 + Br^- \rightleftharpoons Br_3^-}$$
+
+---
+### Electrochemical analysis
 **Protocol :** for this analysis a three electrode cell was set up (see below). 20 mL of test electrolyte was poured in the glass cell. A magnetic stirrer was used in the linear sweep voltammetry experiments for measurement of Br−/Br3− kinetics in the simulated positive half-cell samples. The simulated positive and negative electrolytes were prepared by adding different amounts of MEM and MEP to V(III) or V(IV) halide solutions that had been prepared by dissolving V2O3, or equimolar quantities of V2O3 and V2O5 powders respectively in 7.6 M HBr + 1.46 M HCl solutions. The amount of MEM and MEP added varied from 0 to 5 mL. Liquid bromine was added to simulate the charged positive half-cell electrolyte of the cell.
 
 ![AIBN_Three_Electrode_setup.png](/img/user/Excalidraw/AIBN_Three_Electrode_setup.png)
