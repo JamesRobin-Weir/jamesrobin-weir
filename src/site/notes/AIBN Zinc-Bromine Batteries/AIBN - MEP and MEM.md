@@ -20,9 +20,14 @@ CC[N+]1(C)CCCC1.[Br-]
 
 Experimentally, it has been shown that 0.75-0.8 M of total QBr can effectively eliminate bromine vapour at a temperature of 11°C, with all of the bromine effectively bound as an orange oily layer that settles to the bottom of the sample bottles. The orange oily layer seems to form only in the presence of both $\text{Br}_2$ and complexing agents. 
 
-Additionally, cyclic voltammetry (CV), linear sweep voltammetry and electrochemical impedance spectroscopy (EIS) studies also confirm that the addition of MEM–MEP effectively reduce Br2 vapours. 
+Additionally, cyclic voltammetry (CV), linear sweep voltammetry and electrochemical impedance spectroscopy (EIS) studies also confirm that the addition of MEM/MEP effectively reduce $\text{Br}_2$ vapours. 
 
 However, the addition of QBrs does result in a roughly 10% loss of cell efficiency.
+
+---
+### Why is MEP predominantly used ?
+
+Bromide ions reduced to bromine gas are stabilised in solution via a complexing agent, 1-ethyl-1-methylpyrrolidinium ([[AIBN Zinc-Bromine Batteries/AIBN - MEP and MEM\|MEP]]). As opposed to MEM, another complexing agent, dissolved MEP⁺ cations undergo a **homogeneous** chemical reaction with generated bromine. Thus, the storage as complex MEP-Br$_n$ is faster than with the heterogeneous electrochemical reaction of MEM-Br$_n$.
 
 ---
 
