@@ -14,3 +14,6 @@ The usual way they are prepared is:
 4. Quench, cast, or hot-press that melt to trap the disordered structure as a glass.
 
 This is the classic melt-quench route used across Coordination Polymer (CP)/MOF glasses. Researchers then verify glass formation with DSC/TGA for $T_g, T_m, T_d$, PXRD for loss of Bragg peaks, and techniques like XAFS/PDF for retained local coordination.
+
+---
+
