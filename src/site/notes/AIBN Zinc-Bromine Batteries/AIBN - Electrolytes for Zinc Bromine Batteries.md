@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-electrolytes-for-zinc-bromine-batteries/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-electrolytes-for-zinc-bromine-batteries/","dg-note-properties":{"aliases":["ZBRB electrolyte"]}}
 ---
 
 ---
@@ -20,6 +20,8 @@ For bromine, at such acidic pH values, there is an equilibrium predicted between
 _[Image ](https://www.researchgate.net/figure/The-theoretical-distribution-of-the-equivalent-bromine-species-on-pH-for-a-cBr-eq_fig9_330737711): Theoretical distribution of the equivalent bromine species as a function of pH for c(Br eq ) = 0.1 M, thin dash lines-for the constant c(Br -) = 0.131 M, thick full lines-for the bromine concentration shown in the inset_
 
 ---
+
+### ZBRB electrolyte preparation protocol
 
 In Bin Luo's lab the electrolyte used for ZBRBs is an aqueous solution of 2.0 M ZnBr₂ + 3.0 M KCl + 0.4 M MEP, and whilst their industry partner Redflow also added ZnCl₂ as a supporting salt, they do not. 
 
@@ -47,6 +49,7 @@ For **100 mL** of final electrolyte:
 
 ---
 
-Another 2025 paper by Alghamdi et al. used a ZnBr₂ aqueous electrolyte with DMSO as a co-solvent additive, comparing 0% DMSO (control), 10% DMSO, and 30% DMSO. 
+Further reading :
+- Another 2025 paper by Alghamdi et al. used a ZnBr₂ aqueous electrolyte with DMSO as a co-solvent additive, comparing 0% DMSO (control), 10% DMSO, and 30% DMSO. 
 
 ---

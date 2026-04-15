@@ -65,6 +65,8 @@ Pictured above, this complexing agent allows for a homogeneous solution, better 
 
 However this limitation does not apply when studying the bromine shuttling across the separator, as the trace polybromide that diffuses to the anolyte side is not sufficient to precipitate into an oily phase.
 
+Whats more, while UV-vis spectrometry could be used to determine absorbances at $\lambda_{max}$ for both $\text{Br}_3⁻$ and $\text{Br}_2$, the latter should be a minority species due to the displacement of the speciation equilibrium due to complexation of $\text{Br}_3⁻$. Higher order polybromide species will be neglected in this analysis, but if accounted for would slightly increase the total oxidised bromine concentration. 
+
 ---
 ### Electrochemical analysis
 
