@@ -22,19 +22,24 @@ The total reference oxidised bromine concentration can be calculated via Faraday
 $$[Br_3⁻]\approx\dfrac{Q}{FV}=\dfrac{1}{FV} \int^t_0 I(t)dt$$
 To characterise very dilute amounts of polybromide species, the two extreme oxidised bromine concentrations shall be 10⁻⁸ and 10⁻⁵ molar. The total time necessary to create the calibration spectrum must be reasonable. Therefore we chose $i=1\micro A$ as a good compromise. The electrochemical cell should be stirred to ensure homogeneity of solution for sampling. 
 
-| $I_0$        | 1 A    | 0.01 A | $1\micro A$ |
-| :----------- | :----- | :----- | :---------- |
-| $\Delta t_1$ | 10⁻⁵ s | 0.1 s  | 1 s         |
-| $\Delta t_2$ | 1 s    | 192 s  | 16 min      |
+|        $I_0$ |    1 A | 0.01 A | $1\micro A$ |
+| -----------: | -----: | -----: | ----------: |
+| $\Delta t_1$ | 10⁻⁵ s |  0.1 s |         1 s |
+| $\Delta t_2$ |    1 s |  192 s |      16 min |
+
 _Table : approximate electrolysis times for extreme bromine concentrations depending on $I_0$_
 
 The total analysis time is 48.6 min, not including the time to replace the electrolyte between samples, so in total around an hour. Initial solutions sampled in spectroscopy cuvettes can be analysed once the electrolysis time is more significant, as complexed polybromides are stable.
 
 The electrolysis times are as follows :
 
-| $[n_\text{polyBr}]$ (mol) | 1.000e-08 | 1.009e-06 | 2.008e-06 | 3.007e-06 | 4.006e-06 | 5.005e-06 | 6.004e-06 | 7.003e-06 | 8.002e-06 | 9.001e-06 | 1.000e-05 |
-| ------------------------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| $\Delta t$ (s)            | 0.9649    | 97.3537   | 193.7426  | 290.1314  | 386.5203  | 482.9091  | 579.298   | 675.6868  | 772.0757  | 868.4646  | 964.8534  |
+| $[n_\text{polyBr}]$ (mol) | 1.000e-08 | 1.009e-06 | 2.008e-06 | 3.007e-06 | 4.006e-06 |
+| ------------------------- | --------- | --------- | --------- | --------- | --------- |
+| $\Delta t$ (s)            | 0.9649    | 97.3537   | 193.7426  | 290.1314  | 386.5203  |
+
+| 5.005e-06 | 6.004e-06 | 7.003e-06 | 8.002e-06 | 9.001e-06 | 1.000e-05 |
+| --------- | --------- | --------- | --------- | --------- | --------- |
+| 482.9091  | 579.298   | 675.6868  | 772.0757  | 868.4646  | 964.8534  |
 
 The following python code shall be used to determine the slope a of Beer Lambert's law :
 
