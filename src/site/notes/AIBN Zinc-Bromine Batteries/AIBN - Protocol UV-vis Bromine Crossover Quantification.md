@@ -14,7 +14,7 @@
 
 ### Calibration spectrum
 
-First of all, it is necessary to create a spectroscopy calibration spectrum for complexed bromine first using different concentrations in the ZBRB electrolyte. For this a three electrode setup is required to generate the MEP- $\text{Br}_3⁻$ complex in small quantities. 
+First of all, it is necessary to create a spectroscopy calibration spectrum for complexed bromine first using different concentrations in the [[AIBN Zinc-Bromine Batteries/AIBN - Electrolytes for Zinc Bromine Batteries\|ZBRB electrolyte]]. For this a three electrode setup is required to generate the [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\|MEP]]- $\text{Br}_3⁻$ complex in small quantities. 
 
 ![AIBN_Three_Electrode_setup.png](/img/user/Excalidraw/AIBN_Three_Electrode_setup.png)
 
