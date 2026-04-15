@@ -10,9 +10,15 @@
 
 ![AIBN_Bromine_Crossover_Quantification.png](/img/user/Excalidraw/AIBN_Bromine_Crossover_Quantification.png)
 
+**Safety** : all experiments are to be undertaken with appropriate PPE and under a fume hood due to the risks associated even with trace amounts of bromine gas.
+
 ### Calibration spectrum
 
-First of all, it is necessary to create a spectroscopy calibration spectrum for complexed bromine first using different concentrations in the ZBRB electrolyte. For this a three electrode setup is required to generate the MEP- $\text{Br}_3⁻$ complex in small quantities. The total reference oxidised bromine concentration can be calculated via Faraday's law. Via UV-vis spectrometry we can identify $\lambda_{max}$ and A for $\text{Br}_3⁻$. 
+First of all, it is necessary to create a spectroscopy calibration spectrum for complexed bromine first using different concentrations in the ZBRB electrolyte. For this a three electrode setup is required to generate the MEP- $\text{Br}_3⁻$ complex in small quantities. 
+
+![AIBN_Three_Electrode_setup.png](/img/user/Excalidraw/AIBN_Three_Electrode_setup.png)
+
+The total reference oxidised bromine concentration can be calculated via Faraday's law. Via UV-vis spectrometry we can identify $\lambda_{max}$ and A for $\text{Br}_3⁻$. 
 $$[Br_3⁻]\approx\dfrac{Q}{FV}=\dfrac{1}{FV} \int^t_0 I(t)dt$$
 To characterise very dilute amounts of polybromide species, the two extreme oxidised bromine concentrations shall be 10⁻⁸ and 10⁻⁵ molar. The total time necessary to create the calibration spectrum must be reasonable. Therefore we chose $i=1\micro A$ as a good compromise. The electrochemical cell should be stirred to ensure homogeneity of solution for sampling. 
 
@@ -152,7 +158,7 @@ plt.legend(fontsize=6.5)
 plt.show()
 ```
 
-### Polybromide shuttling quantification
+### Polybromide shuttling evaluation
 
 Using a two-compartment diffusion cell with crossover surface area known accurately, compare bromine cross over for the following separators :
 - bare Daramic
