@@ -55,8 +55,9 @@
 - $\frac{1}{1-x} \approx \sum_{k=0}^{n} x^k$, R=1 sur $\mathbb{C}$  
 - $\ln(1+x) \approx \sum_{k=1}^{n} (-1)^{k-1} \frac{x^k}{k}$
 - $\ln(1-x) \approx - \sum_{k=1}^{n} \frac{x^k}{k}$
-- $(1+x)^a \approx \sum_{k=0}^{n} \binom{a}{k} x^k$
-- $\cosh(x) \approx \sum_{k=0}^{n} \frac{x^{2k}}{(2k)!}$
+- $(1+x)^a \approx \sum_{k=0}^{n} \binom{a}{k} x^k$ avec a un entier
+- $(1+x)^\alpha =1+\alpha x+\frac{\alpha(\alpha-1)}2x^2+\dots+\frac{\alpha(\alpha-1)\cdots (\alpha-n+1)}{n!}x^n+o(x^n)$ avec $\alpha$ non entier
+- $\cosh(x) \approx \sum_{k=0}^{n} \frac{x^{2k}}{(2k)!}$ 
 - $\sinh(x) \approx \sum_{k=0}^{n} \frac{x^{2k+1}}{(2k+1)!}$
 - $\frac{1}{\sqrt{1-x}}$=$\sum^{+\infty}_{n=0} \frac{1}{2^{2n}} \binom{2n}{n} x^n$ de Nollan
 ##### Trigonométrie

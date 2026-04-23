@@ -70,9 +70,19 @@ Whats more, while UV-vis spectrometry could be used to determine absorbances at 
 ---
 ### Electrochemical analysis
 
-**Protocol:** for this analysis a three electrode cell was set up (see below). 20 mL of test electrolyte was poured in the glass cell. A magnetic stirrer was used in the linear sweep voltammetry experiments for measurement of Br−/Br3− kinetics in the simulated positive half-cell samples. The simulated positive and negative electrolytes were prepared by adding different amounts of MEM and MEP to V(III) or V(IV) halide solutions that had been prepared by dissolving V2O3, or equimolar quantities of V2O3 and V2O5 powders respectively in 7.6 M HBr + 1.46 M HCl solutions. The amount of MEM and MEP added varied from 0 to 5 mL. Liquid bromine was added to simulate the charged positive half-cell electrolyte of the cell.
+**Protocol :** for this analysis a three electrode cell was set up (see below). 20 mL of test electrolyte was poured in the glass cell. A magnetic stirrer was used in the linear sweep voltammetry experiments for measurement of $\text{Br}^−$/$\text{Br}_3^−$ kinetics in the simulated positive half-cell samples. The simulated positive and negative electrolytes were prepared by adding different amounts of MEM and MEP to V(III) or V(IV) halide solutions that had been prepared by dissolving V2O3, or equimolar quantities of V2O3 and V2O5 powders respectively in 7.6 M HBr + 1.46 M HCl solutions. The amount of MEM and MEP added varied from 0 to 5 mL. Liquid bromine was added to simulate the charged positive half-cell electrolyte of the cell.
 
 ![AIBN_Three_Electrode_setup.png](/img/user/Excalidraw/AIBN_Three_Electrode_setup.png)
 
 Source : 
 - Evaluation of N-ethyl-N-methyl-morpholinium bromide and N-ethyl-N-methyl-pyrrolidinium bromide as bromine complexing agents in vanadium bromide redox flow batteries http://dx.doi.org/10.1016/j.electacta.2013.06.084
+
+---
+
+### Effective hydrodynamic/Stokes radius in water at ambient temperatures :
+
+- **$\mathrm{I_3^-}$**: **$\approx 0.22\ \text{nm}$** : based on $D \approx 1.1\times 10^{-9}\ \mathrm{m^2\,s^{-1}}$ reported for aqueous triiodide.
+
+- **$\mathrm{Br_3^-}$**: **$\approx 0.21\ \text{nm}$** : based on $D \approx 1.145\times 10^{-9}\ \mathrm{m^2\,s^{-1}}$ for tribromide in water.
+
+- **$\mathrm{Br_5^-}$**: no reliable tabulated aqueous hydrated radius in the literature, but polybromides are larger/slower than $\mathrm{Br^-}$. Structurally, $\mathrm{Br_5^-}$ is also less sphere-like and can appear as V-shaped or chain-like motifs, so a single “radius” is less well defined.
