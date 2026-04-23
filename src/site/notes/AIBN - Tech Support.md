@@ -4,6 +4,7 @@
 
 ## Spectrometer
 https://www.bas.co.jp/
+https://www.als-japan.com/dlc/manual/sec2020_manual/sec2020_user_guide_software_en_ver270.pdf
 - UV/VIS/NIR spectrometer : 200-1025 nm
 
 
