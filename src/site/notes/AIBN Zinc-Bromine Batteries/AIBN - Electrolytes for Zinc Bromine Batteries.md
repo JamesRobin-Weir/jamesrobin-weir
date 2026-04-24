@@ -36,7 +36,7 @@ For **100 mL** of final electrolyte:
 **Beware :** these numbers are for the anhydrous salts in the lab. If new samples of ZnBr₂ or KCl are hydrated, the gram amounts need to be corrected to the hydrate’s molar mass.
 
 **Procedure :**
-1. Add about **60–70 mL** deionised water to a volumetric flask
+1. Add about **20 mL** deionised water to a volumetric flask
 2. Add and dissolve **ZnBr₂**
 3. Add **KCl** and mix corked flask until clear
 4. Add the **MEP bromine-complexing agent** and mix
@@ -44,6 +44,7 @@ For **100 mL** of final electrolyte:
 
 **Notes :**
 - Add Zn salts gradually; these solutions can warm on dissolution.
+- The volume of salts added is non negligible with regards to solution volume : be careful to not add too much water
 - Use corrosion-resistant labware and good ventilation.
 - Because bromine-complexing agents can change phase behaviour, mix until visually uniform.
 
