@@ -16,6 +16,7 @@
 - An aqueous solution of dissolved $\text{ZnBr}_2$ 1-4 M) is used as the electrolyte in most ZBRBs
 - Bromine smells like bleach, and $Br_3⁻$ or polyhalide ions are highly oxidising
 - Bromine shuttle eﬀect : diffusion of polybromide ions (resulting from $\text{Br}_2$ binding with $\text{Br}⁻$) from cathode to anode, leading to battery degradation (self discharge, capacity fade)
+- SoC = State of Charge (of the battery) : higher SoC increases overpotentials
 
 ---
 
@@ -129,7 +130,7 @@ So the same cathode chemistry is often written in the overall form:
 - $3\,\mathrm{Br^-} \rightarrow \mathrm{Br_3^-} + 2e^-$ (Charging)
 - $\mathrm{Br_3^-} + 2e^- \rightarrow 3\,\mathrm{Br^-}$ (Discharging)
 
-Conceptually, at the electrode bromide is oxidized to bromine. Then, in the electrolyte, bromine is redistributed into dissolved/complexed bromine species, especially $\mathrm{Br_3^-}$, and at higher bromine loading also higher polybromides such as $\mathrm{Br_5^-}$ and $\mathrm{Br_7^-}$.
+Conceptually, at the electrode bromide is oxidised to bromine. Then, in the electrolyte, bromine is redistributed into dissolved/complexed bromine species, especially $\mathrm{Br_3^-}$, and at higher bromine loading also higher polybromides such as $\mathrm{Br_5^-}$ and $\mathrm{Br_7^-}$.
 
 In practical batteries much of the bromine inventory is stored in these complexed forms rather than as “free” $\mathrm{Br_2}$.
 

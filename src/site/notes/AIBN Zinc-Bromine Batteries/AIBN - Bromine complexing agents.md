@@ -13,12 +13,12 @@ Classically in ZBRBs systems, quaternary ammonium bromides (QBr), such as N-ethy
 ```smiles
 CC[N+]1(C)CCOCC1.[Br-]
 ```
-	*Fig. 1 : MEM*
+	Fig. 1 : MEM
 
 ```smiles
 CC[N+]1(C)CCCC1.[Br-]
 ```
-	*Fig. 2 : MEP*
+	Fig. 2 : MEP
 
 Experimentally, it has been shown that 0.75-0.8 M of total QBr can effectively eliminate bromine vapour at a temperature of 11°C, with all of the bromine effectively bound as an orange oily layer that settles to the bottom of the sample bottles. The orange oily layer seems to form only in the presence of both $\text{Br}_2$ and complexing agents. 
 
