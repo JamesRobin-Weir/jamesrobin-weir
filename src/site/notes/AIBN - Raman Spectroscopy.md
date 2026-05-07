@@ -104,3 +104,5 @@ The best compromise is often measuring along a line instead of an area, and usin
 ### Sources : 
 - Bruker _Raman for Beginners_ video series
 - LibreTexts Chemistry :  4.3: Raman Spectroscopy 
+- Basic Introduction to Raman Spectroscopy (Part I: Fundamentals), Vincent Meunier
+- Basic Introduction to Raman Spectroscopy (Part II, applications), Vincent Meunier

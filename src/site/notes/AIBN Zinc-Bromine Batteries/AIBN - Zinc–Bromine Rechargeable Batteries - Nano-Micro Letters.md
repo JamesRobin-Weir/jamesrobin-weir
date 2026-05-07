@@ -143,7 +143,7 @@ On top of $\text{ZnBr}_2$, supporting secondary salts (e.g. $\text{ZnCl}_2$ and 
 ### Membrane
 - Must minimise the diffusion of $\text{Br}_2$ to the electroplated zinc, which causes self-discharge and lower CE for the system
 - In terms of morphology, membranes can be generally classified into porous and ion-exchange membranes (e.g. Nafion®), which are both appropriate and capable of separating the anode and cathode electrolytes in ZBFBs.
-	- Porous membranes are defined as macroporous (> 50 nm), mesoporous (2–50 nm) or microporous (0.2–2 nm) depending on their average pore diameter, while non-porous membranes transport ions via solution–diffusion mechanisms
+	- Porous membranes are defined as macroporous (> 50 nm), mesoporous (2-50 nm) or microporous (0.2-2 nm) depending on their average pore diameter, while non-porous membranes transport ions via solution–diffusion mechanisms
 
 ---
 

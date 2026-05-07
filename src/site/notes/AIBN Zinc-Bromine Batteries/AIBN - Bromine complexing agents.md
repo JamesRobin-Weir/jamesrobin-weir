@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-bromine-complexing-agents/","dg-note-properties":{"aliases":["MEP","MEM"]}}
+{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-bromine-complexing-agents/","dg-note-properties":{"aliases":["MEP","MEM","BCAs","BCA"]}}
 ---
 
 ---
 # {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
-## ZBRB bromine complexing agents
+## ZBRB bromine complexing agents (BCAs)
 
 Classically in ZBRBs systems, quaternary ammonium bromides (QBr), such as N-ethyl-N-methyl-morpholinium bromide (MEM) and N-ethyl-N-methyl-pyrrolidinium bromide (MEP), are added the positive and negative half cell electrolytes.
 
@@ -45,7 +45,7 @@ Source : 10.1002/adfm.202514730
 
 MEP-Br salt is colourless to pale, with no strong intrinsic visible absorption band. 
 
-However, molecular Br₂ has a visible absorption centered around 390 nm, while Br₃⁻ has a strong UV band around 267-279 nm. Therefore UV-vis spectrometry could be use to evaluate bromine concentration. 
+However, molecular Br₂ has a visible absorption centered around 390 nm (3.18 eV), while Br₃⁻ has a strong UV band around 267-279 nm (4.59 eV). Therefore UV-vis spectrometry could be use to evaluate bromine concentration. 
 
 The **first limitation** is speciation. In water, bromine, bromide, and tribromide are in equilibrium:
 $$\mathrm{Br_2 + Br^- \rightleftharpoons Br_3^-}$$
@@ -86,3 +86,8 @@ Source :
 - **$\mathrm{Br_3^-}$**: **$\approx 0.21\ \text{nm}$** : based on $D \approx 1.145\times 10^{-9}\ \mathrm{m^2\,s^{-1}}$ for tribromide in water.
 
 - **$\mathrm{Br_5^-}$**: no reliable tabulated aqueous hydrated radius in the literature, but polybromides are larger/slower than $\mathrm{Br^-}$. Structurally, $\mathrm{Br_5^-}$ is also less sphere-like and can appear as V-shaped or chain-like motifs, so a single “radius” is less well defined.
+
+---
+## Oil phase aqueous phase equilibrium
+
+Due to the precipitation of $\text{MEPBr}_3$ into a molten salt phase, an bromine concentrations reach an equilibrium between phases. One study found that the measured bromine concentration of the aqueous phase at equilibrium for 0.25, 0.5, 0.75, 1, 1.25, 1.5, and 2 M initial bromine concentration was, respectively, 34, 39, 52, 77, 113, 177 and 375 mM.

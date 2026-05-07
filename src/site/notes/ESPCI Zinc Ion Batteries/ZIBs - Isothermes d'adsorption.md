@@ -6,12 +6,13 @@
 # {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
-## Définitions
+## Isothermes d'adsorption
+### Définitions
 - **Adsorbat** : composé adsorbé sur la surface de l'adsorbant
 - **Adsorbant** : composé solide intervenant dans le processus d’adsorption. Il effectue une catalyse hétérogène e.g. charbon actif, zéolites
 - L'IUPAC classe les adsorbants selon la taille des pores : diamètre supérieur à 50 nm = **macropores**, compris entre 2 et 50 nm = **mésopores**, inférieur à 2 nm = **micropores**
 
-## Isotherme de Langmuir 
+### Isotherme de Langmuir 
 Cet isotherme décrit de façon simple la formation d'une monocouche d'adsorbat A sur une surface adsorbante à une température donnée, donnant une proportion de sites occupés à l'équilibre de $\Theta_A = \frac{K_\text{éq} \, P_A }{1+K_\text{éq} \, P_A}$, ou ${\displaystyle K_{\text{éq}}}$ est une constante caractéristique de l'interaction entre A et la surface.
 #### Hypothèses
 - Absorption mono-couche sur une surface homogène et uniforme
@@ -38,9 +39,10 @@ Cet isotherme décrit de façon simple la formation d'une monocouche d'adsorbat 
 - Très utilisé pour l'étude des catalyseurs
 - Ne peut s'appliquer lorsqu'il existe plusieurs types de sites, ou plusieurs adsorbats (éventuellement non idéaux)...
 
+### Isotherme de Freundlich
 
-## Isotherme de Freundlich
-![Freundlich_isoT.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/Freundlich_isoT.png)
+![Isotherme_Freundlich.png](/img/user/Excalidraw/Isotherme_Freundlich.png)
+
 - $\dfrac{m_a}{m_b}=K_f \times p^{\frac1n}$ ou $m_a$ est la masse adsorbée de A, $m_b$ la masse d'adsorbant A totale, $K_f$ un constante =f(T, A, surface)
 - Contrairement à celui de Langmuir, l'isotherme de Freundlich s'applique à des adsorptions multi-couche sur des surfaces hétérogènes
 - un ${\displaystyle \Delta _{\mathrm {r} }H}$ qui varie avec l'occupation des sites indique une surface inhomogène et donc l'emploi de l'isotherme de Freundlich
