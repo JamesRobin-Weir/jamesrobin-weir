@@ -8,3 +8,19 @@
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
 }
+
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "jamesrobin-weir.vercel.app"
+        }
+      ],
+      "destination": "https://jamesrobinweir.com/:path*",
+      "permanent": true
+    }
+  ]
+}
