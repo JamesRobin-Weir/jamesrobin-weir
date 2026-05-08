@@ -61,7 +61,7 @@ NS(=O)(=O)O[Na]
 
 Pictured above, this complexing agent allows for a homogeneous solution, better suited to spectroscopic analysis. 
 
-![AIBN_Br_SANa_comparison.png](/img/user/AIBN_Br_SANa_comparison.png)
+![AIBN_Br_SANa_comparison.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_Br_SANa_comparison.png)
 
 However this limitation does not apply when studying the bromine shuttling across the separator, as the trace polybromide that diffuses to the anolyte side is not sufficient to precipitate into an oily phase.
 
