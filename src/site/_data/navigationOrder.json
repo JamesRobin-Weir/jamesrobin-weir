@@ -1,0 +1,75 @@
+{
+  "/": [
+    "Weirsite",
+    "CPGE Fiches",
+    "AIBN Zinc-Bromine Batteries",
+    "ESPCI Zinc Ion Batteries",
+    "ESPCI Triboelectricite"
+  ],
+  "/Weirsite": [
+    "EE DAYS",
+    "Home Page",
+    "My carbon footprint",
+    "Projects"
+  ],
+  "/CPGE Fiches": [
+    "CPGE",
+    "Diffusion",
+    "Electricité",
+    "Épreuve Orale d'Anglais aux Concours - Méthode PC, MP, PSI, MPI",
+    "Fiche Mnemotechnique Chimie",
+    "Fiche Mnemotechnique Maths",
+    "Fiche Mnemotechnique Physique",
+    "Mécanique des fluides",
+    "Méthode d'anglais à l'oral",
+    "Ondes Electromagnetiques",
+    "Ondes matériels",
+    "Optique",
+    "OSCILLATEURS",
+    "Quantique",
+    "Rapports des Jurys - Épreuve Écrite d'Anglais",
+    "Références Anglophones",
+    "Thermodynamique",
+    "Typical Mines Télécom Presentation"
+  ],
+  "/AIBN Zinc-Bromine Batteries": [
+    "AIBN - .NET framework 3.5 install on windows 10",
+    "AIBN - Bromine complexing agents",
+    "AIBN - Electrochemical impedance spectroscopy (EIS)",
+    "AIBN - Electrolytes for Zinc Bromine Batteries",
+    "AIBN - Nafion Membranes",
+    "AIBN - Porosity Measurement",
+    "AIBN - Protocol UV-vis Bromine Crossover Quantification",
+    "AIBN - Raman Spectroscopy",
+    "AIBN - Xingchen Yang",
+    "AIBN - ZBRB Separator",
+    "AIBN - Zeta Potential",
+    "AIBN - Zinc coordination polymer glass MOF",
+    "AIBN - Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters",
+    "Project - Research Internship MOF aSEIs for zinc bromine flow batteries"
+  ],
+  "/ESPCI Zinc Ion Batteries": [
+    "Accumulateur",
+    "Caracterisation de batteries",
+    "Comment comparer differentes batteries",
+    "Cyclage galvanostatique",
+    "Electrode & Electrolyte Engineering in Aqueous Zinc-ion Batteries",
+    "Leakage",
+    "Lithium batteries - Overview",
+    "Project - Enhancing aqueous ZIBs",
+    "SEI",
+    "Spectroscopie d'impedance electrochimique (SIE)",
+    "Transmission Electron Microscopy",
+    "ZIB -  ZInc Ion Electrolytes",
+    "ZIBs - Electrolytes for chemical batteries",
+    "ZIBs - Isothermes d'adsorption"
+  ],
+  "/ESPCI Triboelectricite": [
+    "ESPCI - Potential Zeta",
+    "ESPCI - Taylor flow regime",
+    "ESPCI S1",
+    "Fiji Is Just ImageJ",
+    "Soft matter",
+    "Wetting"
+  ]
+}
