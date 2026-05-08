@@ -8,7 +8,7 @@
 # [[Weirsite/Projects\|Projects]] | [[CPGE Fiches/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
 
-![James ROBIN-WEIR.jpg\|200](/img/user/Weirsite/James%20ROBIN-WEIR.jpg)
+![JRW_headshot.png\|400](/img/user/Weirsite/JRW_headshot.png)
 ## Who am I ?
 
 Having originally moved from Australia to pursue my higher education in France, I am currently completing a dual masters of chemical and physical engineering at the **ESPCI Paris** (**École supérieure de physique et de chimie industrielles de la ville de Paris**) - **Chimie ParisTech** (**École nationale supérieure de chimie de Paris**) selective engineering colleges in France. 
