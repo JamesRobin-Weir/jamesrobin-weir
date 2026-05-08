@@ -21,7 +21,7 @@ I am interested in functional materials for energy and the sustainable chemistry
 
 ## What can be found here ?
 
-This website allows me to publish revision notes and method sheets for my [classe préparatoire aux grandes écoles](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) khôlle students in maths and English, as well as updates on internships or research initiatives usually related to materials and energy that I thought might be worth sharing. 
+This website allows me to publish revision notes and method sheets for my [classe préparatoire aux grandes écoles](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) khôlle students in maths and English, as well as updates on internships or research initiatives usually related to materials and energy that I thought might be worth sharing.
 
 For any inquiries, or for suggestions or feedback regarding my site's revision sheets and articles, please contact me at jamesrobinweir@gmail.com !
 
