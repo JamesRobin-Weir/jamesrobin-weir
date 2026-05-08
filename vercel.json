@@ -7,10 +7,7 @@
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
-}
-
-{
-  "redirects": [
+    "redirects": [
     {
       "source": "/:path*",
       "has": [
