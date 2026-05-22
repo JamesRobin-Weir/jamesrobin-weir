@@ -8,7 +8,7 @@
 
 ## Protocol : H-cell polybromide shuttling quantification
 
-![AIBN_Bromine_Crossover_Quantification.png](/img/user/Excalidraw/AIBN_Bromine_Crossover_Quantification.png)
+![AIBN_Bromine_Crossover_Quantification.png](/img/user/Excalidraw/AIBN%20Presentation/AIBN_Bromine_Crossover_Quantification.png)
 
 **Safety** : all experiments are to be undertaken with appropriate PPE and under a fume hood due to the risks associated even with trace amounts of bromine gas.
 

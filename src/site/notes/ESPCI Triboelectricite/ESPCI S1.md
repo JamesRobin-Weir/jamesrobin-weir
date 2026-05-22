@@ -47,7 +47,7 @@ Au niveau d'une seule goutte (par exemple la première) on peu analyser la forme
 ![Pic1_plaque.png\|Forme du premier pic](/img/user/ESPCI%20Triboelectricite/Pic1_plaque.png)
 On voit qu'il y a une décharge rapide initiale avec l'arrivée de la tête de la goutte sur l'électrode, puis une décharge plus lente lors du passage du milieu et de la queue de la goutte.
 ## Glissement dans un capillaire plastique (27 novembre)
-Dans le cadre de ce stage on souhaite plus particulièrement s'intéresser au cas du passage des gouttes dans des fins capillaires. 
+Dans le cadre de ce stage on souhaite plus particulièrement s'intéresser au cas du passage des gouttes dans des fins capillaires, avec un [[ESPCI Triboelectricite/ESPCI - Taylor flow regime\|flux de type Taylor]]. 
 
 Pour cela j'ai réalisé un montage similaire en remplaçant la plaque par une pipette plastique coupée aux deux extrémités, sans traitement hydrophobe en surface.
 
@@ -69,7 +69,7 @@ On remarque que chaque pic après dé-bruitage est triangulaire, caractérisée 
 
 On ne peut donc pas voir l'évolution de l'intensité lors du passage de la goutte sur l’électrode inférieur comme pour le premier montage. Il faudrait pour cela augmenter la fréquence d’échantillonnage. Cela pourrait être du à la vitesse plus importante de la goutte glissant à la vertical.
 
-## Oeufs de grenouille
+## Auto-organisation des gouttes
 
 En déposant mes gouttes chargées dans de l'huile, j'ai remarqué une forme de self assembly en amas de gouttes. De plus, il y avait une phase transitoire ou la goutte restait piégée à la surface.
 

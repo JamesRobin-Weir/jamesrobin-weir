@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/espci-triboelectricite/espci-taylor-flow-regime/","dg-note-properties":{"Link":"[[ESPCI S2]]"}}
+{"dg-publish":true,"permalink":"/espci-triboelectricite/espci-taylor-flow-regime/","dg-note-properties":{"Link":"[[ESPCI S2]]","aliases":["Taylor flow","flux de type Taylor"]}}
 ---
 
 ---
