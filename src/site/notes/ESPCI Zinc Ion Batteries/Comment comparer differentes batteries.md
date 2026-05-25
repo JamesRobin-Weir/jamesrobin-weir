@@ -15,7 +15,6 @@ Il existe de nombreux standards et grandeurs permettant de caractériser différ
 - Le **wattheure** (Wh) est une unité d'énergie équivalente à un watt de puissance consommé pendant une heure. En charge, on note Λ la capacité en Ah/kg.
 - La **densité énergétique** est la quantité d'énergie contenue dans une batterie par rapport à sa taille, généralement mesurée en wattheures par litre.
 - L'**énergie spécifique** est la quantité d'énergie contenue dans une batterie par rapport à son poids, en wattheures par kilogramme.
-- Le **rendement coulombique** est le rapport entre la charge libérée pendant la décharge (Ah) et la charge introduite pendant la charge (Ah).
 ---
 ### Caractérisation de la charge/décharge
 
@@ -25,6 +24,13 @@ Il existe de nombreux standards et grandeurs permettant de caractériser différ
 Les capacités de charge et de décharge à haut débit sont essentielles pour obtenir une charge rapide et répondre à des besoins élevés en énergie, mais elles réduisent généralement la capacité disponible réelle et affectent la durée de vie.
 
 - La **durée de vie cyclique** d'une batterie correspond au nombre de cycles de charge et de décharge complets qu'une batterie peut effectuer avant que son niveau de capacité ne tombe en dessous de 80 %.
+
+Au cours d'un essai de cycles de charge-décharge à un certain taux de charge, les paramètres suivants sont généralement enregistrés :
+
+- Rendement coulombique (CE) : rapport entre la charge libérée lors de la décharge (Ah) et la charge introduite lors de la charge (Ah). Un rendement coulombique élevé indique généralement une longue durée de vie de la batterie : $CE=\dfrac{Q_{décharge}}{Q_{charge}}$ et $Q_n=Q_0CE^n$, donc $n=\dfrac{ln(Q_n/Q_0)}{ln(CE)}$
+- Rendement voltaïque (VE) : mesure les effets de la polarisation de la cellule ou des pertes de tension de la cellule, calculé à l'aide de l'équation suivante $\eta_v=\dfrac{\frac{1}{t_{décharge}}\int V_{décharge}\mathrm{d}t}{\frac{1}{t_{charge}}\int V_{charge}\mathrm{d}t}×100$
+- Rendement énergétique (EE) : rapport entre l'énergie produite et l'énergie consommée pendant les cycles de charge et de décharge ; les batteries lithium-ion atteignent généralement des rendements supérieurs à 95 % : $EE=\dfrac{I_{discharge}V_{discharge}}{I_{charge}V_{charge}}$
+
 ---
 ### Caractéristiques physiques de la batterie
 
