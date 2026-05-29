@@ -8,7 +8,7 @@
 
 ## **Enhancing aqueous Zinc-ion batteries**
 
-![Dendrites_MVC.png](/img/user/Dendrites_MVC.png)
+![Dendrites_MVC.png](/img/user/CPT/Dendrites_MVC.png)
 	_Fig. 1 : Dendrites dans une batterie zinc de Prof. Rong Kou, MVC 13 Awards Gallery_
 
 Auteurs : Samir BERRADA, Mia BOURGEOIS, João Pedro CINTO DENARDI, Patricia DE OLIVEIRA MORAIS NAKAJIMA, Pierre HAÏOUN, James ROBIN-WEIR
@@ -47,7 +47,7 @@ Suite à la réunion avec notre tutrice, nous avons organisé une réunion avec 
 Le choix et la modulation de l’électrolyte est un outil essentiel afin de réduire la formation de dendrites. 
 Dans les piles Li-ion avec des électrolytes organiques, elle va donner lieu à un film de passivation interphase solide ([[ESPCI Zinc Ion Batteries/SEI\|SEI]]), qui a pour rôle non seulement d'empêcher les réactions parasites (entre l'électrolyte et l'électrode Li), mais aussi d'influencer le comportement de Li lors des charges-décharges.
 
-![Ideal_SEI.png](/img/user/Ideal_SEI.png)
+![Ideal_SEI.png](/img/user/ESPCI%20Triboelectricite/Ideal_SEI.png)
 	_Fig. 3 : Comparaison des caractéristiques entre une couche SEI idéale et une couche SEI typique³_
 
 
@@ -107,7 +107,7 @@ Les MOFs (Metal-Organic Frameworks) sont une famille de composés cristallins hy
 Grâce à leur porosité modulable, ils forment de bonnes couches interface anode-électrolyte : Jenfeng et al.¹⁵ utilisent un aMOF (MOF amorphe) appelé AZ (ATMP-Zr) à base de zirconium +IV et d’un ligand phosphoné ATMP (acide aminotri(méthylènephosphonique)). Ce MOF répandu sur la surface de l’anode va former une SEI artificielle (aSEI)<sup><a href="https://www.zotero.org/google-docs/?x6SzLO">3</a></sup> dans les batteries, se rapprochant d’un [[ESPCI Zinc Ion Batteries/SEI\|SEI]] idéal (*Fig. 3. droite*)
 
 
-![MOFS.png](/img/user/MOFS.png)
+![MOFS.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/MOFS.png)
 	*Fig. 4 : Structure de MOFs selon les ligands de coordinations.*
 
 Dans cet article, AZ est constitué de pores où le ligand phosphoré possède des sites de transferts ioniques pour le Zn<sup>2+</sup> entre l’électrolyte et l’électrode (*Fig. 4. a*), ils permettent également de casser les complexes [Zn(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> à la surface du MOF en agissant comme un tamis moléculaire (*Fig. 4. e*).

@@ -9,7 +9,7 @@
 # Lithium batteries - Overview
 
 There are two main types of lithium batteries : lithium-metal and lithium-ions, which both have different use cases and advantages.
-![Lithium_ion_versus_metal.png](/img/user/Lithium_ion_versus_metal.png)
+![Lithium_ion_versus_metal.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/Lithium_ion_versus_metal.png)
 	_Fig. : LMBs versus LIBs$^1$_
 
 ---

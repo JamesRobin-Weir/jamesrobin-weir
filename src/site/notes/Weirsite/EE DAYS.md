@@ -34,7 +34,7 @@ L'exposition énergétique est 4 fois la production annuelle (540 TWh) et de 70%
 
 ![Future_energy_usage.png](/img/user/Weirsite/Future_energy_usage.png)
 ## Zenon
-![Importations_energetiques_europe.png](/img/user/Importations_energetiques_europe.png)
+![Importations_energetiques_europe.png](/img/user/CPT/Importations_energetiques_europe.png)
 *Figure - Dépendances aux importations énergétiques des pays de l’Union européenne en 2023 (Eurostat, 2024)*
 
 ## Game changer

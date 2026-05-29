@@ -10,7 +10,7 @@
 
 During Lithium Metal Battery (LMB) operation, an interphase passivation film (SEI) is formed between the Li metal phase and the [[ESPCI Zinc Ion Batteries/ZIBs - Electrolytes for chemical batteries\|ZIBs - Electrolytes for chemical batteries]] phase by spontaneous chemical reactions and electrochemical reductions of the latter. 
 
-![Ideal_SEI.png](/img/user/Ideal_SEI.png)
+![Ideal_SEI.png](/img/user/ESPCI%20Triboelectricite/Ideal_SEI.png)
 
 SEIs are responsible for not only impeding the continuous parasitic reactions between the electrolyte and Li electrode, but also influencing the deposition and stripping behaviours of Li. 
 

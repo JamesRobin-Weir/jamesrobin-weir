@@ -23,15 +23,15 @@ _[Image ](https://www.researchgate.net/figure/The-theoretical-distribution-of-th
 
 ### ZBRB electrolyte preparation protocol
 
-In Bin Luo's lab the electrolyte used for ZBRBs is an aqueous solution of 2.0 M ZnBr₂ + 3.0 M KCl + 0.4 M MEP, and whilst their industry partner Redflow also added ZnCl₂ as a supporting salt, they do not. 
+In Bin Luo's lab the negolyte used for ZBRBs is an aqueous solution of 2.0 M ZnBr₂ + 3.0 M KCl, and the posolyte is the same but with 0.4 M MEP, and whilst their industry partner Redflow also added ZnCl₂ as a supporting salt, they do not. 
 
 **Safety :** zinc bromide is corrosive and toxic, and must be handled with proper PPE
 
-For **100 mL** of final electrolyte:
+For **100 mL** of final posolyte and **100 mL** of final negolyte (makes two flow cells):
 
 - **Anhydrous ZnBr₂ at 99%:** 2 M at 225.2 g/mol → **45.04 g**
-- **KCl:** 3 M at 74.55 g/mol → **7.46 g**
-- **MEP bromine-complexing agent:** 0.4 M at 202.2 g/mol → **8.089 g** for **1-ethyl-1-methylpyrrolidinium bromide**
+- **KCl:** 3 M at 74.55 g/mol → **22.365 g**
+- **MEP bromine-complexing agent:** 0.4 M at 194.12 g/mol → **7.765 g** for **1-ethyl-1-methylpyrrolidinium bromide** (ONLY FOR THE POSOLYTE)
 
 **Beware :** these numbers are for the anhydrous salts in the lab. If new samples of ZnBr₂ or KCl are hydrated, the gram amounts need to be corrected to the hydrate’s molar mass.
 
