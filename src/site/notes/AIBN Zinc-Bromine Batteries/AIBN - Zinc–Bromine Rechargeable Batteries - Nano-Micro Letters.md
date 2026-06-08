@@ -94,7 +94,6 @@ Graphite felt (porous to catholyte)
 Brome catholyte 
 Zinc anolyte 
 Graphite felt (porous to anolyte) 
-Anode (zinc) 
 e⁻ 
 ZINC BROMINE FLOW BATTERY SCHEMATIC 
 PUMPS 

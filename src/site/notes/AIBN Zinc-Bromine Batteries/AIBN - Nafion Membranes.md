@@ -10,6 +10,12 @@
 - Sulfonated tetrafluoroethylene based fluoropolymer-copolymer which is part of a family of polymers with ionic properties
 - Often used as a proton conductor for PEM membranes
 
+Due to their preferential cation transport, dense cation exchange membranes like Nafion membranes may be unsuitable for Zn/Br redox flow batteries which require bi-ionic transport of Zn2+ and Br- ions.
+
+In zinc-bromine redox flow batteries (ZBRBs) the cycle time with a 16 μm-thick Nafion-filled porous membrane was 1 hour for 10 to 40 $\text{mAcm}^{-2}$
+
+Some Nafion membranes require surface activation
+
 **Nafion monomer**
 
 ```smiles

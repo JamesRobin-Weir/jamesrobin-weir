@@ -25,7 +25,7 @@ MOFs tend to have micropores which can be measured via gas porosity/adsorption.
 
 The most common isotherms are I, II, and IV, associated with microporous, non-porous, and mesoporous materials, respectively. Furthermore, just as materials can contain both mesopores and micropores, some combinations of these classes are possible, such as a type I + IV.
 
-![AIBN_Isotherm_types.png](/img/user/AIBN_Isotherm_types.png)
+![AIBN_Isotherm_types.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_Isotherm_types.png)
 
  Gurvich rule : assumes that the horizontal plateau of an isotherm represents the region where pore filling is complete and that fluid adsorbed in the pores has the same density as the bulk liquid at the same temperature and pressure.$$V_{tot} = \dfrac{m^{sat}_{ads}}{\rho_{liq}}= \dfrac{𝑉_{𝑆TP}𝑀 𝑝}{\rho R T} = 𝑉_{𝑆TP} × 1.547 × 10^{−3}$$When using nitrogen, $V_{tot}$ is total pore volume, M molar mass of $N_2$, p is pressure at STP
 
