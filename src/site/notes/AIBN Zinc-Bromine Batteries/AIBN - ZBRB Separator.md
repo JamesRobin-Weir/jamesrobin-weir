@@ -45,7 +45,9 @@ Speek is a hydrocarbon-based membrane that is widely used in fuel cells and vana
 
 ![AIBN_SPEEK_membrane.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_SPEEK_membrane.png)
 
-Immersion of the SPEEK membrane in an electrolytic solution containing ZnCl2 results in replacement of the H⁺ ions with Zn²⁺ ions through the ion-exchange process. However, in ZBFBs, due to its harsh nature, bromine permeates through the SPEEK membrane and attacks the sulfonate group, leading to low membrane durability. 
+Immersion of the SPEEK membrane in an electrolytic solution containing $\text{ZnCl}_2$ results in replacement of the H⁺ ions with Zn²⁺ ions through the ion-exchange process. However, in ZBFBs, due to its harsh nature, bromine permeates through the SPEEK membrane and attacks the sulfonate group, leading to low membrane durability. 
+
+
 
 ---
 

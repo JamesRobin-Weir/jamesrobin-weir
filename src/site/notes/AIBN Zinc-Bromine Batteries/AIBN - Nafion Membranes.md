@@ -9,12 +9,23 @@
 ## Nafion Polymer
 - Sulfonated tetrafluoroethylene based fluoropolymer-copolymer which is part of a family of polymers with ionic properties
 - Often used as a proton conductor for PEM membranes
+- Disadvantages : high electro-osmotic drag, high methanol cross-over, and high ionic cross-over, enhancing the self-discharge rate and leading to a decrease in battery performance.
 
 Due to their preferential cation transport, dense cation exchange membranes like Nafion membranes may be unsuitable for Zn/Br redox flow batteries which require bi-ionic transport of Zn2+ and Br- ions.
 
 In zinc-bromine redox flow batteries (ZBRBs) the cycle time with a 16 μm-thick Nafion-filled porous membrane was 1 hour for 10 to 40 $\text{mAcm}^{-2}$
 
-Some Nafion membranes require surface activation
+Some Nafion membranes require surface activation:
+- immersed in 0.5 L stirred deionised water
+- purification step with hydrogen peroxide
+- three washing steps in deionized water
+- acid treatment
+- three additional washing steps in deionized water were applied.
+
+The temperature during all steps was set to 80 °C while the duration of each step was one hour.
+
+However given the acidic nature of the 
+
 
 **Nafion monomer**
 
