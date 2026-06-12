@@ -6,7 +6,7 @@
 # {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
-## **Interfacial Double layer**
+## **Interfacial Double layer (DL)**
 
 A double layer is a spontaneous ionic structure of two parallel layers of charge on the surface of an immersed object. 
 - Stern layer : condensed counter-ions, stationary, adsorbed on the particle via chemical interactions
@@ -18,11 +18,11 @@ These structures are particularly relevant substances with high surface to volum
 
 - **Key point:** a high zeta potential $\Rightarrow$ strong repulsion $\Rightarrow$ high stability with respect to aggregation at the bottom of the solution (and not suspension)
 
-- **Zeta potential** : electric potential in the slipping plane, also called electrokinetic potential and often denoted as ζ-potential.
+- **Zeta potential** : electric potential in the slipping plane, also called electrokinetic potential and often denoted as $\zeta$-potential, it is used to estimate DL charge, usually in the order of tens of mV
 
 ### Point of zero charge (pzc)
 
-The pzc is the pH at which the net electrical charge of the particle surface (e.g. the adsorbent's surface) is equal to zero. Generally, the pzc in electrochemistry is $\text{-}\log{a_{M^{Z\pm}}}$, $M^{Z\pm}$ being the potential-determining ion in the bulk fluid.
+The pzc is the pH of net zero electrical charge of the particle surface, equivalent to $\zeta = 0$. Generally, the pzc in electrochemistry is $\text{-}\log{a_{M^{Z\pm}}}$, $M^{Z\pm}$ being the potential-determining ion in the bulk fluid.
 
 From the view of the adsorbent, if the pH of the solution is below the pzc value, the surface charge of the adsorbent would become positive so that the anions can be adsorbed. Conversely, if the pH is above the pzc value, the surface charge would be negative so that the cations can be adsorbed.
 
