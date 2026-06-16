@@ -58,7 +58,6 @@ The **second limitation** is the separation of aqueous and oily MEP-polybromide 
 ```smiles
 NS(=O)(=O)O[Na]
 ```
-
 Pictured above, this complexing agent allows for a homogeneous solution, better suited to spectroscopic analysis. 
 
 ![AIBN_Br_SANa_comparison.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_Br_SANa_comparison.png)
@@ -91,3 +90,7 @@ Source :
 ## Oil phase aqueous phase equilibrium
 
 Due to the precipitation of $\text{MEPBr}_3$ into a molten salt phase, an bromine concentrations reach an equilibrium between phases. One study found that the measured bromine concentration of the aqueous phase at equilibrium for 0.25, 0.5, 0.75, 1, 1.25, 1.5, and 2 M initial bromine concentration was, respectively, 34, 39, 52, 77, 113, 177 and 375 mM.
+
+---
+
+Sources : Recent Advances in Bromine Complexing Agents for Zinc–Bromine Redox Flow Batteries, 2023

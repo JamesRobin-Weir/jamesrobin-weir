@@ -21,6 +21,7 @@ However they are also defined by accessibility : at the surface through pores al
 
 MOFs tend to have micropores which can be measured via gas porosity/adsorption.  
 
+---
 ## Porometry isotherms
 
 The most common isotherms are I, II, and IV, associated with microporous, non-porous, and mesoporous materials, respectively. Furthermore, just as materials can contain both mesopores and micropores, some combinations of these classes are possible, such as a type I + IV.
@@ -34,6 +35,8 @@ Sources: https://www.microtrac.com/files/99153/what-is-the-information-obtained-
 ---
 
 ## GCMC Simulation
+
+RASPA 3 can be used for pore size simulation from .cif files for crystaline species.
 ### Raspa3
 Framework LJ: UFF or DREIDING
 N2 model: TraPPE N2

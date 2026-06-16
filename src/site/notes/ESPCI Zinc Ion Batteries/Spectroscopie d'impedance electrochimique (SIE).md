@@ -7,6 +7,7 @@
 ---
 
 ## Spectroscopie d'impédance électrochimique (SIE)
+
 La spectroscopie d’impédance électrochimique (SIE) est une technique de caractérisation d'un système électrochimique (batterie, électrolyseur, pile à combustible) qui consiste à appliquer un signal alternatif de faible amplitude au système électrochimique et à en mesurer la réponse à différentes fréquences.
 
 ![ZIB_SIE_white.png](/img/user/Excalidraw/ZIB_SIE_white.png)
@@ -36,6 +37,7 @@ Cela permet de faire un modèle électrique (circuit), puis de faire du fitting 
 
 ---
 ### Quelques principes et ordres de grandeur
+
 - **Temps de chargement de la double couche électronique** : microseconde
 - **Temps caractéristique de diffusion ionique** : centaine de milliseconde
 - A basse fréquence on retrouve plutôt les processus de haute impédance, comme la diffusion ionique
@@ -54,3 +56,4 @@ Alors si le rapport $\dfrac{Z_i}{Z_r}$ est linéaire avec la fréquence, alors l
 
 ---
 Sources : https://pineresearch.com/support-article/eis-basics/
+

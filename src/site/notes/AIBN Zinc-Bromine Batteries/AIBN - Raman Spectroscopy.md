@@ -106,3 +106,14 @@ The best compromise is often measuring along a line instead of an area, and usin
 - LibreTexts Chemistry :  4.3: Raman Spectroscopy 
 - Basic Introduction to Raman Spectroscopy (Part I: Fundamentals), Vincent Meunier
 - Basic Introduction to Raman Spectroscopy (Part II, applications), Vincent Meunier
+
+---
+## Raman for ZBFBs
+The Raman intensities for the polybromide species are as follows :
+
+| Polybromide Species            | Raman Shift ($\text{cm}^{-1}$) |
+| ------------------------------ | ------------------------------ |
+| Tribromide $\text{Br}_3^{-}$   | 163-198                        |
+| Pentabromide $\text{Br}_5^{-}$ | 231-380                        |
+| Free bromine $\text{Br}_2$     | 310                            |
+Source : Recent Advances in Bromine Complexing Agents for Zinc–Bromine Redox Flow Batteries, Jiménez-Blasco et al.
