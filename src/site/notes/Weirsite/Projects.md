@@ -14,7 +14,8 @@ Building on previous research projects, this 5 month research placement aims to 
 
 - [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\| Bromine complexing agents]]
 - [[AIBN Zinc-Bromine Batteries/AIBN - Porosity Measurement\| Porosity Measurement]]
-- [[AIBN - Nafion Membranes]|Nafion Membranes]
+- [[AIBN Zinc-Bromine Batteries/AIBN - Nafion Membranes\|Nafion Membranes]]
+- [[AIBN Zinc-Bromine Batteries/AIBN - Raman Spectroscopy\|Raman Specroscopy]]
 
 ## **Chimie ParisTech - ENSCP**
 ### [[ESPCI Zinc Ion Batteries/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
