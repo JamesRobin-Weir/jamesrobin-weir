@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-zbrb-separator/","dg-note-properties":{"aliases":["Daramic","Self Discharge"]}}
+{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-zbrb-separator/","dg-note-properties":{"aliases":["Daramic","Self Discharge","SPEEK"]}}
 ---
 
 ---

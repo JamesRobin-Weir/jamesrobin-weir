@@ -8,15 +8,8 @@
 
 ## Zinc-Bromine Rechargeable Batteries - Nano-Micro Letters (2023)
 
-### Glossary, safety and general information
-- GF = Graphite Felt
-- Anolyte : gives up $e⁻$
-- Catholyte : accepts $e⁻$
-- Membrane : lets $p⁺$ through
-- An aqueous solution of dissolved $\text{ZnBr}_2$ 1-4 M) is used as the electrolyte in most ZBRBs
-- Bromine smells like bleach, and $Br_3⁻$ or polyhalide ions are highly oxidising
-- Bromine shuttle eﬀect : diffusion of polybromide ions (resulting from $\text{Br}_2$ binding with $\text{Br}⁻$) from cathode to anode, leading to battery degradation (self discharge, capacity fade)
-- SoC = State of Charge (of the battery) : higher SoC increases overpotentials
+---
+For a glossary, as well as safety and general information see [[AIBN - RFB Glossary\|RFB Glossary]]
 
 ---
 
