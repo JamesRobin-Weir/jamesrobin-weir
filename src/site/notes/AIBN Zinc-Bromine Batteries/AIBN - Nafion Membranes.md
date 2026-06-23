@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-nafion-membranes/","dg-note-properties":{"aliases":["Nafion"]}}
+{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-nafion-membranes/","dg-note-properties":{"aliases":["Nafion","PFSA"]}}
 ---
 
 ---
@@ -10,6 +10,7 @@
 - Sulfonated tetrafluoroethylene based fluoropolymer-copolymer which is part of a family of polymers with ionic properties
 - Often used as a proton conductor for PEM membranes
 - Disadvantages : high electro-osmotic drag, high methanol cross-over, and high ionic cross-over, enhancing the self-discharge rate and leading to a decrease in battery performance.
+- Nafion is a perfluorosulfonic acid (PFSA)
 
 Due to their preferential cation transport, dense cation exchange membranes like Nafion membranes may be unsuitable for Zn/Br redox flow batteries which require bi-ionic transport of Zn2+ and Br- ions.
 

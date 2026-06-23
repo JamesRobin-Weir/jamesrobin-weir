@@ -7,7 +7,7 @@
 ---
 
 ## ZBRB Separator
-t is necessary to keep both compartments of the half cell separate with regards to zinc metal and bromine gas, in order to avoid self discharge (see figure below), whilst still allowing for ion transport.
+It is necessary to keep both compartments of the half cell separate with regards to zinc metal and bromine gas, in order to avoid self discharge (see figure below), whilst still allowing for ion transport.
 
 ![ZBRB_self_discharge.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/ZBRB_self_discharge.png)
 
@@ -39,15 +39,15 @@ _Source : 10.1016/j.jpowsour.2012.11.033_
 In order to limite the bromine diffusion, CNTs are added in the fill of the pores of the Daramic membrane to inhibit the crossover of bromine species, with [[AIBN Zinc-Bromine Batteries/AIBN - Nafion Membranes\|nafion]] ionomer as the pore filling agent.
 
 ---
-## Sulfonated poly (ether ether ketone) (SPEEK) membrane
+## Sulfonated poly(ether ether ketone) (SPEEK)
 
-Speek is a hydrocarbon-based membrane that is widely used in fuel cells and vanadium redox flow batteries as an ion-exchange membrane with excellent chemical, thermal stability, and low cost. The sulfonate anions of SPEEK are fixed on the polymer backbone, with only the counter-cations being mobile. 
+A hydrocarbon-based cation-exchange membrane, SPEEK sees widespread use in hydrogen PEM and direct methanol fuel cells 1,2, as well as VFBs 3 due to its chemical and thermal stability coupled with low material cost. It was developed as a cheaper, non fluorinated alternative to PFSA membranes such as Nafion. Sulfonate anions are fixed on the PEEK backbone, usually via a sulfuric acid bath, creating the copolymer pictured below. However, membrane performance depends heavily upon the degree of sulfonation (DS) and the higher sulfonation leads to worse ion permeation and an excessive swelling behavior, decreasing the membrane stability and battery performance
 
 ![AIBN_SPEEK_membrane.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_SPEEK_membrane.png)
 
 Immersion of the SPEEK membrane in an electrolytic solution containing $\text{ZnCl}_2$ results in replacement of the H⁺ ions with Zn²⁺ ions through the ion-exchange process. However, in ZBFBs, due to its harsh nature, bromine permeates through the SPEEK membrane and attacks the sulfonate group, leading to low membrane durability. 
 
-
+SOURCE: https://doi.org/10.1016/j.jpowsour.2023.232821
 
 ---
 
@@ -57,3 +57,8 @@ Further reading :
 
 Sources : 
 - Synthesis and characterization of highly durable hydrocarbon-based composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821
+
+
+1 https://doi.org/10.1016/j.memsci.2003.09.019
+2 https://doi.org/10.1016/j.memsci.2003.08.018
+3 https://doi.org/10.1021/acs.energyfuels.3c02373
