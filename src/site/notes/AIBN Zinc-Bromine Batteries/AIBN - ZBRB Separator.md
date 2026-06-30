@@ -25,6 +25,9 @@ For the **microporous polyethylene/silica Daramic separators commonly cited in f
 
 For industrial battery separator families from Daramic/DARAK, the manufacturer describes them more generally as sub-micron microporous materials rather than giving one universal value. One DARAK industrial datasheet says the **average pore diameter is below 1 µm**, with **90% of pores between 0.3 and 0.8 µm**, and another DARAK 9000 sheet lists **0.6 µm average pore size**. ([Daramic](https://www.daramic.com/storage/wysiwyg/DARAK%20for%20Flooded%20Batteries.pdf "DARAK Separator for Flooded Industrial Batteries"))
 
+![AIBN_Daramic_SEM.png](/img/user/AIBN_Daramic_SEM.png)
+	FE-SEM micrographs of a) the surface; b) the cross-sectional area of a Daramic membrane
+
 ### Membrane modification
 #### Activated carbon coating
 Activated carbon can be applied to the Daramic membrane in order to decrease the internal resistance of the cell, as can be seen from the Nyquist plots.
@@ -41,7 +44,7 @@ In order to limite the bromine diffusion, CNTs are added in the fill of the pore
 ---
 ## Sulfonated poly(ether ether ketone) (SPEEK)
 
-A hydrocarbon-based cation-exchange membrane, SPEEK sees widespread use in hydrogen PEM and direct methanol fuel cells 1,2, as well as VFBs 3 due to its chemical and thermal stability coupled with low material cost. It was developed as a cheaper, non fluorinated alternative to PFSA membranes such as Nafion. Sulfonate anions are fixed on the PEEK backbone, usually via a sulfuric acid bath, creating the copolymer pictured below. However, membrane performance depends heavily upon the degree of sulfonation (DS) and the higher sulfonation leads to worse ion permeation and an excessive swelling behavior, decreasing the membrane stability and battery performance
+A hydrocarbon-based cation-exchange membrane, SPEEK sees widespread use in hydrogen PEM and direct methanol fuel cells, as well as VFBs due to its chemical and thermal stability coupled with low material cost. It was developed as a cheaper, non fluorinated alternative to PFSA membranes such as Nafion. Sulfonate anions are fixed on the PEEK backbone, usually via a sulfuric acid bath, creating the copolymer pictured below. The degree of sulfonation (DS) heavily influences membrane performance.
 
 ![AIBN_SPEEK_membrane.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_SPEEK_membrane.png)
 
@@ -56,9 +59,4 @@ Further reading :
 - https://chemisting.com/2023/06/03/an-improved-diy-cation-exchange-membrane-with-less-degradation-using-a-daramic-pe-microporous-separator-as-base/
 
 Sources : 
-- Synthesis and characterization of highly durable hydrocarbon-based composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821
-
-
-1 https://doi.org/10.1016/j.memsci.2003.09.019
-2 https://doi.org/10.1016/j.memsci.2003.08.018
-3 https://doi.org/10.1021/acs.energyfuels.3c02373
+- Synthesis and characterisation of highly durable hydrocarbon-based composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821

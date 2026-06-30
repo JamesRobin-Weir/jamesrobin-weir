@@ -322,7 +322,7 @@ cos(\theta) & -sin(\theta) \\
 sin(\theta) & cos(\theta) \\
 \end{pmatrix}$$
 - ==Demo O(2)== -> A=mat(a,b,c,d) $\in$ O(2) => $a^2+b^2=1$, $c^2+d^2=1$, $ac+bd=0$ donc va $\le$ 1 => paramétrisation $a=cos(\theta)$ donc $b=sin(\theta)$ idem c,d avec $\phi$, or (3)=> $sin(\theta+\phi)=0$ donc $\phi=-\theta[\pi]$ donc deux cas $\phi=-\theta[2\pi]$ (SO(2)) et $\phi=\pi-\theta[2\pi]$ ($O^-(n)$) 
-- Prop $R_\theta$ -> $R_\theta=R_\phi$ => $\theta=\phi [2\pi]$, $R_\theta R_\phi=R_{\theta+\phi}$, $R_\theta^{-1}=R_{-\theta}$, $R_\theta
+- Prop $R_\theta$ -> $R_\theta=R_\phi$ => $\theta \equiv \phi \pmod{2\pi}$, $R_\theta R_\phi=R_{\theta+\phi}$, $R_\theta^{-1}=R_{-\theta}$, $R_\theta
 { #k}
 =R_{\theta k}$ 
 - $O^-(2)$ -> symétries (donc $S_{\theta}$ sym)$$ S_\theta=\begin{pmatrix}
