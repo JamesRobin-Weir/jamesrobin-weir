@@ -119,7 +119,7 @@
 2) Résoudre eq aux limites $f(a)=a$, que doit satisfaire éventuelle limite de $u_n$
 3) Dét int $I$ stable par f sur lequel f est mono, et tel que $u_0\in I$. On sait alors que $u_n\in I$pour tout $n\ge 0$. Svnt le tableau de variations de f donne la réponse. ($\exists$ des cas où on ne peut pas y arriver pour $u_0$, mais pr $u_1$, ou $u_2$)
 4) a) Si $f$ est croissante sur $I$, alors $(u_n)$ est monotone ; le sens est donné par le signe de $u_1-u_0$. Si $(u_n)$ est bornée, elle converge vers une limite $l$ vérifiant $f(l)=l$. Si elle est croissante et non bornée, alors $u_n\rightarrow+\infty$.
-5) b) f est décroiss sur $I$ $\Rightarrow$  poser $g=f∘f$ croissante sur $I$ et $v_n=u_{2n}$ et $w_n=u_{2n+1}$ alors (vn) et (wn) tq $v_{n+1}=g(v_n)$ et $w_{n+1}=g(w_n)$ avec g croiss sur $I$. Étudier (vn) et (wn) comme ds le cas précédent. Rappelons que la suite (un) converge si et seulement si (vn) et (wn) convergent vers la même limite.
+5) b) f est décroiss sur $I$ $\Rightarrow$  poser $g=f∘f$ croissante sur $I$ et $v_n=u_{2n}$ et $w_n=u_{2n+1}$ alors (vn) et (wn) tq $v_{n+1}=g(v_n)$ et $w_{n+1}=g(w_n)$ avec g croiss sur $I$. Étudier (vn) et (wn) comme ds le cas précédent. Rappelons que la suite (un) converge $\Leftrightarrow$ (vn) et (wn) convergent vers la même limite.
 
 ##### SUITES DE FONCTION
 - CVS $\rightarrow$ $\forall x\in J,\ \forall\epsilon>0,\ \exists N,\ \forall n\geq N,\ |f_n(x)-f(x)|<\epsilon$
@@ -240,15 +240,15 @@ $$
 ##### Mat orthog (= isométrie EE)
 - $M \in O_n(\mathbb{R})$ $\rightarrow$  $M^TM=I_n$ 
 - Si $M\in O_n(\mathbb R)$, alors $1=det(MM^T)=det(M)det(M^T)=det(M)^2$, donc $det(M)\in\{-1,1\}$.
-- Si $A$ est diagonalisable et $sp(A)\subset\{-1,1\}$, alors $A^2=I$ et $A$ est une symétrie. En particulier, cela vaut pour une matrice orthogonale dont le spectre est inclus dans $\{-1,1\}$.
+- $A$ diagonalisable et $sp(A)\subset\{-1,1\}$ $\Rightarrow$ $A^2=I$ et $A$ = symétrie. Cela vaut pour une matrice orthogonale dont le spectre $\subset \{-1,1\}$
 ##### Réduction
 - Poly caract $\rightarrow$  $\chi_M = X^n-tr(M)X^{n-1}+$...$+(-1)^n det(M)$ 
 - Prop Sep $\rightarrow$ $E_{\lambda}=Ker(u-\lambda id)$, $\bigoplus_{\lambda\in Sp(u)}E_{\lambda}\subseteq E$ et $1\leq dim(E_{\lambda})\leq m(\lambda)$.
 - ==Diag Sep== $\rightarrow$  $\oplus_{\lambda \in Sp} E_{\lambda}=E$ $\Leftrightarrow$  dim(E)=$\sum dim(E_{\lambda})$ $\Leftrightarrow$  mat diagonalisable
 - ==Diag $\chi_M$== $\rightarrow$  CS scindé racines simples, CNS scindé et $\forall \lambda_i$,  $dim(E_{\lambda_i})=m(\lambda_i)$ 
-- ==Diag poly annulateur== $\rightarrow$ un endomorphisme est diagonalisable si et seulement s'il admet un polynôme annulateur scindé à racines simples.
-- THM spectrale u autoadj
-- ==M (semi-)définie positive== $\rightarrow$ $M\in S_n^+$ si et seulement si toutes ses valeurs propres sont $\geq0$ ; $M$ est définie positive si et seulement si elles sont toutes $>0$. De même avec les signes opposés pour les matrices négatives.
+- Endomorph = diagonalisable $\Leftrightarrow$ $\exists$ polynôme annulateur scindé à racines simples
+- u autoadjoint  $\Leftrightarrow$  u est diagonalisable dans une base orthonormée
+- ==M (definie) pos== $\rightarrow$  vp de M $\ge 0$ ($>0$) $\Leftrightarrow$ $M\in S_n^+$ ($S_n^{++})$, inverse pour def neg, 
 - rg(u)=1 alors diag $\Leftrightarrow$ trace non nulle
 - Si $rg(A)<n$, alors $0$ est une valeur propre de $A$. Plus précisément, $dim(Ker A)=n-rg(A)$ ; on a $dim(Ker A)=n-1$ seulement lorsque $rg(A)=1$.
 - Si $dim(Ker A)=n-1$, alors $0$ a une multiplicité algébrique au moins $n-1$ et $\chi_A(X)=X^{n-1}(X-tr(A))$.
@@ -261,7 +261,7 @@ $$
 - Inj $\Leftrightarrow$  Ker={0}, surj $\Leftrightarrow$  Im=F 
 - Inversible $\rightarrow$  0 pas vp
 - $E=F\oplus G$ $\Leftrightarrow$ $F\cap G=\{0\}$ et $F+G=E$ $\Leftrightarrow$ tout vecteur de $E$ admet une décomposition unique $x=f+g$.
-- ==proj ortho== sur $F$ $\rightarrow$ $x=p_F(x)+(x-p_F(x))$ avec $p_F(x)\in F$ et $x-p_F(x)\in F^\perp$. Pour un projecteur $p$ sur $F$, $p$ est orthogonal si et seulement si $||p(x)||\leq||x||$ pour tout $x$.
+- ==proj ortho== sur $F$ $\rightarrow$ $x=p_F(x)+(x-p_F(x))$ avec $p_F(x)\in F$ et $x-p_F(x)\in F^\perp$. Pour un projecteur $p$ sur $F$, $p$ est orthogonal $\Leftrightarrow$ $||p(x)||\leq||x||$ pour tout $x$.
 - ==Relat° s,p== $\rightarrow$  $u \in E$, $F \subset E$ alors $p_F(u)=\frac{1}{2}(s_F(u)+u)$ lie projeté sur F et la réflexion (symétrie) par rapport à F
 ![CPGE_relation_s_p.png](/img/user/Excalidraw/CPGE_relation_s_p.png)
 - prod sca canon $\rightarrow$  $(x|y)=\sum_{i=1}^n x_iy_i$ ds $\mathbb{R}^n$ et $\sum_{i=1}^n \overline{x}_iy_i$ ds $\mathbb{C}^n$
@@ -273,7 +273,7 @@ $$
 - p proj sur F // G $\rightarrow$  $\forall x = f+g$, $p(x)=f$ $\Leftrightarrow$  $p(p(x))=p(x)$ 
 - sym dim finie n $\rightarrow$  symétrie orthog / à un hyperplan F = réflexion, si dim(F)=n-2 = renversement
 - p proj 
-- Dans $\mathbb R^2$, $\det(\vec u,\vec v)=0$ si et seulement si $\vec u$ et $\vec v$ sont colinéaires.
+- Dans $\mathbb R^2$, $\det(\vec u,\vec v)=0$ $\Leftrightarrow$ $\vec u$ et $\vec v$ sont colinéaires.
 - det que pour mat $\in M_n(K)$
 - $\vec{u}.\vec{v}=0$ $\Leftrightarrow$ $\vec{u}, \vec{v}$ orthog
 - pour determiner l'orthog d'une droite $\Delta$prendre un vecteur dir resultant de la difference des coord de 2 pts de $\Delta$
@@ -316,8 +316,8 @@ R_\theta=
 \sin\theta & \cos\theta  
 \end{pmatrix}.  
 $$
-- ==Classification de $O(2)$== $\rightarrow$ toute matrice de $O(2)$ est soit une rotation $R_\theta$ si son déterminant vaut $1$, soit une réflexion $S_\theta$ si son déterminant vaut $-1$.
-- Prop $R_\theta$ $\rightarrow$ $R_\theta=R_\phi$ $\Leftrightarrow$ $\theta\equiv\phi\pmod{2\pi}$, $R_\theta R_\phi=R_{\theta+\phi}$, $R_\theta^{-1}=R_{-\theta}$, $R_\theta^k=R_{k\theta}$ pour tout $k\in\mathbb Z$.
+- - ==Demo O(2)== $\rightarrow$ A=MAT(a,b,c,d) $\in$ O(2) $\Rightarrow$  $a^2+b^2=1$, $c^2+d^2=1$, $ac+bd=0$ donc va $\le$ 1 $\Rightarrow$  paramétrisation $a=cos(\theta)$ $\Rightarrow$ $b=sin(\theta)$ idem c,d avec $\phi$, or (3)$\Rightarrow$  $sin(\theta+\phi)=0$ donc $\phi=-\theta[\pi]$ donc deux cas $\phi=-\theta[2\pi]$ (SO(2)) et $\phi=\pi-\theta[2\pi]$ ($O^-(n)$)
+- Prop $R_\theta$ $\rightarrow$ $R_\theta=R_\phi$ $\Leftrightarrow$ $\theta\equiv\phi\pmod{2\pi}$, $R_\theta R_\phi=R_{\theta+\phi}$, $R_\theta^{-1}=R_{-\theta}$, $R_\theta^k=R_{k\theta}$ $\forall k\in\mathbb Z$.
 - $O^-(2)$ $\rightarrow$  symétries (donc $S_{\theta}$ sym)$$ S_\theta=\begin{pmatrix}
 cos(\theta) & sin(\theta) \\
 sin(\theta) & -cos(\theta) \\
@@ -354,8 +354,8 @@ sin(\theta) & -cos(\theta) \\
 - f paire et $\mathcal{C}^2$ $\rightarrow$  f'(0)=0
 - Ouvert $\rightarrow$ $A$ est ouvert si $\forall a\in A$, $\exists r>0$ tel que $B(a,r)\subset A$. L'image réciproque d'un ouvert par une fonction continue est ouverte.
 - Si $B$ est fermé, alors son complémentaire $\mathbb R^2\setminus B$ est ouvert. L'image réciproque d'un fermé par une fonction continue est fermée.
-- ==Voisinage== $\rightarrow$ $V\subset\mathbb R^2$ est un voisinage de $a\in\mathbb R^2$ si et seulement si $\exists r>0$ tel que $B(a,r)\subset V$.
-- Continuité de $f$ en $a\in A$ $\rightarrow$ $\forall\epsilon>0$, $\exists\delta>0$, $\forall x\in A$, $||x-a||<\delta\Rightarrow|f(x)-f(a)|<\epsilon$.
+- ==Voisinage== $\rightarrow$ $V\subset\mathbb R^2$ est un voisinage de $a\in\mathbb R^2$ $\Leftrightarrow$ $\exists r>0$ tel que $B(a,r)\subset V$.
+- $f$ $\mathrm{C}(a\in A)$ $\Leftrightarrow$ $\forall\epsilon>0$, $\exists\delta>0$, $\forall x\in A$, $||x-a||<\delta\Rightarrow|f(x)-f(a)|<\epsilon$ $\Leftrightarrow$  $x \in \bar{B}(a,\delta)$ $\Rightarrow$  $f(x) \in \bar{B}(f(a),\epsilon)$ 
 ##### Calcul diff plusieurs var :
 - (cof)'(x)=f'(x)c'(f(x)) cofi fi cif ((covfi fi siph)
 - Si $f$ est continue, alors elle est continue séparément par rapport à chaque variable. La réciproque est fausse en général ; des dérivées partielles continues impliquent que $f$ est de classe $\mathcal C^1$.
@@ -365,7 +365,7 @@ sin(\theta) & -cos(\theta) \\
 - IAF $\rightarrow$  
 - ==Plan tangent== $\rightarrow$  DL1(a) $\Rightarrow$  plan tangent $z=$ $f(a)+(x-x_0)\frac{\partial f}{\partial x}(x_0,y_0)+(y-y_0)\frac{\partial f}{\partial y}(x_0,y_0)$
 - ==Gradient== si $f\in\mathcal{C}^1$, $\nabla f=\binom{\partial_1f}{\partial_2f}$ ; il donne la direction de plus forte croissance lorsque $\nabla f\ne0$, et $\nabla f(a)=0$ en un point critique. Dans Taylor, $f(a+h)=f(a)+\langle\nabla f(a),h\rangle+o(||h||)$.
-- Si $f$ est différentiable en $a$, la dérivée directionnelle selon $u$ est $D_uf(a)=\lim_{t\rightarrow0}\frac{f(a+tu)-f(a)}{t}=\langle\nabla f(a),u\rangle$.
+- Si $f$ est différentiable en $a$ $\Leftrightarrow$ dérivée directionnelle selon $u$ est définie : $D_uf(a)=\lim_{t\rightarrow0}\frac{f(a+tu)-f(a)}{t}=\langle\nabla f(a),u\rangle$
 - ==Jacobienne== $\rightarrow$ pour $f:\mathbb R^n\to\mathbb R^m$, $J_f(a)=\left(\frac{\partial f_i}{\partial x_j}(a)\right)\in M_{m,n}(\mathbb R)$.
 - Jacob composée f,g $\mathcal{C}^1$ $\rightarrow$  donne RDlC $J_{g\circ f}(a)=J_g(f(a))J_f(a)$ 
 - RdLC $\rightarrow$ si $f:\mathbb R\to\mathbb R^n$ et $g:\mathbb R^n\to\mathbb R$, alors $\frac d{dt}(g\circ f)(t)=\sum_{j=1}^n\frac{\partial g}{\partial x_j}(f(t))f_j'(t)=\langle\nabla g(f(t)),f'(t)\rangle$.
@@ -374,7 +374,7 @@ sin(\theta) & -cos(\theta) \\
 - ==Hessienne== $\rightarrow$ $H_f(a)=\left(\frac{\partial^2f}{\partial x_i\partial x_j}(a)\right)_{1\leq i,j\leq n}$.
 - Extremum local $\rightarrow$ $a$ est un minimum local si $\exists r>0$ tel que $\forall x\in U\cap B(a,r)$, $f(x)\geq f(a)$ ; pour un maximum local, $f(x)\leq f(a)$.
 - CS pour un extremum strict $\rightarrow$ si $f\in\mathcal C^2$, $\nabla f(a)=0$ et $H_f(a)\in S_n^{++}$, alors $a$ est un minimum local strict ; si $H_f(a)\in S_n^{--}$, alors $a$ est un maximum local strict.
-- CN à un extremum local intérieur $\rightarrow$ si $f\in\mathcal C^2$, alors $\nabla f(a)=0$ et $H_f(a)$ est positive semi-définie pour un minimum, négative semi-définie pour un maximum.
+- CN à un extremum local intérieur $\rightarrow$ si $f\in\mathcal C^2$, alors $\nabla f(a)=0$ et $H_f(a)$ est positive semi-définie pour un minimum, négative semi-définie pour un maximum ($H_f(a)\in S_n^{+}\cup S_n^{-}$ )
 - Hessienne d'une fonction $\mathcal C^2$ de deux variables $\rightarrow$ $H_f(a)=Mat(r,s,s,t)$ en tout point, par le théorème de Schwarz.
 - En deux variables, à un minimum local intérieur d'une fonction $\mathcal C^2$, $det(H_f(a))\geq0$ et $tr(H_f(a))\geq0$ ; pour un maximum, $det(H_f(a))\geq0$ et $tr(H_f(a))\leq0$.
 - Si $\nabla f(a)=0$ et $det(H_f(a))>0$, alors $tr(H_f(a))>0$ implique un minimum local strict, et $tr(H_f(a))<0$ implique un maximum local strict.
