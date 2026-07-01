@@ -98,7 +98,7 @@
 - EAF -> f C d' $[a,b]$ $\Rightarrow$  $\exists$c tq f(b)-f(a)=(b-a)f'(c)
 - IAF -> f lipsch $\Rightarrow$  |f(x)-f(y)|<=M(x-y), M peut être un majorant de la dérivée indep de x,y
 - Leibniz -> $(fg)^{(n)}=\sum_{n=0}^n\binom n k f^{(k)}g^{(n-k)}$ 
-- ITY -> |f(x)-S(0->n)(x-a)^k.f(k)(a)/k!|<=M.(|x-a|^n+1)/(n+1)!
+- ITY -> $\displaystyle \left|f(x)-\sum_{k=0}^{n}\frac{f^{(k)}(a)}{k!}(x-a)^k\right|\leq M\frac{|x-a|^{n+1}}{(n+1)!}$
 - ==TYRI== -> $f(x)-\sum _{k=0}^n \frac{f^{(k)}(y)}{k!} (x-y)^k$= $\int_y^x \frac{f^{(n+1)}(t)}{n!} (x-t)^n\ dt$  entre y et x deux variables
 - ==TYRI n,n+1== -> $f(n+1)=\sum _{k=0}^N\frac{f^{(k)}(n)}{k!}+$ $\int_n^{n+1} \frac{f^{(N+1)}(t)}{N!} (n+1-t)^N dt$ 
 - Carac sec lim: a,l ds R+-8, f->l en a ssi Vun ->a, f(un)->l
@@ -218,7 +218,7 @@
 - Loi de Rademacher -> $P(X=1)=1/2=P(X=-1)$, $E(X)=0$, $V(X)=1$ 
 - Additivité loi de poisson pr $X,Y\rightarrow \mathcal{P}(\lambda), \mathcal{P}(\mu)$ -> $X+Y \rightarrow \mathcal{P}(\lambda + \mu)$ 
 - Formule antirépartition $X$ VARD finie tq $X(\Omega) \subset [\![0;N ]\!]$ -> $\mathbb{E}(X)=\sum_{k=0}^{N-1}\mathbb{P}(X>k)$ 
-- Loi normale $\mathcal{N}(\mu, \sigma^2)$, -> distrib $\mathbb{P}$ $\mathcal{C}$ définie par $\mu$ (moy) et $\sigma^2$ (var) : $f(x)=\frac{1}{\sigma \sqrt{2\pi}} e^{−\frac{(x−μ)^2​}{2\sigma^2}}$
+- Loi normale $\mathcal{N}(\mu, \sigma^2)$, -> distrib $\mathbb{P}$ $\mathcal{C}$ définie par $\mu$ (moy) et $\sigma^2$ (var) : $\displaystyle f(x)=\frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)$
 
 ## Matrices
 ##### Général
@@ -265,15 +265,9 @@ $$
 - Somme dir = FnG={0} = decomp unique
 - ==proj ortho g== sur F sev E -> $x=x'+x''$ avec $x'\in F$, $x''\in F^{\perp}$ alors $p(x)=x'$ et $x' \perp x''$ $\Leftrightarrow$  $||p(x)|| \le ||x||$ ==caractérisat==°
 - ==Relat° s,p== -> $u \in E$, $F \subset E$ alors $p_F(u)=\frac{1}{2}(s_F(u)+u)$ lie projeté sur F et la réflexion (symétrie) par rapport à F
-![markup_1000023084.jpg](/img/user/markup_1000023084.jpg)
+![CPGE_relation_s_p.png](/img/user/Excalidraw/CPGE_relation_s_p.png)
 - prod sca canon -> $(x|y)=\sum_{i=1}^n x_iy_i$ ds $\mathbb{R}^n$ et $\sum_{i=1}^n \overline{x}_iy_i$ ds $\mathbb{C}^n$
-- Soit $F=\{x \in E| \sum
-{ #n_}
-{i=1} x_i=0\}$ -> $F=Vect(e_1-e_2, e_1-e_3, ... , e_1-e_{n})$ car fam libre card n-1 gen et $x=e_1\sum
-{ #n_}
-{i=1}\alpha_i- \sum
-{ #n_}
-{i=1}\alpha_i e_i$ donc $\sum x_i=0$ 
+- Soit $F=\{x \in E| \sum^n_{i=1} x_i=0\}$ -> $F=Vect(e_1-e_2, e_1-e_3, ... , e_1-e_{n})$ car fam libre card n-1 gen et $x=e_1\sum^n_{i=1}\alpha_i- \sum^n_{i=1}\alpha_i e_i$ donc $\sum x_i=0$ 
 - ==endo u bij $\Leftrightarrow$  surj $\Leftrightarrow$  inj== -> $dim(ker(u))=0$, THM rg $dim(E)=dim(Im(u))$ or $Im(u) \subset E$ $\Rightarrow$  Im(u)=E $\Rightarrow$  f est surjective $\Rightarrow$  f bij
 - Bases -> normée VS orthogonal << orthonormée (les deux)
 ##### Géométrie
@@ -287,7 +281,7 @@ $$
 - pour determiner l'orthog d'une droite $\Delta$prendre un vecteur dir resultant de la difference des coord de 2 pts de $\Delta$
 - $M \in Cercle$ de diametre AB ssi $\vec{AM}.\vec{BM}=0$
 - $\alpha a+\beta b+\gamma c=l$ est un plan ssi $(\alpha,\beta, \gamma) \ne (0,0,0)$ et alors ce vecteur est orthog (demo: prendre u ds plan, prod sca avec $(\alpha,\beta, \gamma)$ doit faire $l$ )
-- $\vec{u}$^$\vec{v}$=$u.v \sin(\theta)$ et prod sca avec cos
+- $\vec u\times\vec v=u.v \sin(\theta)$ et prod sca avec cos
 - Plan F=Vect(a,b) de $\mathbb{R}^3$ -> $u\in F$ $\Leftrightarrow$  det(u,a,b)=0 donne eq cart du plan
 - Cart ax+by+cz=0 -> e=(a,b,c) est vect normale au plan car $u\in F$ $\Leftrightarrow$  $(u|e)=0$ 
 - Soit p proj sur F plan $\mathbb{R}^3$, h proj sur $F^{\perp}$ -> $\forall x \in \mathbb{R}^3$, $h(x)+p(x)=x$ permet de remonter à la proj à partir du vect orthog d'un plan cartésien (puis la sym avec la relat° fond)
@@ -306,7 +300,7 @@ $$
 - Décomp x bon -> $x=\sum^n_{i=1} (x|e_i)e_i$
 - ==Gram-Schmidt== -> $v_1=e_1/||e_1||$, $u_{k+1}=e_{k+1}-\sum_{i=1}^k(e_{k+1}|v_i).v_i$ puis $v_k+1=u_{k+1}/||u_{k+1}||$ est la famille
 - ==Proj orthog sur F== = Vect($e_1,...e_q$) fam orthog -> $p_F(x)=\sum^q_{i=1}\frac{(x|e_i)}{||e_i||^2}e_i$ ou sans ||.|| si orthon
-- Inégalité Bessel -> |$|p_F(x)||^2 \le ||x||^2$ 
+- Inégalité Bessel -> $||p_F(x)||^2 \le ||x||^2$ 
 - Distance sev d(x,F)=$inf_{f\in F}||x-f||$ et $f=p_F(x)$ si proj orthog $\Rightarrow$  $d(x,F)^2=||x||^2-||p_F(x)||^2$ 
 ##### EE 2 : endomorphismes
 - ==iso-métries vect = même mesure (norme)== -> $u \in O(E) \in GL(E)$ tq $||u(x)||=||x||$ $\Leftrightarrow$  $(u(x)|u(y))=(x|y)$ $\Leftrightarrow$  u(bon) est bon (directe si det(u)=1) $\Leftrightarrow$  $\exists$ ou $\forall$ bon mat M de u orthog ($MM^T = I_n$)
