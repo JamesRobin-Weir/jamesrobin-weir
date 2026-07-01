@@ -352,16 +352,16 @@ sin(\theta) & -cos(\theta) \\
 
 ##### général
 - f paire et $\mathcal{C}^2$ $\rightarrow$  f'(0)=0
-- Ouvert $\rightarrow$ $A$ est ouvert si $\forall a\in A$, $\exists r>0$ tel que $B(a,r)\subset A$. L'image réciproque d'un ouvert par une fonction continue est ouverte.
-- Si $B$ est fermé, alors son complémentaire $\mathbb R^2\setminus B$ est ouvert. L'image réciproque d'un fermé par une fonction continue est fermée.
+- Ouvert $\rightarrow$ $A$ est ouvert si $\forall a\in A$, $\exists r>0$ tel que $B(a,r)\subset A$. L'image réciproque d'un ouvert par une fonction continue est ouverte
+- Si $B$ est fermé, alors son complémentaire $\mathbb R^2\setminus B$ est ouvert. L'image réciproque d'un fermé par une fonction continue est fermée
 - ==Voisinage== $\rightarrow$ $V\subset\mathbb R^2$ est un voisinage de $a\in\mathbb R^2$ $\Leftrightarrow$ $\exists r>0$ tel que $B(a,r)\subset V$.
 - $f$ $\mathrm{C}(a\in A)$ $\Leftrightarrow$ $\forall\epsilon>0$, $\exists\delta>0$, $\forall x\in A$, $||x-a||<\delta\Rightarrow|f(x)-f(a)|<\epsilon$ $\Leftrightarrow$  $x \in \bar{B}(a,\delta)$ $\Rightarrow$  $f(x) \in \bar{B}(f(a),\epsilon)$ 
 ##### Calcul diff plusieurs var :
 - (cof)'(x)=f'(x)c'(f(x)) cofi fi cif ((covfi fi siph)
-- Si $f$ est continue, alors elle est continue séparément par rapport à chaque variable. La réciproque est fausse en général ; des dérivées partielles continues impliquent que $f$ est de classe $\mathcal C^1$.
+- Si $f$ est continue, alors elle est continue séparément par rapport à chaque variable. La réciproque est fausse en général ; des dérivées partielles continues impliquent que $f$ est de classe $\mathcal C^1$
 - ==d' partielle en $x_0$ existe== $\rightarrow$  $lim _{t\rightarrow x_0} \frac{f\binom{t}{y_o}-f\binom{x_o}{y_o}}{t-x_o}$  $=\frac{\partial f}{\partial x}\binom{x_o}{y_o}=\partial_1f$ existe ($\Leftrightarrow$  $h=t-x_o$)
-- f $\mathcal{C}^1$ sur ouvert $\rightarrow$  admet 2 d' part. $\mathcal{C}$ 
-- Dev Taylor = ==DL1== f $\mathcal{C}^1$ en $a=\binom{x_o}{y_o}$ $\rightarrow$  $f(X)=f(a)+\partial_1f(a)(x-x_o)$$+\partial_2f(a)(y-y_o)+o(||X-a||)$ ou idem avec $a'=(x_o+h,y_0+k)$ avec un $o(||(h,k)||)$ 
+- f $\mathcal{C}^1$ sur ouvert $\rightarrow$  admet 2 dérivée partielle $\mathrm{C}$
+- Dev Taylor = DL1 f $\mathcal{C}^1$ en $a=\binom{x_o}{y_o}$ $\rightarrow$  $f(X)=f(a)+\partial_1f(a)(x-x_o)$$+\partial_2f(a)(y-y_o)+o(||X-a||)$ ou idem avec $a'=(x_o+h,y_0+k)$ avec un $o(||(h,k)||)$ 
 - IAF $\rightarrow$  
 - ==Plan tangent== $\rightarrow$  DL1(a) $\Rightarrow$  plan tangent $z=$ $f(a)+(x-x_0)\frac{\partial f}{\partial x}(x_0,y_0)+(y-y_0)\frac{\partial f}{\partial y}(x_0,y_0)$
 - ==Gradient== si $f\in\mathcal{C}^1$, $\nabla f=\binom{\partial_1f}{\partial_2f}$ ; il donne la direction de plus forte croissance lorsque $\nabla f\ne0$, et $\nabla f(a)=0$ en un point critique. Dans Taylor, $f(a+h)=f(a)+\langle\nabla f(a),h\rangle+o(||h||)$.
@@ -371,11 +371,11 @@ sin(\theta) & -cos(\theta) \\
 - RdLC $\rightarrow$ si $f:\mathbb R\to\mathbb R^n$ et $g:\mathbb R^n\to\mathbb R$, alors $\frac d{dt}(g\circ f)(t)=\sum_{j=1}^n\frac{\partial g}{\partial x_j}(f(t))f_j'(t)=\langle\nabla g(f(t)),f'(t)\rangle$.
 - ==RdLC 1 var== $\rightarrow$ $(u\circ v)'(t)=u'(v(t))v'(t)$ ; donc $\frac d{dt}f(x(t))=f'(x(t))x'(t)$.
 - ==RdlC 2 var== $\rightarrow$  $X(t)=\binom{x(t)}{y(t)}$ alors $\frac{d}{dt}(f \circ X(t))=\frac{\partial f}{\partial x}(X(t)).x'(t)+\frac{\partial f}{\partial y}(X(t)).y'(t)$ 
-- ==Hessienne== $\rightarrow$ $H_f(a)=\left(\frac{\partial^2f}{\partial x_i\partial x_j}(a)\right)_{1\leq i,j\leq n}$.
+- ==Hessienne== $\rightarrow$ $H_f(a)=\left(\frac{\partial^2f}{\partial x_i\partial x_j}(a)\right)_{1\leq i,j\leq n}$
 - Extremum local $\rightarrow$ $a$ est un minimum local si $\exists r>0$ tel que $\forall x\in U\cap B(a,r)$, $f(x)\geq f(a)$ ; pour un maximum local, $f(x)\leq f(a)$.
 - CS pour un extremum strict $\rightarrow$ si $f\in\mathcal C^2$, $\nabla f(a)=0$ et $H_f(a)\in S_n^{++}$, alors $a$ est un minimum local strict ; si $H_f(a)\in S_n^{--}$, alors $a$ est un maximum local strict.
 - CN à un extremum local intérieur $\rightarrow$ si $f\in\mathcal C^2$, alors $\nabla f(a)=0$ et $H_f(a)$ est positive semi-définie pour un minimum, négative semi-définie pour un maximum ($H_f(a)\in S_n^{+}\cup S_n^{-}$ )
-- Hessienne d'une fonction $\mathcal C^2$ de deux variables $\rightarrow$ $H_f(a)=Mat(r,s,s,t)$ en tout point, par le théorème de Schwarz.
+- Hessienne d'une fonction $\mathcal C^2$ de deux variables $\rightarrow$ $H_f(a)=Mat(r,s,s,t)$ en tout point, par le théorème de Schwarz
 - En deux variables, à un minimum local intérieur d'une fonction $\mathcal C^2$, $det(H_f(a))\geq0$ et $tr(H_f(a))\geq0$ ; pour un maximum, $det(H_f(a))\geq0$ et $tr(H_f(a))\leq0$.
 - Si $\nabla f(a)=0$ et $det(H_f(a))>0$, alors $tr(H_f(a))>0$ implique un minimum local strict, et $tr(H_f(a))<0$ implique un maximum local strict.
 - C'est toujours l'inverse signe pour max min pr trace et def pos neg
