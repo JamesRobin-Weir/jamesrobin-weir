@@ -362,7 +362,7 @@ sin(\theta) & -cos(\theta) \\
 - ==d' partielle en $x_0$ existe== $\rightarrow$  $lim _{t\rightarrow x_0} \frac{f\binom{t}{y_o}-f\binom{x_o}{y_o}}{t-x_o}$  $=\frac{\partial f}{\partial x}\binom{x_o}{y_o}=\partial_1f$ existe ($\Leftrightarrow$  $h=t-x_o$)
 - f $\mathcal{C}^1$ sur ouvert $\rightarrow$  admet 2 dérivée partielle $\mathrm{C}$
 - Dev Taylor = DL1 f $\mathcal{C}^1$ en $a=\binom{x_o}{y_o}$ $\rightarrow$  $f(X)=f(a)+\partial_1f(a)(x-x_o)$$+\partial_2f(a)(y-y_o)+o(||X-a||)$ ou idem avec $a'=(x_o+h,y_0+k)$ avec un $o(||(h,k)||)$ 
-- IAF $\rightarrow$  
+- ==IAF== $\rightarrow$ Si $[x,y]\subset U$ et $f\in\mathcal C^1(U,F)$, alors $\displaystyle \lVert f(y)-f(x)\rVert\leq \left(\sup_{z\in[x,y]}\lVert Df(z)\rVert_{\mathrm{op}}\right) \lVert y-x\rVert$
 - ==Plan tangent== $\rightarrow$  DL1(a) $\Rightarrow$  plan tangent $z=$ $f(a)+(x-x_0)\frac{\partial f}{\partial x}(x_0,y_0)+(y-y_0)\frac{\partial f}{\partial y}(x_0,y_0)$
 - ==Gradient== si $f\in\mathcal{C}^1$, $\nabla f=\binom{\partial_1f}{\partial_2f}$ ; il donne la direction de plus forte croissance lorsque $\nabla f\ne0$, et $\nabla f(a)=0$ en un point critique. Dans Taylor, $f(a+h)=f(a)+\langle\nabla f(a),h\rangle+o(||h||)$.
 - Si $f$ est différentiable en $a$ $\Leftrightarrow$ dérivée directionnelle selon $u$ est définie : $D_uf(a)=\lim_{t\rightarrow0}\frac{f(a+tu)-f(a)}{t}=\langle\nabla f(a),u\rangle$
