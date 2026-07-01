@@ -70,7 +70,7 @@
 - Somme géo $\rightarrow$ pour $q\ne1$, $\sum^n_{k=p}q^k=q^p \frac{1-q^{n+1-p}}{1-q}$ ; pour $q=1$, la somme vaut $n-p+1$
 ##### Series entières :
 - Lemme d'Abel $\rightarrow$  $\exists z_0 \in \mathbb{C}^*$ tq $(a_nz_0^n)$ est bornée $\Rightarrow$  $\forall z$ tq $|z|<|z_0|$ , $|a_nz^n|=O(|\frac{z}{z_0}|^n)$ donc $\sum a_nz^n$ CVA
-- RC $\rightarrow$  sup{r pos tq $a_nr^n$ bornée} donc si $a_n$ bornée mais tends pas vers 0 alors R=1
+- Rayon Convergence (RC) $\rightarrow$  sup{r pos tq $a_nr^n$ bornée} donc si $a_n$ bornée mais tends pas vers 0 alors R=1
 - SE $\mathcal{C}^{+\infty}$ sur int ouvert conv $]-R;R[$
 - $\sum a_nz^n$ RC=R $\rightarrow$  RC pr $z^{2n}$ est $\sqrt{R}$ 
 - $a_n\sim b_n$ $\rightarrow$ rayons de convergence égaux. Si $a_n=O(b_n)$ ou $a_n=o(b_n)$, alors $R_a\geq R_b$.
@@ -199,7 +199,7 @@
 - Tout VADR a valeurs finies admet une espérance finie
 - Des variables aléatoires $(X_i)_{i\in I}$ sont mutuellement indépendantes si, pour toute sous-famille finie $i_1,\ldots,i_m$ et tous boréliens $B_1,\ldots,B_m$, $P(\bigcap_{j=1}^{m}\{X_{i_j}\in B_j\})=\prod_{j=1}^{m}P(X_{i_j}\in B_j)$.
 ##### Fonctions génératrices
-- Pour une variable aléatoire $X$ à valeurs dans $\mathbb{N}$, la fonction génératrice $G_X(t)=E(t^X)$ a un rayon de convergence $R\geq1$, converge normalement sur $\bar D(0,1)$, est continue sur $[0,1]$ et $\mathcal{C}^{+\infty}$ sur $]0,1[$.
+- Pr une VA $X$ à valeurs ds $\mathbb{N}$, la f° génératrice $G_X(t)=E(t^X)$ a un RC $\geq1$, CVN sur $\bar D(0,1)$, est $\mathrm{C}[0,1]$ et $\mathcal{C}^{+\infty}]0,1[$
 - loi X f° gén $\rightarrow$  $P(X=n)=\frac{G_X^{(n)}(0)}{n!}$ comme TY
 - E f° gén $\rightarrow$  MO1 $\Rightarrow$  $G_X'(1)=E(X)$, MO2 $\Rightarrow$  $G_X''(1)=E(X(X-1))=E(X^2)-E(X)$ 
 - V f° gén $\rightarrow$  MO2, $V(X)=G_X''(1)+G_X'(1)-(G'_X(1))^2$
@@ -212,9 +212,9 @@
 - Poisson approxime binomiale $\rightarrow$ si $X_n\sim\mathcal B(n,p_n)$, $p_n\rightarrow0$ et $np_n\rightarrow\lambda$, alors $X_n$ converge en loi vers $\mathcal P(\lambda)$.
 - ==Loi géométrique sur $\mathbb N^*$== $\rightarrow$ avec $q=1-p$, $P(X=k)=q^{k-1}p$, $E(X)=\frac1p$, $V(X)=\frac q{p^2}$, $G_X(t)=\frac{pt}{1-qt}$.
 - $X\sim\mathcal{G}(p)$ $\Leftrightarrow$ $P(X>k)=(1-p)^k$ pour $k\in\mathbb N$.
-- Loi géométrique sans mémoire $\rightarrow$ pour tous $k,n\in\mathbb N$, $P(X>k+n\mid X>k)=P(X>n)$ ; de façon équivalente, conditionnellement à $X>k$, $X-k$ suit la même loi que $X$.
+- Loi géométrique sans mémoire $\rightarrow$ $\forall k,n\in\mathbb N$, $P(X>k+n\mid X>k)=P(X>n)$ ; de façon équivalente, conditionnellement à $X>k$, $X-k$ suit la même loi que $X$.
 - Loi de Rademacher $\rightarrow$  $P(X=1)=1/2=P(X=-1)$, $E(X)=0$, $V(X)=1$ 
-- Additivité de la loi de Poisson $\rightarrow$ si $X\sim\mathcal P(\lambda)$ et $Y\sim\mathcal P(\mu)$ sont indépendantes, alors $X+Y\sim\mathcal P(\lambda+\mu)$.
+- Additivité loi de Poisson $\rightarrow$ si $X\sim\mathcal P(\lambda)$ et $Y\sim\mathcal P(\mu)$ sont indépendantes $\Rightarrow$ $X+Y\sim\mathcal P(\lambda+\mu)$.
 - Formule antirépartition $X$ VARD finie tq $X(\Omega) \subset [\![0;N ]\!]$ $\rightarrow$  $\mathbb{E}(X)=\sum_{k=0}^{N-1}\mathbb{P}(X>k)$ 
 - Loi normale $\mathcal{N}(\mu,\sigma^2)$ avec $\sigma>0$ $\rightarrow$ densité $\displaystyle f(x)=\frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)$
 

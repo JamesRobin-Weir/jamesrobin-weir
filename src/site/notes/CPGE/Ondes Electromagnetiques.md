@@ -13,7 +13,7 @@
 - ==Rails Laplace== -> Barre MN mobile complète circuit fixe, $F_L=i(\int_{MN} \vec{dl}) \wedge \vec{B}=i\vec{MN}.\vec{B}$ 
 - Puiss $F_L$ -> $P(F_L)=iMNB_0v_x>0$ => $F_L$, $\vec{v}$ même sens => motrice (sinon rés)
 - Spire SPQR (rect) rot axe $\Delta$ -> $\vec{n}$ RdlMD forme angle $\theta$ avec $\vec{B}$  ds plan orthog spire, $\vec{F}_{SP}=i\vec{SP} \wedge \vec{B}=-\vec{F}_{QR}$ or pt applicat° diff => couple forces idem autres
-![markup_1000022136.jpg](/img/user/markup_1000022136.jpg)
+![CPGE_champ_carre.png](/img/user/Excalidraw/CPGE_champ_carre.png)
 - Momen rés SPQR centre O -> $\vec{F}_{SP}$, $\vec{F}_{QR}$ ont ==droites d'act° passant O => moment / O nulle==, $\vec{\Gamma}=\vec{M}_{O}(\vec{F}_{PQ}) + \vec{M}_{O}(\vec{F}_{RS})$=$\vec{OH} \wedge \vec{F}_{PQ}+ \vec{OK} \wedge \vec{F}_{RS}$=$\vec{OH} \wedge 2 \vec{F}_{PQ}$ or $\vec{OH}=\frac{b}{2}cos(\theta)-\ff
 - $\vec{\Gamma}=\sum{\vec{M}(\vec{f})}=\vec{m} \wedge \vec{B}$ ds champ mag
 - $\vec{M}(\vec{f})=\vec{OM} \wedge \vec{f}$    mf Ô mf
