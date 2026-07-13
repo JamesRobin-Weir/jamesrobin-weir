@@ -12,8 +12,8 @@
 ### [[AIBN Zinc-Bromine Batteries/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
 Building on previous research projects, this 5 month research placement aims to investigate the effects of metal organic framework (MOF) coatings on the separator as well as the anode in a Zinc Bromine Rechargeable Battery ([[AIBN Zinc-Bromine Batteries/AIBN - Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters\|ZBRB]]) system.  
 
-- [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\| Bromine complexing agents]]
-- [[AIBN Zinc-Bromine Batteries/AIBN - Porosity Measurement\| Porosity Measurement]]
+- [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\|Bromine complexing agents]]
+- [[AIBN Zinc-Bromine Batteries/AIBN - Porosity Measurement\|Porosity Measurement]]
 - [[AIBN Zinc-Bromine Batteries/AIBN - Nafion Membranes\|Nafion Membranes]]
 - [[AIBN Zinc-Bromine Batteries/AIBN - Raman Spectroscopy\|Raman Specroscopy]]
 

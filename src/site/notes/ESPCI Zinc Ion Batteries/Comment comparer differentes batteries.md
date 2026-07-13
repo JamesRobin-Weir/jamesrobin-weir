@@ -29,7 +29,7 @@ Au cours d'un essai de cycles de charge-décharge à un certain taux de charge, 
 
 - Rendement coulombique (CE) : rapport entre la charge libérée lors de la décharge (Ah) et la charge introduite lors de la charge (Ah). Un rendement coulombique élevé indique généralement une longue durée de vie de la batterie : $CE=\dfrac{Q_{décharge}}{Q_{charge}}$ et $Q_n=Q_0CE^n$, donc $n=\dfrac{ln(Q_n/Q_0)}{ln(CE)}$
 - Rendement voltaïque (VE) : mesure les effets de la polarisation de la cellule ou des pertes de tension de la cellule, calculé à l'aide de l'équation suivante $\eta_v=\dfrac{\frac{1}{t_{décharge}}\int V_{décharge}\mathrm{d}t}{\frac{1}{t_{charge}}\int V_{charge}\mathrm{d}t}×100$
-- Rendement énergétique (EE) : rapport entre l'énergie produite et l'énergie consommée pendant les cycles de charge et de décharge ; les batteries lithium-ion atteignent généralement des rendements supérieurs à 95 % : $EE=\dfrac{I_{discharge}V_{discharge}}{I_{charge}V_{charge}}$
+- Rendement énergétique (EE) : rapport entre l'énergie produite et l'énergie consommée pendant les cycles de charge et de décharge ; les batteries lithium-ion atteignent généralement des rendements supérieurs à 95 % : $EE=\dfrac{\int V_{discharge}dQ}{\int V_{charge}dQ}$ ou Q est la charge de la batterie en Coulombs
 
 ---
 ### Caractéristiques physiques de la batterie
