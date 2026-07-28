@@ -3,7 +3,7 @@
 ---
 
 ---
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
+# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
 ---
 
 ## **Ressources pour Classes Préparatoires**

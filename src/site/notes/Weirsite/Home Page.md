@@ -2,16 +2,15 @@
 {"dg-publish":true,"permalink":"/weirsite/home-page/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-# Weirsite : James Robin-Weir's personal site
-
 ---
 # [[Weirsite/Projects\|Projects]] | [[CPGE/CPGE\|CPGE]] | [[Weirsite/My carbon footprint\|My carbon footprint]]
 ---
+# James Robin-Weir
 
-![JRW_headshot.png\|400](/img/user/Weirsite/JRW_headshot.png)
-## Who am I ?
+![JRW_headshot.png\|200](/img/user/Weirsite/JRW_headshot.png)
 
-Having originally moved from Australia to pursue my higher education in France, I am currently completing a dual masters of chemical and physical engineering at the **ESPCI Paris** (**École supérieure de physique et de chimie industrielles de la ville de Paris**) - **Chimie ParisTech** (**École nationale supérieure de chimie de Paris**) selective engineering colleges in France. 
+
+Hi! I'm James Robin-Weir, and this is my personal website. Having originally moved from Australia to pursue my higher education in France, I am currently completing a dual masters of chemical and physical engineering at the [ESPCI Paris](https://www.espci.psl.eu/en/) (**École supérieure de physique et de chimie industrielles de la ville de Paris**) - [Chimie ParisTech](https://www.chimieparistech.psl.eu/) (**École nationale supérieure de chimie de Paris**) selective engineering schools in France. 
 
 I am interested in functional materials for energy and the sustainable chemistry transition. During various internships and research projects completed as part of my degree program, I have worked on reducing dendritic growth in aqueous zinc-ion batteries, electrodeposition of ZnO and gold nanoparticles on thin film ITO for photovoltaics, and triboelectric charging in millifluidic systems. For more details, my CV can be found [here](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf). 
 
