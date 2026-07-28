@@ -6,7 +6,7 @@
 # {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
 ---
 
-## **Projets**
+## **Research**
 
 ## **University of Queensland - AIBN**
 ### [[AIBN Zinc-Bromine Batteries/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
@@ -45,9 +45,22 @@ The research undertook was documented in the [internship defence presentation](h
 - [Scientific poster](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/blob/main/PosterUROP_James_Robin-Weir.pdf) produced for display in the laboratory at the end of the internship
 - [Experimental data and results](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main) published at the end of the internship
 
+---
+## **Other**
+## **My carbon footprint**
+
+Having completed the *Atelier 2 Tonnes* (*2 Tons Worskshop*) in March of 2026, my carbon footprint at the time was **6.88 tCO2e**. To contribute to emission reduction targets, I need to **divide my footprint by 2 by 2030**, then aim for 2tCO2e by 2050.
+
+![Carbon_footprint.png\|400](/img/user/Weirsite/Carbon_footprint.png)
+
+In terms of origin, my largest source of emissions is transport related, at 3.02 tCO2e or 44% of my total emissions. Even daily commuting via bicycle cannot make up for having family split between France and Australia. Following up transport are services (1.86 tCO2e), food (1.5 tCO2e), housing (0.35 tCO2e), and goods (0.15 tCO2e).
+
+![Carbon_footprint_France_Average.png\|400](/img/user/Weirsite/Carbon_footprint_France_Average.png)
+
+Compared to the French national standard emissions, I am 27% below average. My number one field of action in reducing my personal emissions is reducing those linked to travel.
+
 ### EE Days - A game-changer in green reindustrialisation and industrial sovereignty
-![Energies_des_importations_francaises.png](/img/user/Weirsite/Energies_des_importations_francaises.png)
+- Series of workshops and presentations about France's climate dilemas
 - Report on [[Weirsite/EE DAYS\|EE DAYS]] (FRENCH)
-- Oral presentation delivered
 
 ---
