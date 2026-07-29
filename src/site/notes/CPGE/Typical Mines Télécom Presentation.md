@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/cpge/typical-mines-telecom-presentation/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## Typical Mines Télécom Presentation
 
@@ -16,7 +17,7 @@ Good morning, my name is VOTRE NOM and I am a second year student in a preparato
 
 In highschool I chose Maths and joint Physics and Chemistry as my main subjects, and took HISTORY-GEOPOLITICS/BIOLOGY AND GEOLOGICAL SCIENCES as the first year option as I was interested in learning more about international relations. I also chose EXPERT MATHS/ADDITIONAL MATHS as an optional class, and participated in my school's THEATRE/MUSIC/PHOTOGRAPHY club.
 
-Now I chose to prepare for engineering schools as I am naturally enjoy maths, physics and chemistry, but more specifically because I wish to work towards a career in the RENEWABLE ENERGY/TELECOMMUNICATIONS/CYBER SECURITY sector. I believe it's now more important than ever for people to get involved in SAFEGUARDING THE FUTURE OF THE EARTH/SECURING THEIR DATA WITH THE ADVENT OF QUANTUM ENCRYPTION DECODING, and SECURING CLEAN DURABLE ENERGY SOURCES/DEVELOPING NEW QUANTUM ALGORITHMS is a central factor of that. I also hope to someday work in COUNTRY/COMPANY because of REASON, for example REASON EXAMPLE. 
+Now I chose to prepare for engineering schools as I am naturally enjoy maths, physics and chemistry, but more specifically because I wish to work towards a career in the RENEWABLE ENERGY/TELECOMMUNICATIONS/CYBER SECURITY sector. I believe it's now more important than ever for people to get involved in SAFEGUARDING THE FUTURE OF THE EARTH/SECURING THEIR DATA WITH THE ADVENT OF QUANTUM ENCRYPTION DECODING, and SECURING CLEAN DURABLE ENERGY SOURCES/DEVELOPING NEW QUANTUM ALGORITHMS is a central factor of that. I also hope to someday work in COUNTRY/COMPANY because of REASON, for example REASON EXAMPLE.
 
 Now outside of study time, I go ROCK CLIMBING/SWIMMING/CYCLING DAILY/EVERY WEEK during the work week, to clear my head and improve my sleep quality. I also decided this year to CYCLE TWO AND FROM SCHOOL/READ FOR 20 MINUTES BEFORE BED. I pursue other extracurricular activities such as MUSIC/CULTURAL ACTIVITY, as I PLAY PIANO/GO TO TO SEE MUSEUM EXHIBITIONS when I have the time.
 

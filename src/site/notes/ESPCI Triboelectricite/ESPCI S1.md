@@ -2,31 +2,36 @@
 {"dg-publish":true,"permalink":"/espci-triboelectricite/espci-s1/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
 
-## Compte rendu de stage : premier semestre 
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
-Ce document vise à rendre compte des expériences et donc des montages réalisés, ainsi que des données recueillis, lors du premier semestre du stage portant sur la triboélectricité liquide. 
+## Compte rendu de stage : premier semestre
+
+Ce document vise à rendre compte des expériences et donc des montages réalisés, ainsi que des données recueillis, lors du premier semestre du stage portant sur la triboélectricité liquide.
+
 ## Glissement sur un wafer de silice silanisée (12 décembre)
- Afin de rendre compte pour la première fois du phénomène triboélectrique liquide, nous avons effectué le montage classique suivant :
+
+Afin de rendre compte pour la première fois du phénomène triboélectrique liquide, nous avons effectué le montage classique suivant :
 
 ![Plaque_silice_schema.png\|Schema extrait de Nature Physics doi 10.1038](/img/user/ESPCI%20Triboelectricite/Plaque_silice_schema.png)
 
-Avec la représentation cela donne : 
+Avec la représentation cela donne :
 ![Plaque_hydrophobe.png](/img/user/Excalidraw/Plaque_hydrophobe.png)
 
 La seule différence était que les deux électrodes, des fils de tungsten, étaient disposés sur la surface de la plaque perpendiculairement à la direction du glissement. L'angle $\alpha$ était choisi à 67° grâce à un support rotatoire.
 
-L'intensité résultant de la décharge de la goutte passant sur l’électrode inférieur était à la fois amplifié et converti en tension par un amplificateur à transimpédance FEMTO DLPCA-200, avec un facteur de proportionnalité $R_f$ tq $V_{out}=-I_{in}R_f$. 
+L'intensité résultant de la décharge de la goutte passant sur l’électrode inférieur était à la fois amplifié et converti en tension par un amplificateur à transimpédance FEMTO DLPCA-200, avec un facteur de proportionnalité $R_f$ tq $V_{out}=-I_{in}R_f$.
 
-Dans notre cas $R_f=10^6$ V/A avec le réglage "low", avec une sortie en full bandwidth (FBW) sans filtre en courant continu et sans bias. 
+Dans notre cas $R_f=10^6$ V/A avec le réglage "low", avec une sortie en full bandwidth (FBW) sans filtre en courant continu et sans bias.
 
 Afin de réduire au plus le bruit électromagnétique ambiant, l'ensemble du montage à été isolé dans une cage de Faraday, et les composantes conductrices non porteurs du courant dans le circuit principal ont étés mises à la terre.
 
 Les gouttes ont étés déposés à la main grace à une seringue au bout d'un tube plastique flexible avec un débit tournant autour de 5 gouttes par seconde en moyenne.
+
 ### Résultats
+
 Sur le logiciel DAQ Express nous avons enregistré les mesures de tensions suivantes :
 
 ![Tension_plaque.png\|Evolution temporelle de la tension mesurée](/img/user/ESPCI%20Triboelectricite/Tension_plaque.png)
@@ -35,30 +40,34 @@ La valeur moyenne du bruit sur les 4 premières secondes est de $B=-0.001$ volts
 Ensuite il faut diviser par le facteur $R_f$ pour obtenir les intensités correspondantes mesurées à l'amplificateur à transimpédance. On supprime aussi le signal en dessous d'un seuil de 0,007 μA, ce qui donne le graphe suivant :
 
 ![Intensity_plaque.png\|Evolution temporelle de l'intensité mesurée](/img/user/ESPCI%20Triboelectricite/Intensity_plaque.png)
-On peut alors calculer l'aire de chaque pic pour obtenir la charge sachant que : 
+On peut alors calculer l'aire de chaque pic pour obtenir la charge sachant que :
 $$Q=\int_{t_{i}}^{t_{f}} I(t) \, dt=-\dfrac{1}{R_{f}}\int_{t_{i}}^{t_{f}} V(t) \, dt$$
 Cela donne le graphique suivant qui montre une décroissance exponentielle de la charge déposée avec le nombre de gouttes déposées.
 
 ![Charges_plaque.png\|Saturation de la plaque](/img/user/ESPCI%20Triboelectricite/Charges_plaque.png)
-On voit donc que la plaque devient saturée en charges à partir de la quarantième goutte, ou la variation de la charge est uniquement du au bruit (comparer la largeur type) : un régime permanent est donc atteint. 
+On voit donc que la plaque devient saturée en charges à partir de la quarantième goutte, ou la variation de la charge est uniquement du au bruit (comparer la largeur type) : un régime permanent est donc atteint.
 
 Au niveau d'une seule goutte (par exemple la première) on peu analyser la forme du signal.
 
 ![Pic1_plaque.png\|Forme du premier pic](/img/user/ESPCI%20Triboelectricite/Pic1_plaque.png)
 On voit qu'il y a une décharge rapide initiale avec l'arrivée de la tête de la goutte sur l'électrode, puis une décharge plus lente lors du passage du milieu et de la queue de la goutte.
+
 ## Glissement dans un capillaire plastique (27 novembre)
-Dans le cadre de ce stage on souhaite plus particulièrement s'intéresser au cas du passage des gouttes dans des fins capillaires, avec un [[ESPCI Triboelectricite/ESPCI - Taylor flow regime\|flux de type Taylor]]. 
+
+Dans le cadre de ce stage on souhaite plus particulièrement s'intéresser au cas du passage des gouttes dans des fins capillaires, avec un [[ESPCI Triboelectricite/ESPCI - Taylor flow regime\|flux de type Taylor]].
 
 Pour cela j'ai réalisé un montage similaire en remplaçant la plaque par une pipette plastique coupée aux deux extrémités, sans traitement hydrophobe en surface.
 
 ![ESPCI_Rigid_capillary.png](/img/user/Excalidraw/ESPCI_Rigid_capillary.png)
 
-Le montage étant disposé à la verticale avec la goutte occupant tout une section du capillaire, j'ai élargi la cage de Faraday précédente pour l’accueillir. Sinon la manipulation est restée inchangée par rapport à la première expérience. 
+Le montage étant disposé à la verticale avec la goutte occupant tout une section du capillaire, j'ai élargi la cage de Faraday précédente pour l’accueillir. Sinon la manipulation est restée inchangée par rapport à la première expérience.
+
 ### Résultats
+
 ![Tension_capillaire.png\|Evolution temporelle de la tension pour le capillaire](/img/user/ESPCI%20Triboelectricite/Tension_capillaire.png)
 La valeur moyenne du bruit sur les 10 premières secondes est de $B=-0.0004$ volts. La précision en gain de l'amplificateur à transimpédance est de ±1 % de 10⁶ :
 $$\frac{u(V)}{V} =\sqrt{\left(\frac{u(R_{f})}{R_{f}}\right)^2}$$
-Donc $u(V)=0.01 V \approx 10^{-3} \gg B$, on voit que cette valeur de bruit est négligeable en vue de cette incertitude sur $R_f$ 
+Donc $u(V)=0.01 V \approx 10^{-3} \gg B$, on voit que cette valeur de bruit est négligeable en vue de cette incertitude sur $R_f$
 
 On divise alors directement par $R_f$, puis on coupe le signal en dessous du seuil de 0,11 μA, ce qui donne le graphe suivant :
 
@@ -75,6 +84,6 @@ En déposant mes gouttes chargées dans de l'huile, j'ai remarqué une forme de 
 
 ![ESPCI_Frog_spawn.png](/img/user/Excalidraw/ESPCI_Frog_spawn.png)
 
-Ce phénomène d'adsorption à la surface sera étudiée en détail au semestre 2. 
+Ce phénomène d'adsorption à la surface sera étudiée en détail au semestre 2.
 
 ---

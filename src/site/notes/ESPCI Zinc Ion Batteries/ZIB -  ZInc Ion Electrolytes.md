@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/espci-zinc-ion-batteries/zib-z-inc-ion-electrolytes/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ### Aqueous electrolyte additives for Zinc Ion Batteries
 

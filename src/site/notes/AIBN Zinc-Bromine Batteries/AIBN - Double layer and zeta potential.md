@@ -2,13 +2,15 @@
 {"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-double-layer-and-zeta-potential/","dg-note-properties":{"aliases":["pzc","zeta","double layer","DL"]}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## **Interfacial Double layer (DL)**
 
-A double layer is a spontaneous ionic structure of two parallel layers of charge on the surface of an immersed object. 
+A double layer is a spontaneous ionic structure of two parallel layers of charge on the surface of an immersed object.
+
 - Stern layer : condensed counter-ions, stationary, adsorbed on the particle via chemical interactions
 - Slipping plane (diffuse layer) : more mobile co-counter-ions attached via the Coulomb force, electrically screening the first layer, still under the influence of thermal motion
 
@@ -30,6 +32,7 @@ Experimentally, curves are obtained of acid/base amount = f(pH), and pH=f($\zeta
 
 ---
 
-Sources: 
+Sources:
+
 - https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Physical_Methods_in_Chemistry_and_Nano_Science_(Barron)/02%3A_Physical_and_Thermal_Analysis/2.05%3A_Zeta_Potential_Analysis
 - https://en.wikipedia.org/wiki/Point_of_zero_charge

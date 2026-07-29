@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/cpge/cpge/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## **Ressources pour Classes Préparatoires**
 
@@ -29,6 +30,7 @@ Pour les concours, voici des fiches méthode, modèles de présentation personne
 ---
 
 ## **Fiches complètes pour les matières scientifiques**
+
 ### **Mathématiques PCSI/PC**
 
 - Fiche complète, programme de mathématiques PCSI/PC 2021 : [[CPGE/Fiche Mnemotechnique Maths\|Fiche Mnemotechnique Maths]]
@@ -42,6 +44,7 @@ Pour les concours, voici des fiches méthode, modèles de présentation personne
 - Fiche complète, programme de chimie PC 2021 : [[CPGE/Fiche Mnemotechnique Chimie\|Fiche Mnemotechnique Chimie]]
 
 ---
+
 ### **Corrections du contenu**
 
 Pour toute erreur trouvée dans une de mes fiches, ou pour une autre suggestion, contactez moi à l'adresse jamesrobinweir@gmail.com !

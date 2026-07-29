@@ -2,20 +2,25 @@
 {"dg-publish":true,"permalink":"/espci-zinc-ion-batteries/comment-comparer-differentes-batteries/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 # Comment comparer différentes batteries?
+
 Il existe de nombreux standards et grandeurs permettant de caractériser différentes batteries entre eux. Ce qui suit est une survol de quelques-uns souvent rencontrés :
 
 ---
+
 ### Capacité énergétique
 
 - Le **wattheure** (Wh) est une unité d'énergie équivalente à un watt de puissance consommé pendant une heure. En charge, on note Λ la capacité en Ah/kg.
 - La **densité énergétique** est la quantité d'énergie contenue dans une batterie par rapport à sa taille, généralement mesurée en wattheures par litre.
 - L'**énergie spécifique** est la quantité d'énergie contenue dans une batterie par rapport à son poids, en wattheures par kilogramme.
+
 ---
+
 ### Caractérisation de la charge/décharge
 
 - Les performances de charge et de décharge (puissance de la batterie) décrivent la vitesse à laquelle un courant électrique peut circuler à travers une batterie, mesurée en **C-rate**.
@@ -32,6 +37,7 @@ Au cours d'un essai de cycles de charge-décharge à un certain taux de charge, 
 - Rendement énergétique (EE) : rapport entre l'énergie produite et l'énergie consommée pendant les cycles de charge et de décharge ; les batteries lithium-ion atteignent généralement des rendements supérieurs à 95 % : $EE=\dfrac{\int V_{discharge}dQ}{\int V_{charge}dQ}$ ou Q est la charge de la batterie en Coulombs
 
 ---
+
 ### Caractéristiques physiques de la batterie
 
 - La **durée de vie calendaire** correspond à la dégradation qui se produit au fil des années lorsque la batterie est inactive, tout en conservant sa capacité énergétique. La dégradation liée est considérée indépendante à celle due aux cycles d’utilisation (par exemple, une baisse de 10 % de la capacité due à la durée de vie calendaire + 10 % due à la durée de vie cyclique = 80 % de capacité restante).

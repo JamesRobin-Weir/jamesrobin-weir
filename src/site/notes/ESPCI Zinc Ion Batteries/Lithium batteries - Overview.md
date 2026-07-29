@@ -2,23 +2,29 @@
 {"dg-publish":true,"permalink":"/espci-zinc-ion-batteries/lithium-batteries-overview/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 # Lithium batteries - Overview
 
 There are two main types of lithium batteries : lithium-metal and lithium-ions, which both have different use cases and advantages.
 ![Lithium_ion_versus_metal.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/Lithium_ion_versus_metal.png)
-	_Fig. : LMBs versus LIBs$^1$_
+_Fig. : LMBs versus LIBs$^1$_
 
 ---
+
 ## Lithium metal batteries (LMBs)
+
 ### Advantages of using lithium metal
+
 - Lithium metal posses an ultrahigh theoretical specific capacity (3860 mAh g−1)
 - It also has extremely low electrochemical redox potential (−3.040 V VS ESH)
 - Pure lithium metal has the highest anode performance beyond graphite (Gr) intercalation chemistry based materials
+
 ### Disadvantages of LMBS
+
 - There is signifiant morphology change upon plating and stripping
 - Therefore LMBs are often single use, so less ecofriendly
 - Their applications include pacemakers, and other integrated devices
@@ -26,6 +32,7 @@ There are two main types of lithium batteries : lithium-metal and lithium-ions, 
 - This leads to LMBs having inferior cycle life and safety properties to compared to LIBs
 
 ---
+
 ## Lithium-ion batteries (LIBs)
 
 ### Advantages of lithium-ion technology
@@ -45,4 +52,5 @@ There are two main types of lithium batteries : lithium-metal and lithium-ions, 
 - Ageing mechanisms including SEI thickening, loss of active lithium and cathode degradation, and gradually reduce capacity and increase internal resistance over time
 
 ---
+
 _(1) Image extracted from Red-Away tech, How Do Solid-State Batteries Compare to Lithium-Ion Batteries?_

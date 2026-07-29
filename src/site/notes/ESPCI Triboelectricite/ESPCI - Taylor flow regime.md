@@ -2,17 +2,18 @@
 {"dg-publish":true,"permalink":"/espci-triboelectricite/espci-taylor-flow-regime/","dg-note-properties":{"Link":"[[ESPCI S2]]","aliases":["Taylor flow","flux de type Taylor"]}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## Taylor slug gas flow
 
- The Taylor flow is a special case of slug flow where the bullet-shaped bubbles (Taylor bubbles) are separated by free-gas-entrained liquid slugs.
+The Taylor flow is a special case of slug flow where the bullet-shaped bubbles (Taylor bubbles) are separated by free-gas-entrained liquid slugs.
 
 The key non-dimensional number is the **capillary number** $Ca=μU/γ$ (µ = water viscosity, U = average water velocity, γ = surface tension).
 
-For well-defined Taylor slugs Ca should be **< 0.01** 
+For well-defined Taylor slugs Ca should be **< 0.01**
 Source : [https://doi.org/10.3390/pr9050870](https://doi.org/10.3390/pr9050870)
 
 | Name           | Symbol                      | Definition                                                                                         | Description                                                                      |
@@ -32,15 +33,16 @@ Source : [https://doi.org/10.3390/pr9050870](https://doi.org/10.3390/pr9050870)
 _TABLEAU : Nombres adimensionnels pour un flux multiphasé_
 
 ![Microfluidic_flow_regimes.png](/img/user/ESPCI%20Triboelectricite/Microfluidic_flow_regimes.png)
+
 ### Slug regime
 
-In the slug regime, interfacial tension is greater than inertial forces, and the Weber numbers are $7.61 × 10^{−6} < We_{ws} < 4.87 × 10^{−2}$ and $5.94 × 10^{−6} < We_{ks} < 5.94 × 10^{−4}$ 
+In the slug regime, interfacial tension is greater than inertial forces, and the Weber numbers are $7.61 × 10^{−6} < We_{ws} < 4.87 × 10^{−2}$ and $5.94 × 10^{−6} < We_{ks} < 5.94 × 10^{−4}$
 
 Map of regime as a function of the two flows :
 
 ![Internat_Journal_multiphase_flow.png](/img/user/ESPCI%20Triboelectricite/Internat_Journal_multiphase_flow.png)
 
-_Source : Chung, P.M.-Y., Kawaji, M., 2004. The effect of channel diameter on adiabatic two-phases flow characteristics in microchannels. International Journal of Multiphase Flow 30, 735–761
+\_Source : Chung, P.M.-Y., Kawaji, M., 2004. The effect of channel diameter on adiabatic two-phases flow characteristics in microchannels. International Journal of Multiphase Flow 30, 735–761
 
 Attention pour des pressions importantes il faut utiliser un Luer Lock :
 
@@ -53,21 +55,26 @@ At Ca ≲ 0.01 and Reynolds number Re < 100 the interface sees mostly surface-te
 ### Longeur des train d'onde de gouttes
 
 The scaling law that predicts the final droplet length, $L_d$, at the point of detachment is
+
 $$
 L_d=w_c+w_n \frac{Q_d}{Q_c}
 $$
+
 where $Q_c$ and $Q_d$ are the flow rates of the continuous and dispersed phases respectively and $w_c$ and $w_n$ are the widths of the neck and of the main channel, equal for two identical capillaries. In non-dimensional form, this can be expressed as
+
 $$
 L_d / w_c=1+\alpha Q_d / Q_c
 $$
+
 where $\alpha=w_n / w_c$ is a positive constant that depends on the geometry of the T-junction (Garstecki et al., 2006). According to Xu et al. (2008), the blocking length is not necessarily equal to $w_c$ but can be generalised as $\varepsilon w_c$ as it depends on the geometry of the channel. Therefore, the scaling relation (5) can be modified as
+
 $$
 L_d / w_c=\varepsilon+\alpha Q_d / Q_c
 $$
+
 where $\varepsilon$ is a fitting parameter related to the geometry of the microchannel. This scaling law suggests that the droplet length depends only on the variation of the flow rate ratio of the two immiscible fluids. However, we also observed the variations in droplet length with capillary number in our simulations, analogous to those obtained by Christopher et al. (2008).
 
 _SOURCE : Investigation of pressure profile evolution during confined micro-droplet formation using a two-phase level set method_
-
 
 ![Microfluidic_pumping.png](/img/user/Excalidraw/Microfluidic_pumping.png)
 

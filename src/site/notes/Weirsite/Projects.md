@@ -2,23 +2,28 @@
 {"dg-publish":true,"permalink":"/weirsite/projects/","tags":["linker-exclude"],"dg-note-properties":{"aliases":null,"tags":["linker-exclude"]}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## **Research**
 
 ## **University of Queensland - AIBN**
+
 ### [[AIBN Zinc-Bromine Batteries/Project - Research Internship MOF aSEIs for zinc bromine flow batteries\|Project - Research Internship MOF aSEIs for zinc bromine flow batteries]]
-Building on previous research projects, this 5 month research placement aims to investigate the effects of metal organic framework (MOF) coatings on the separator as well as the anode in a Zinc Bromine Rechargeable Battery ([[AIBN Zinc-Bromine Batteries/AIBN - Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters\|ZBRB]]) system.  
+
+Building on previous research projects, this 5 month research placement aims to investigate the effects of metal organic framework (MOF) coatings on the separator as well as the anode in a Zinc Bromine Rechargeable Battery ([[AIBN Zinc-Bromine Batteries/AIBN - Zinc–Bromine Rechargeable Batteries - Nano-Micro Letters\|ZBRB]]) system.
 
 - [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\|Bromine complexing agents]]
-- [[AIBN - Porosity Measurement and Adsorption Isotherms\|Porosity Measurement]]
+- [[AIBN Zinc-Bromine Batteries/AIBN - Porosity Measurement and Adsorption Isotherms\|Porosity Measurement]]
 - [[AIBN Zinc-Bromine Batteries/AIBN - Nafion Membranes\|Nafion Membranes]]
 - [[AIBN Zinc-Bromine Batteries/AIBN - Raman Spectroscopy\|Raman Specroscopy]]
 
 ## **Chimie ParisTech - ENSCP**
+
 ### [[ESPCI Zinc Ion Batteries/Project - Enhancing aqueous ZIBs\|Project - Enhancing aqueous ZIBs]]
+
 ![ZIF8_HQ.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIF8_HQ.png)
 This project, carried out for the IMAP laboratory at ESPCI over a six-month period, aimed to identify and experimentally evaluate solutions to the problem of dendrite growth on the anode of aqueous zinc ion batteries.
 
@@ -28,14 +33,17 @@ This project, carried out for the IMAP laboratory at ESPCI over a six-month peri
 - [[ESPCI Zinc Ion Batteries/Caracterisation de batteries\|Caracterisation de batteries]] avec différentes techniques analytiques (FRENCH)
 
 ### Transdisciplinary Project : Green and sustainable chemistry, towards a better periodic table for the Right Chemistry
+
 ![Tableau_PTD.png](/img/user/CPT/Tableau_PTD.png)
 A six-month project focusing on the history of the periodic table and its adaptation to the needs of scientists working within the context of the sustainable transition in chemistry (green chemistry), carried out for Veolia France.
 
 - Coding of an [interactive website](https://projet-colibri.github.io/) as part of the _Green Chemistry and the Periodic Table_ project, based on a synthesis of academic sources
-- [Series of lectures organised and hosted in Beijing](https://www.linkedin.com/posts/chimiepekin_avec-le-soutien-financier-de-veolia-et-sous-activity-7392092733483405312-fFP6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8JHDoBCK5XF3AXqhmDEumK1hWcE4jtWQc) with students from Beijing University of Chemical Technology (BUCT) over a 10-day period as part of the project, with the support of Veolia 
+- [Series of lectures organised and hosted in Beijing](https://www.linkedin.com/posts/chimiepekin_avec-le-soutien-financier-de-veolia-et-sous-activity-7392092733483405312-fFP6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8JHDoBCK5XF3AXqhmDEumK1hWcE4jtWQc) with students from Beijing University of Chemical Technology (BUCT) over a 10-day period as part of the project, with the support of Veolia
 
 ## **École supérieure de physique et de chimie industrielles de la ville de Paris (ESPCI)**
+
 ### **UROP research placement at the [Soft Matter Science and Engineering (SIMM)](https://www.simm.espci.fr/-Home-.html) laboratory at ESPCI**
+
 ![Sliding_drop.png](/img/user/ESPCI%20Triboelectricite/Sliding_drop.png)
 
 Internship initially undertaken alongside the chemical engineering degree programme and subsequently on a full-time basis, focusing on the characterisation of the triboelectric charging of droplets in microfluidic devices at the [SIMM](https://www.simm.espci.fr/-Home-.html) laboratory.
@@ -46,10 +54,12 @@ The research undertook was documented in the [internship defence presentation](h
 - [Experimental data and results](https://github.com/JamesRobin-Weir/ESPCI-Dynamics-of-charged-water-in-oil-droplets/tree/main) published at the end of the internship
 
 ---
+
 ## **Other**
+
 ## **My carbon footprint**
 
-Having completed the *Atelier 2 Tonnes* (*2 Tons Worskshop*) in March of 2026, my carbon footprint at the time was **6.88 tCO2e**. To contribute to emission reduction targets, I need to **divide my footprint by 2 by 2030**, then aim for 2tCO2e by 2050.
+Having completed the _Atelier 2 Tonnes_ (_2 Tons Worskshop_) in March of 2026, my carbon footprint at the time was **6.88 tCO2e**. To contribute to emission reduction targets, I need to **divide my footprint by 2 by 2030**, then aim for 2tCO2e by 2050.
 
 ![Carbon_footprint.png\|400](/img/user/Weirsite/Carbon_footprint.png)
 
@@ -60,6 +70,7 @@ In terms of origin, my largest source of emissions is transport related, at 3.02
 Compared to the French national standard emissions, I am 27% below average. My number one field of action in reducing my personal emissions is reducing those linked to travel.
 
 ### EE Days - A game-changer in green reindustrialisation and industrial sovereignty
+
 - Series of workshops and presentations about France's climate dilemas
 - Report on [[Weirsite/EE DAYS\|EE DAYS]] (FRENCH)
 

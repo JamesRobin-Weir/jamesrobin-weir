@@ -2,22 +2,26 @@
 {"dg-publish":true,"permalink":"/espci-zinc-ion-batteries/zi-bs-electrolytes-for-chemical-batteries/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## **Electrolytes for chemical batteries**
 
-An electrolyte is a substance that conducts electricity through the movement of ions, but not through the movement of electrons : this includes most soluble salts, acids, and bases, dissolved in a polar solvent like water. 
+An electrolyte is a substance that conducts electricity through the movement of ions, but not through the movement of electrons : this includes most soluble salts, acids, and bases, dissolved in a polar solvent like water.
+
 - Such a substance is called an ionic conductor
 - The electrolyte is electrically neutral
 - Gasses like HCl can also act as electrolytes, as well as molten salts
 - Solid state batteries use solid ionic conductors as opposed to liquid electrolytes
 
 ### Characterisation of Electrolytes
+
 ![ZIB_characterisation_electrolytes.png](/img/user/ESPCI%20Zinc%20Ion%20Batteries/ZIB_characterisation_electrolytes.png)
 
 ---
+
 ### Water in Salt Electrolytes (WiSE) for aqueous batteries
 
 WISEs are highly concentrated dissolves salts, having less water content than salt in terms of overall ratio. They may increase the electrochemical stability window (ESW) of aqueous batteries, as minority water content helps mitigate parasitic reactions like OER/HER. To achieve these conditions, various solvation sphere alteration approaches have been explored. Water can dissolve salt easily due to its high dielectric constant, but the minimal amount of water present in WiSEs means that these have a negligible tendency to dissolve electrode material.
@@ -32,7 +36,8 @@ An important phenomenon present in MIBs with organic electrolytes is the formati
 ---
 
 **Further reading :**
-- For zinc ion electrolytes, see [[ESPCI Zinc Ion Batteries/ZIBs - Electrolytes for chemical batteries\|electrolytes for ZIBs]] 
+
+- For zinc ion electrolytes, see [[ESPCI Zinc Ion Batteries/ZIBs - Electrolytes for chemical batteries\|electrolytes for ZIBs]]
 - For zinc bromine catholyte/anolyte, see [[AIBN Zinc-Bromine Batteries/AIBN - Electrolytes for Zinc Bromine Batteries\|electrolytes for ZBRBs]]
 
 ---

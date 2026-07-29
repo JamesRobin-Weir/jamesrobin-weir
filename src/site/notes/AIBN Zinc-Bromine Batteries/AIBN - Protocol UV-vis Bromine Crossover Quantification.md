@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-protocol-uv-vis-bromine-crossover-quantification/","dg-note-properties":{}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## Protocol : H-cell polybromide shuttling quantification
 
@@ -14,13 +15,13 @@
 
 ### Calibration spectrum
 
-First of all, it is necessary to create a spectroscopy calibration spectrum for complexed bromine first using different concentrations in the [[AIBN Zinc-Bromine Batteries/AIBN - Electrolytes for Zinc Bromine Batteries\|ZBRB electrolyte]]. For this a three electrode setup is required to generate the [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\|MEP]]- $\text{Br}_3⁻$ complex in small quantities. 
+First of all, it is necessary to create a spectroscopy calibration spectrum for complexed bromine first using different concentrations in the [[AIBN Zinc-Bromine Batteries/AIBN - Electrolytes for Zinc Bromine Batteries\|ZBRB electrolyte]]. For this a three electrode setup is required to generate the [[AIBN Zinc-Bromine Batteries/AIBN - Bromine complexing agents\|MEP]]- $\text{Br}_3⁻$ complex in small quantities.
 
 ![AIBN_Three_Electrode_setup.png](/img/user/Excalidraw/AIBN_Three_Electrode_setup.png)
 
-The total reference oxidised bromine concentration can be calculated via Faraday's law. Via UV-vis spectrometry we can identify $\lambda_{max}$ and A for $\text{Br}_3⁻$. 
+The total reference oxidised bromine concentration can be calculated via Faraday's law. Via UV-vis spectrometry we can identify $\lambda_{max}$ and A for $\text{Br}_3⁻$.
 $$[Br_3⁻]\approx\dfrac{Q}{FV}=\dfrac{1}{FV} \int^t_0 I(t)dt$$
-To characterise very dilute amounts of polybromide species, the two extreme oxidised bromine concentrations shall be 10⁻⁸ and 10⁻⁵ molar. The total time necessary to create the calibration spectrum must be reasonable. Therefore we chose $i=1\micro A$ as a good compromise. The electrochemical cell should be stirred to ensure homogeneity of solution for sampling. 
+To characterise very dilute amounts of polybromide species, the two extreme oxidised bromine concentrations shall be 10⁻⁸ and 10⁻⁵ molar. The total time necessary to create the calibration spectrum must be reasonable. Therefore we chose $i=1\micro A$ as a good compromise. The electrochemical cell should be stirred to ensure homogeneity of solution for sampling.
 
 |        $I_0$ |    1 A | 0.01 A | $1\micro A$ |
 | -----------: | -----: | -----: | ----------: |
@@ -52,7 +53,7 @@ from scipy import stats
 
 #import scipy.integrate as integrate
 
-  
+
 
 #from matplotlib.lines import Line2D #what is this for again?
 
@@ -60,7 +61,7 @@ import scienceplots
 
 import pylatex
 
-  
+
 
 ## Constants
 
@@ -74,7 +75,7 @@ I0=10**(-3) # A
 
 F = 96485.3415 #s A / mol
 
-  
+
 
 ## Calibration range values
 
@@ -84,11 +85,11 @@ print("Moles of polybromine are", n_polyBr)
 
 print("\n")
 
-  
+
 
 C_polyBr=n_polyBr/V_sol
 
-  
+
 
 times=[] # s
 
@@ -96,13 +97,13 @@ for x in n_polyBr:
 
 times.append(x*F/I0)
 
-  
+
 
 times_rounded = [ round(x, 4) for x in times ]
 
 print("Times in s are", times_rounded)
 
-  
+
 
 ## Experimental
 
@@ -110,17 +111,17 @@ A_Br2=np.array([1,1,1,1,1,1,1,1,1,1,1])
 
 A_Br3=np.array([0.001,0.005,0.01,0.017,0.021,0.027,0.035,0.039,0.0445,0.051,0.055])
 
-  
+
 
 #A_relatif=A_Br3/A_Br2
 
-  
+
 
 #############################################################################
 
 ## Linear regression
 
-  
+
 
 x = np.asarray(C_polyBr, dtype=float)
 
@@ -128,15 +129,15 @@ y = np.asarray(A_Br3, dtype=float)
 
 a = np.dot(x, y) / np.dot(x, x) # slope for A = a*C
 
-  
+
 
 #############################################################################
 
-  
+
 
 ## Plotting absorbance
 
-  
+
 
 plt.style.use(['science', 'ieee'])
 
@@ -144,7 +145,7 @@ plt.scatter(C_polyBr, A_Br3)
 
 plt.plot(C_polyBr, a * C_polyBr, color='red', label='Regression Line') #plot instead of scatter for line
 
-  
+
 
 plt.title("Calibration Curve")
 
@@ -166,13 +167,15 @@ plt.show()
 ### Polybromide shuttling evaluation
 
 Using a two-compartment diffusion cell with crossover surface area known accurately, compare bromine cross over for the following separators :
-- bare Daramic
-- Nafion/ethanol sprayed on Daramic 
-- bare ZIF-CP (based on zinc nitrate and imidazole)
-- ZIF-CP bound to the Daramic surface 
-	- ==At this time time unsure as to how to bind them==
 
-Anolyte is prepared according to the ZBRB electrolyte protocol, and so too for the catholyte but with the inclusion of the MEP binding agent. 
+- bare Daramic
+- Nafion/ethanol sprayed on Daramic
+- bare ZIF-CP (based on zinc nitrate and imidazole)
+- ZIF-CP bound to the Daramic surface
+  - ==At this time time unsure as to how to bind them==
+
+Anolyte is prepared according to the ZBRB electrolyte protocol, and so too for the catholyte but with the inclusion of the MEP binding agent.
+
 ### Procedure
 
 1. Install membrane with attention to coating orientation, as MOF coating should be on the anolyte side
@@ -180,9 +183,11 @@ Anolyte is prepared according to the ZBRB electrolyte protocol, and so too for t
 3. Replace sampled volume with fresh receiver electrolyte if necessary depending on total electrolyte volume in cell
 
 ### Analysis
+
 Quantify bromine crossover by **UV-vis** of polybromide using reference spectrum.
 
 **Calculate** :
+
 - cumulative crossover
 - steady-state flux in mol per square centimeter per hour of polybromides
 

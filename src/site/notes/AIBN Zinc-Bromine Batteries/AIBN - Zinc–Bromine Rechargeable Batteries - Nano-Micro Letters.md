@@ -2,60 +2,75 @@
 {"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-zinc-bromine-rechargeable-batteries-nano-micro-letters/","dg-note-properties":{"aliases":["ZBRB","ZBRBs"]}}
 ---
 
----
-# {{Home Page| Home}} | {{Projects}} | {{CPGE}} | {{My carbon footprint}}
----
+
+***
+# {{Home Page| Home}} | {{Projects}} | {{CPGE|Classes Préparatoires (CPGE)}} | [CV](https://github.com/JamesRobin-Weir/jamesrobin-weir/blob/main/src/site/CV_James_Robin-Weir.pdf)
+***
 
 ## Zinc-Bromine Rechargeable Batteries - Nano-Micro Letters (2023)
 
 ---
-For a glossary, as well as safety and general information see [[AIBN - RFB Glossary\|RFB Glossary]]
+
+For a glossary, as well as safety and general information see [[AIBN Zinc-Bromine Batteries/AIBN - RFB Glossary\|RFB Glossary]]
 
 ---
 
-Zinc bromine rechargeable batteries (ZBRBs) are hybrid batteries : some of the energy is stored at the negative electrode (anode) via metallic zinc plated during the charging phase, while the remaining energy is stored in a liquid phase at the catholyte. They come in two configurations : static (cheaper, no pumping and lesser maintenance) and flow (higher efficiency). This study concentrates on flow ZBRBs. 
+Zinc bromine rechargeable batteries (ZBRBs) are hybrid batteries : some of the energy is stored at the negative electrode (anode) via metallic zinc plated during the charging phase, while the remaining energy is stored in a liquid phase at the catholyte. They come in two configurations : static (cheaper, no pumping and lesser maintenance) and flow (higher efficiency). This study concentrates on flow ZBRBs.
 
 ### Supporting Reactions
+
 #### Anode side
+
 - $\text{Zn}^{2+}$ + 2e⁻ → $\text{Zn}^{0}$ (Charging)
-- $\text{Zn}^{0}$ → $\text{Zn}^{2+}$ + 2e⁻ (Discharging) 
+- $\text{Zn}^{0}$ → $\text{Zn}^{2+}$ + 2e⁻ (Discharging)
 - E°= −0.763 vs SHE at 25°C
+
 #### Cathode side
+
 - 2$\text{Br}⁻$ → $\text{Br}_2$ + 2e⁻ (Charging)
 - $\text{Br}_2$ + 2e⁻ → 2$\text{Br}⁻$ (Discharging)
 - E°=+1.065 V vs SHE at 25°C
 
 ### Limitations of the technology
-1) Zinc dendrite growth resulting from repeated electroplating and stripping of zinc that can pierce the membrane and eventually forms a conductive bridge between the electrodes (shorting)
-2) hydrogen gas generation as the electrochemical potential of charge/discharge process of the system which is higher than that required for water hydrolysis which competes with the reduction reaction of Zn2+ ions and decreases the overall efficiency of the ZBRBs, 
-3) corrosive elemental bromine liquid, Br 2 (l), production at the positive electrode during charge, which can be diffused through the membrane to the zinc half-cell reacting with the Zn plated at the negative electrode (crossover), causing self-discharge and/or degradation
-4) the low miscibility (~ 2.8 vol%) and stratification behaviour of Br2(l) in aqueous solutions that can lead to non-uniform concentration distribution
+
+1. Zinc dendrite growth resulting from repeated electroplating and stripping of zinc that can pierce the membrane and eventually forms a conductive bridge between the electrodes (shorting)
+2. hydrogen gas generation as the electrochemical potential of charge/discharge process of the system which is higher than that required for water hydrolysis which competes with the reduction reaction of Zn2+ ions and decreases the overall efficiency of the ZBRBs,
+3. corrosive elemental bromine liquid, Br 2 (l), production at the positive electrode during charge, which can be diffused through the membrane to the zinc half-cell reacting with the Zn plated at the negative electrode (crossover), causing self-discharge and/or degradation
+4. the low miscibility (~ 2.8 vol%) and stratification behaviour of Br2(l) in aqueous solutions that can lead to non-uniform concentration distribution
 
 ---
+
 ### Static ZBRBs
+
 - Held back by high self-discharge rate and low energy density (microbatteries suffer)
 - glass fibre separators work well (instead of porous carbon)
 - Gelion Endure™ company makes gel ZBRBs, but sensitive to temperatures over 50 °C
 - Carbon foam electrode : highly porous flexible carbon foam
 
 ---
-### Redox Flow Battery (RFB) 
+
+### Redox Flow Battery (RFB)
+
 - rapid response times, measured in milliseconds => these systems are well suited for ==levelling intermittent renewable power output==
 - VFRB (vanadium) are well-developed and commercialised
 - ZBFB has substantial advantages over other flow batteries, such as high energy density, high cell voltage and the low cost of the materials
 
 ![ZBRB_schema.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/ZBRB_schema.png)
 
-- Negative electrode (zinc), positive electrode (bromine), separated by a membrane to prevent cross-contamination. 
+- Negative electrode (zinc), positive electrode (bromine), separated by a membrane to prevent cross-contamination.
 - Two tanks of aqueous electrolyte solutions (anolyte and catholyte) contain electrochemically active species, including zinc (Zn2+) and bromide (Br-)
 - Elemental bromine exists in equilibrium with bromide ions forming polybromide ions, $Br_{n}⁻$, where n = 3, 5 and 7
 - two pumps to circulate the electrolyte solutions over both electrode surfaces, ==controlling generated heat, feeding and homogenising reactants, removing bromine complexes from the stack and ensuring uniform zinc deposits==
 - Single pump systems exist
 
 ---
+
 ### Kinetics
--  Behaviour and kinetics of zinc cations are strongly affected by other supporting electrolytes in aqueous solutions containing bromide
+
+- Behaviour and kinetics of zinc cations are strongly affected by other supporting electrolytes in aqueous solutions containing bromide
+
 ---
+
 ### Dendritic growth (page 8)
 
 ![ZBRB_parasitic.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/ZBRB_parasitic.png)
@@ -63,7 +78,7 @@ Zinc bromine rechargeable batteries (ZBRBs) are hybrid batteries : some of the e
 - It is important to strip the zinc in ZBRBs for extended periods to ensure a smooth electrode surface for next zinc deposition.
 - Residual zinc left on the anode after discharge results in the loss of 3–5% of the amp-hour capacity
 - However, ==the remaining zinc could potentially be used as a useful energy source if additional zinc is plated over it in the subsequent cycles.==
-	- @ What? Nucleation sites? Of course it can be stripped after, that doesn't make it additional energy
+  - @ What? Nucleation sites? Of course it can be stripped after, that doesn't make it additional energy
 - Effect of operating temperature on zinc deposits : zinc deposits (grey in appearance) turned black at temperatures higher than 40 °C
 - Smooth and bright zinc deposits were obtained when increasing the electrolyte’s zinc concentration
 - In the initial stage, zinc deposition begins with nucleation and continues with growth, meaning ==the formation of dendrites is a cumulative result of battery cycling, not a single cycle.==
@@ -94,9 +109,11 @@ PUMPS
 
 </div></div>
 
+
 - Dendrites ==form on the membrane side== dominantly
 
 ### Dendrite Mitigation Strategies
+
 - Thermal treatment of GF => higher defect concentration => better zinc diffusion
 - Aqueous electrolyte additives => reduced surface reactions
 - Another proposed strategy involves creating an artificial interfacial layer between the zinc and the electrolyte that performs the same function as an SEI
@@ -105,9 +122,10 @@ PUMPS
 ![MOF_water_rejection.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/MOF_water_rejection.png)
 
 - Organic additives (e.g. SDS) change surface morphology and surface orientation
--  LiCl–ZnCl2 (water-in-salt) mixture-concentrated electrolyte on the hydrogen bonding interruption of water molecules and found that Zn2+ ions can coordinate with Cl− rather than H2O, leading to strong O–H covalent bonds while decreasing the solvation activity of H2O in the electrolyte
+- LiCl–ZnCl2 (water-in-salt) mixture-concentrated electrolyte on the hydrogen bonding interruption of water molecules and found that Zn2+ ions can coordinate with Cl− rather than H2O, leading to strong O–H covalent bonds while decreasing the solvation activity of H2O in the electrolyte
 
 ---
+
 ### Bromine half-cell
 
 In a Zn–Br flow battery, the fundamental positive-electrode electron-transfer reaction is usually written as :
@@ -127,19 +145,23 @@ Conceptually, at the electrode bromide is oxidised to bromine. Then, in the elec
 In practical batteries much of the bromine inventory is stored in these complexed forms rather than as “free” $\mathrm{Br_2}$.
 
 ---
+
 ### Electrolyte
 
 On top of $\text{ZnBr}_2$, supporting secondary salts (e.g. $\text{ZnCl}_2$ and KCl) are normally used to promote ionic conductivity and lower internal resistance due to the low conductivity of zinc–bromide solution, thereby increasing the battery’s energy efficiency
 
 ---
+
 ### Membrane
+
 - Must minimise the diffusion of $\text{Br}_2$ to the electroplated zinc, which causes self-discharge and lower CE for the system
 - In terms of morphology, membranes can be generally classified into porous and ion-exchange membranes (e.g. Nafion®), which are both appropriate and capable of separating the anode and cathode electrolytes in ZBFBs.
-	- Porous membranes are defined as macroporous (> 50 nm), mesoporous (2-50 nm) or microporous (0.2-2 nm) depending on their average pore diameter, while non-porous membranes transport ions via solution–diffusion mechanisms
+  - Porous membranes are defined as macroporous (> 50 nm), mesoporous (2-50 nm) or microporous (0.2-2 nm) depending on their average pore diameter, while non-porous membranes transport ions via solution–diffusion mechanisms
 
 ---
 
 ### Characterisation (page 22)
+
 - Operando measurement = taken while a battery is operating (cycling)
 - In situ measurement (meaning on site) = measuring a variable against a parameter relevant to the system, such as time, temperature, pressure or other variables, to minimise its degradation
 
