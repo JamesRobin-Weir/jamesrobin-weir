@@ -337,7 +337,8 @@
 - ==Prod sca== $\rightarrow$ sur un espace réel : forme bilinéaire symétrique définie positive ; sur un espace complexe : forme sesquilinéaire hermitienne définie positive.
 - Prod sca canon $\rightarrow$ $(X|Y)=Y^TX$
 - Pythagore $\rightarrow$ pour une famille orthogonale, $||\sum x_i||^2=\sum||x_i||^2$
-- ==Orthogonal partie F== $\rightarrow$ sev de E tq $F^{\perp}=\{y\in E|\forall x \in F, (x|y)=0\}$=$(Vec(F))^{\perp}$ et F et $F^{\perp}$ en somme directe (mais pas nécessairement supplémentaires ds E en dimension infinie)
+- Espaces en somme directe ($F_1 ⊕ F_2$) $\rightarrow$  $F\cap G=\{0\}$, pr n sev $E_1,\dots,E_n$, $\forall x_1\in E_1,\dots,x_n\in E_n$ tq $x_1+\dots+x_n=0$ $\Rightarrow$ $x_1=\dots=x_n=0$
+- ==Orthogonal d'une partie F== $\rightarrow$ sev $F^{\perp} \subset E$ tq $F^{\perp}=\{y\in E|\forall x \in F, (x|y)=0\}$=$(Vec(F))^{\perp}$ et F et $F^{\perp}$ en somme directe (mais pas nécessairement supplémentaires ds E en dimension infinie)
 - En dimension finie, $dim(E)=dim(F)+dim(F^\perp)$.
 - Base EE orthon $\rightarrow$ tt ee $\ne \{O_E\}$ admet une base orthon (eg poly lagrange), et tt fam orthon peut être complétée en une base orthon
 - Décomp x bon $\rightarrow$ $x=\sum^n_{i=1} (x|e_i)e_i$

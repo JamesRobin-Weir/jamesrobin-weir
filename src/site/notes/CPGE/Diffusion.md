@@ -29,7 +29,7 @@
 - ==Diffusivité== -> 1 Direction = rhoCoit 1 mouton (lamb)da $\frac{1}{D}=\frac{\mu c_P}{\lambda}$ (because they were endetté), $c_P$ cap therm massique, $\lambda$ la conductivité therm en $W.m^{-1}K^{-1}$ 
 - Diff. j -> Des fluro ô déesse $d\Phi_{\vec{j}}=\vec{j}\vec{dS}$
 - $d^2N=d\Phi_{\vec{j}} \ dt$ et regarde l'homogénéité, marche pour tt: ($d^2Q$ en thermo)
-- ==Loi Newt interface== -> $d\Phi=h(T-T_{flu})dSp$ (Un défi) acheter une déesse)(Newton pimps outs Vénus) (forme intégrée si T unif)
+- ==Loi Newt interface== -> $d\Phi=h(T-T_{flu})dSp$ (Un défi acheter une déesse)(Newton pimps outs Vénus) (forme intégrée si T unif)
 - ==Res therm== -> $R_{th}=\frac{T_{1}-T_{2}}{\Phi_{1->2}}=\frac{L}{\lambda e^2}$ en régime perm 1D (K.W-1)
 - Mêmes relations résistance therm/elec $R_{eq}$
 - Interface fluide liquide $R=\dfrac{1}{hS}$

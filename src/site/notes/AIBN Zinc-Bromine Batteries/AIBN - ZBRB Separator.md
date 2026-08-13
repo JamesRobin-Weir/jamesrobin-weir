@@ -70,3 +70,4 @@ Further reading :
 Sources :
 
 - Synthesis and characterisation of highly durable hydrocarbon-based composite membrane for zinc-bromine redox flow battery https://doi.org/10.1016/j.jpowsour.2023.232821
+- 60°C for 6h in H2SO4 https://doi.org/10.1016/j.ijhydene.2025.03.311

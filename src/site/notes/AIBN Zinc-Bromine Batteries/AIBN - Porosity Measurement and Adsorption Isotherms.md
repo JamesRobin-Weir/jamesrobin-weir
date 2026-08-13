@@ -25,7 +25,6 @@ However they are also defined by accessibility : at the surface through pores al
 MOFs tend to have micropores which can be measured via gas porosity/adsorption.
 
 ---
-
 ## Adsorption isotherms
 
 ### Definitions
@@ -39,7 +38,6 @@ The IUPAC classifies the most common adsorption isotherms into 6 types : I, II, 
 ![IUPAC_isotherms_classification.png](/img/user/Excalidraw/IUPAC_isotherms_classification.png)
 
 ---
-
 ### Type I : Langmuir isotherm for microporous solids
 
 This kinetic isotherm model provides a simple description of the formation of a monolayer of adsorbate A on an adsorbent surface at a given temperature, yielding a proportion of occupied sites at equilibrium of $\Theta_A = \frac{K_\text{eq} \, P_A }{1+K_\text{eq} \, P_A}$, where ${\displaystyle K_{\text{eq}}}$ is a constant characterising the interaction between A and the surface.
@@ -83,10 +81,9 @@ Limitations:
 - Difficult to separate mono-multilayer adsorption from pore filling
 
 ---
-
 ### Type II : Unrestricted mono-multilayer adsorption
 
-A Type II isotherm posses a saturation point (M in red) for the first monolayer, and then proceeds to form additional adsorbate layers. It is generally associated with non-porous or macroporous materials. This process is called mono-multilayer adsorption.
+A Type II isotherm posses a point M (in red) of completion of monolayer coverage, and at higher pressures the material gains additional adsorbate layers. It is generally associated with non-porous or macroporous materials. This process is called mono-multilayer adsorption.
 
 #### Sub-model : Freundlich isotherm
 
@@ -99,7 +96,6 @@ The Freundlich isotherm is an empirical adsorption model, not an IUPAC Type I-VI
 - A ${\displaystyle \Delta _{\mathrm {r} }H}$ that varies with site occupancy indicates an in-homogeneous surface and therefore the use of the Freundlich isotherm
 
 ---
-
 ### Type III and V: rare convex isotherms
 
 Type III isotherms usually occur in systems with weak adsorbent-adsorbate interactions and strong adsorbate-adsorbate interactions, often accompanied with a heterogeneous deposition morphology. Materials include polyethylene.
@@ -107,7 +103,6 @@ Type III isotherms usually occur in systems with weak adsorbent-adsorbate intera
 Type V isotherms resemble type III but with an additional hysteresis loop associated with a pore filling mechanism, and are associated with weak adsorbate-adsorbate interactions in porous adsorbents.
 
 ---
-
 ### Type IV isotherm : complete pore fillling
 
 Type IV isotherms have a similar initial regime to type I isotherms, but tend to level out at higher pressures, with an additional hysteresis loop, of which the lower branch corresponds to mono-multilayer adsorption, the upper to desorption.
@@ -117,34 +112,29 @@ Type IV isotherms have a similar initial regime to type I isotherms, but tend to
 This is due to capillary condensation in the mesopores, a process where vapour condenses into liquid below the saturation vapour pressure thanks to increased number of van der Waals interactions between vapour phase molecules inside the confined space. This is an issue notably in atomic force microscopy (AFM).
 
 ---
-
 ### Type VI isotherm
 
 Type VI isotherms are rare, and usually represent successive multi-layer adsorption on uniform non-porous surfaces, where step height is proportional to capacity for each layer. Example materials include graphitised carbon.
 
 ---
-
 ### Gurvich rule for micro and mesopores
 
 For micro and mesopores, the Gurvich rule states that, when present, a horizontal plateau of an isotherm corresponds to a pore filling process, and that an uptake near P/P° signifies pore saturation. Most gas adsorption instruments report uptake as gas volume at STP ($V_{ads, STP}$). Assuming that fluid adsorbed in the pores has the same density as the bulk liquid at the same temperature and pressure, and knowing the molar volume of the ideal gas at standard temperature and pressure, then at saturation:
 $$V^{tot}_{pore} = \dfrac{m^{sat}_{ads}}{\rho_{liq}}= V_{ads, \text{STP}}(P/P°) \dfrac{M}{\rho_{liq}V_{m, \text{STP}}}$$When using nitrogen, the second term can be calculated for $N_2$ as $1.547 × 10^{-3}$. Among multiple limitations, the rule notably cannot be applied to composite Type IV + Type II isotherms where the plateau in no longer quasi-horizontal.
 
 ---
-
 ### Kelvin equation for mesoporosity
 
-The Kelvin equation provides a correlation between pore diameter and pore condensation pressure, assuming cylindrical mesopores with no fluid-wall interactions :
-$$\ln \dfrac{P}{P°} = \dfrac{-2\gamma V_l}{r_p R T}$$
-Where $\gamma$ is the surface tension of liquid nitrogen, $V_l$ the liquid molar volume, $r_p$ the pore radius, $r_k$ the critical radius, $R$ the universal gas constant and $t$ the statistical thickness of the absorbed film on pore walls.
+To estimate pore radius or pore-size distribution, the Kelvin equation provides a correlation between pore diameter and pore condensation pressure, assuming cylindrical mesopores with no fluid-wall interactions :
+$$\ln \dfrac{P}{P°} = -\dfrac{2\gamma V_l \cos\theta}{(r_p - t) R T}$$
+In the above equation (using nitrogen), $\gamma$ is the surface tension of LN2 (liquid nitrogen), $\theta$ its contact angle and $V_l$ its molar volume, $r_p$ is the pore radius, and $t$ the statistical thickness of the absorbed film on pore walls.
 
 ---
-
 ### Hysteresis loop
 
 Thin vertical hysteresis loops are associated with regular cylindrical pore channels, while thicker loops are often more disorderly pores. Low pressure hysteresis => no accurate pore size analysis is possible due to excess swelling!
 
 ---
-
 ## Synthesis Table
 
 | **Type**                                                              | **Characteristics:**                                                                                                                                                             | **Adsorbent**                                                    | **Interaction**                                          | **Example**                                                        |
@@ -164,7 +154,6 @@ Sources and futher reading :
 - Textbook pages : https://link.springer.com/content/pdf/10.1007/978-94-009-5562-2_3
 
 ---
-
 ## GCMC Pore adsorption simulation
 
 RASPA 3 can be used for pore size simulation from .cif files for crystaline species.
