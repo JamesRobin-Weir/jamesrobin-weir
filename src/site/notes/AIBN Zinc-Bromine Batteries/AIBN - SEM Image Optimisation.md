@@ -14,4 +14,8 @@ The sign of the surface charge influences electron deviation, but also the amoun
 - Zoom out and check the colour of the previously zoomed area
 - If it is darker, increase kV, and if it is lighter decrease it.
 
+![AIBN_SEM_Optimisation_white_box.png](/img/user/Excalidraw/AIBN_SEM_Optimisation_white_box.png)
+
 For polymer species, this $E_2$ equilibrium point is situated around 1.5 kV of accelerating voltage, or 1.5 keV of electron energy. For Daramic coated with polyethylene glycol (PEG) the experimental optimum kV I found was 1.9 kV. 
+
+***
