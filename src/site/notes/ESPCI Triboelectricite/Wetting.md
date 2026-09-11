@@ -26,3 +26,5 @@ $$
 If $\mathrm{S}_{\mathrm{LS}}>0$, the liquid spreads completely, whereas if $\mathrm{S}_{\mathrm{LS}} \leq 0$ the drop does not spread completely and it finds an equilibrium contact angle $\theta_{\mathrm{eq}}$ where $\mathrm{F}_{\mathrm{h}}=0$.
 
 ---
+
+### Sessile drop technique

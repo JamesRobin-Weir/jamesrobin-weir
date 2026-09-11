@@ -16,7 +16,7 @@ Working install method for .NET framework 3.5 on windows 10 enterprise :
 2. Open an administrator console and run the following command: DISM /Online /Cleanup-Image /RestoreHealth
 3. Once completed run this command: sfc /scannow
 4. Mount the iso as a drive on your system using right mouse click 
-5. Similar to the manual, run the following (taking care to replace the "`E" in the /Source: argument by the letter of the drive of the mounted iso on your system): DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:E:\sources\sxs`
+5. Similar to the manual, run the following (taking care to replace the "E" in the /Source: argument by the letter of the drive of the mounted iso on your system): DISM /Online /Enable-Feature /FeatureName:NetFx3 /All /LimitAccess /Source:E:\sources\sxs`
 
 All other methods of install tested were non-functional, including all those in the user guide you sent me, and this on 4 different computer systems.
 

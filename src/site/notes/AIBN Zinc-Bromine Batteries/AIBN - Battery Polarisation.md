@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-battery-polarisation/","dg-note-properties":{"aliases":["battery polarisation"]}}
+{"dg-publish":true,"permalink":"/aibn-zinc-bromine-batteries/aibn-battery-polarisation/","dg-note-properties":{"aliases":["Battery polarisation"]}}
 ---
 
 ## Battery Polarisation

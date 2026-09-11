@@ -152,6 +152,8 @@ Sources and futher reading :
 - In depth slides on BET analysis : https://web.archive.org/web/20210507004322/https://www.iitk.ac.in/che/pdf/resources/BET-TPX-Chemi-reading-material.pdf
 - Standard protocole published by IUPAC : https://www.researchgate.net/publication/282624978_Physisorption_of_gases_with_special_reference_to_the_evaluation_of_surface_area_and_pore_size_distribution_IUPAC_Technical_Report#fullTextFileContent
 - Textbook pages : https://link.springer.com/content/pdf/10.1007/978-94-009-5562-2_3
+- https://www.researchgate.net/publication/259177184_Models_for_Type_VI_Adsorption_Isotherms_from_a_Statistical_Mechanical_Formulation
+- https://www.researchgate.net/publication/282624978_Physisorption_of_gases_with_special_reference_to_the_evaluation_of_surface_area_and_pore_size_distribution_IUPAC_Technical_Report#fullTextFileContent
 
 ---
 ## GCMC Pore adsorption simulation
