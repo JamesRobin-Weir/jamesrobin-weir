@@ -29,7 +29,7 @@ For the **microporous polyethylene/silica Daramic separators commonly cited in f
 
 For industrial battery separator families from Daramic/DARAK, the manufacturer describes them more generally as sub-micron microporous materials rather than giving one universal value. One DARAK industrial datasheet says the **average pore diameter is below 1 µm**, with **90% of pores between 0.3 and 0.8 µm**, and another DARAK 9000 sheet lists **0.6 µm average pore size**. ([Daramic](https://www.daramic.com/storage/wysiwyg/DARAK%20for%20Flooded%20Batteries.pdf "DARAK Separator for Flooded Industrial Batteries"))
 
-![AIBN_Daramic_SEM.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/AIBN_Daramic_SEM.png)
+![AIBN_Daramic_SEM.png](/img/user/AIBN_Daramic_SEM.png)
 FE-SEM micrographs of a) the surface; b) the cross-sectional area of a Daramic membrane
 
 ### Membrane modification

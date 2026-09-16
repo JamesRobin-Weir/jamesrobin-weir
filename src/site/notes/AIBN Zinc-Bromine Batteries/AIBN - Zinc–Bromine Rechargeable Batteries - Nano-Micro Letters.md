@@ -11,7 +11,7 @@
 
 ---
 
-For a glossary, as well as safety and general information see [[AIBN Zinc-Bromine Batteries/AIBN - RFB Glossary\|RFB Glossary]]
+For a glossary, as well as safety and general information see [[AIBN - RFB Glossary\|RFB Glossary]]
 
 ---
 

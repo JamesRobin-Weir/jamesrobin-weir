@@ -12,9 +12,9 @@
 **Conseils généraux** :
 
 - Éviter autant que possible la lecture de ses notes.
-- Regarder le jury dans les yeux pour le « réveiller ».
-- Surligner l’article en trois couleurs correspondant à vos trois parties.
-- Il est temps de s’acheter une montre (fortement conseillé) pour les concours et pour la préparation lors des khôlles.
+- Regarder le jury dans les yeux pour le garder éveillé.
+- Surligner l’article en trois couleurs correspondant à vos trois parties (gain de temps).
+- S’acheter une montre (fortement conseillé) pour les concours et pour la préparation lors des khôlles.
 
 ---
 
@@ -25,49 +25,49 @@
 ### Compte rendu (environ 7 min aux concours, 3-4 min en khôlle) :
 
 1. Courte amorce de **votre** culture G (pas un exemple de l’article), qui contextualise le sujet de l’article.
-2. Puis faire la transition vers le sujet du texte en donnant son ==journal source, sa date (mois et année) et sa nature (opinion piece, informative article)==.
-3. L’annonce du plan n’est ==pas nécessaire== dans le compte rendu.
-4. Résumer (en reformulant dans ses propres mots, sans citations) l’article de façon ==NON LINÉAIRE== → il doit être réorganisé par idées.
+2. Puis faire la transition vers le sujet du texte en donnant son **journal source, sa date (mois et année) et sa nature (opinion piece, informative article)**.
+3. L’annonce du plan n’est **pas nécessaire** dans le compte rendu.
+4. Résumer (en reformulant dans ses propres mots, sans citations) l’article de façon **NON LINÉAIRE** → il doit être réorganisé par idées.
 
 **Conseils** :
 
 - Surligner de plusieurs couleurs l’article = bonne manière de gagner du temps pour ne pas réécrire l’ordre des idées (et cela rassure immédiatement le jury de votre travail, car il voit le travail de réorganisation).
-- ==PAS DE CITATIONS DU TEXTE== → IL FAUT REFORMULER DANS SES PROPRES MOTS. Il ne faut pas citer non plus ceux qui parlent dans le texte, et il est inutile de donner leurs noms (donner plutôt leur fonction, type scientifique, journaliste...).
+- **PAS DE CITATIONS DU TEXTE** → IL FAUT REFORMULER DANS SES PROPRES MOTS. Il ne faut pas citer non plus ceux qui parlent dans le texte, et il est inutile de donner leurs noms (donner plutôt leur fonction, type scientifique, journaliste...).
 - « Informative article » si les informations sont simples et objectives, « opinion piece » s’il y a une part de subjectivité de l’auteur.
 
 ---
 
 ### Commentaire (8 min aux concours, 6-7 min en khôlle)
 
-1. ==Transition== courte où l’on donne l’idée majeure retenue.
-2. ==Problématique== sous forme d’==une seule question ouverte==, philosophique ou politique. Elle doit être **différente du sujet spécifique du texte** : il s’agit d’ouvrir le sujet. La question doit être large et ouverte, afin que vous puissiez y placer le maximum d’exemples précis possibles.
-3. ==PLAN== en ==TROIS PARTIES== : généralement THÈSE / ANTITHÈSE / SYNTHÈSE.
+1. **Transition** courte où l’on donne l’idée majeure retenue.
+2. **Problématique** sous forme d’**une seule question ouverte**, philosophique ou politique. Elle doit être **différente du sujet spécifique du texte** : il s’agit d’ouvrir le sujet. La question doit être large et ouverte, afin que vous puissiez y placer le maximum d’exemples précis possibles.
+3. **PLAN** en **TROIS PARTIES** : généralement THÈSE / ANTITHÈSE / SYNTHÈSE.
 4. Dans vos trois parties, placer au minimum trois exemples spécifiques (nom de personne ou d’entreprise, date d’un événement, statistique...) par partie. Ces exemples servent de points d’appui pour votre argumentation.
 5. Conclure en résumant le cheminement de votre argumentation et la solution / le juste milieu proposé en 3e partie.
 6. Optionnel : ouverture sur un sujet annexe (comme en dissertation), avec éventuellement un exemple pour donner appui.
 
 **Méthode pour établir sa problématique**
 
-- Identifier les ==mots-clés== du titre de l’article.
+- Identifier les **mots-clés** du titre de l’article.
 - Relier ces mots-clés à leur domaine général associé (cinema → culture ; oil spill → pollution ; cancer → health).
-- Le sujet apparaît toujours naturellement à partir de ces mots-clés.
+- Le sujet apparaît naturellement à partir de ces mots-clés.
 
 **Exemples de bonnes problématiques**
 
 - To what extent do current public institutions have to reckon with the mistakes of past governments?
 - What role should the private sector play in guaranteeing citizens’ health?
-- Is culture in decline today?
+- Could culture be currently in decline?
 - To what extent can urban and demographic expansion and the protection of nature coexist?
-- Could promoting small businesses be the silver bullet to dismantling Big Tech?
+- Is promoting small businesses the silver bullet to dismantling Big Tech?
 
 **Conseils**
 
-- Il s’agit d’un exercice de rhétorique ==IMPARTIAL== : ne pas dire « I », « I think », « In my opinion »...
+- Il s’agit d’un exercice de rhétorique **IMPARTIAL** : ne pas dire « I », « I think », « In my opinion »...
 - Même méthode rhétorique que la dissertation de français.
 - La problématique doit ouvrir sur un sujet **plus large** que celui de l’article, afin d’avoir beaucoup d’exemples à placer. Ne pas reprendre le cas spécifique décrit par l’article. Vous avez le droit de partir sur autre chose en justifiant le lien avec votre transition.
 - La 3e partie doit donner une réponse (même incomplète) au problème posé.
-- NE ==PAS REPRENDRE DES EXEMPLES DE L’ARTICLE SYNTHÉTISÉ== DANS LE COMMENTAIRE.
-- Il faut des exemples spécifiques pour montrer sa culture G anglaise. Faire une ==liste d’exemples== d’une phrase.
+- NE **PAS REPRENDRE DES EXEMPLES DE L’ARTICLE SYNTHÉTISÉ** DANS LE COMMENTAIRE.
+- Il faut des exemples spécifiques pour montrer sa culture G anglaise. Faire une **liste d’exemples** d’une phrase sur son smartphone.
 
 **Erreurs classiques** :
 
@@ -141,5 +141,6 @@
 - **Zeitgeist** → the spirit of the age; the taste, outlook, and spirit characteristic of a period.
 - **Ballyhooed** → sensationalised.
 - **Bill of Rights** → the ten amendments to the American Constitution.
+- **August Institution** -> large and dignified organisation, such as a university, bank or church.
 
 ---
