@@ -39,3 +39,7 @@ C(=C(F)F)(OC(C(C(F)(F)F)(OC(C(F)(F)S(=O)(=O)O)(F)F)F)(F)F)F.C(=C(F)F)(F)F
 **Nafion polymer**
 
 ![Nafion_polymer.png](/img/user/AIBN%20Zinc-Bromine%20Batteries/Nafion_polymer.png)
+
+***
+## Sources
+- https://www.sciencegears.com.au/blogs/nafion-membrane-specifications-n115-n117-nr211-nr212

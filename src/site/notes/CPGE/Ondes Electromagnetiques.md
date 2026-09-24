@@ -56,14 +56,14 @@
 - Force (cons) champ -> $\vec{F_{elec}}=q \vec{E}(M)=-\vec{grad}(E_p)$ 
 - $E_{pot}(M)=qV(M)$ 
 - $\vec{B} \ selon \ \vec{u}_{\theta} \Rightarrow \text{turns autour } \vec{u}_{z} \Rightarrow \vec{rot} \ \text{porte par } \vec{u}_z$ 
-- $$\text{Cylindrique: } \vec{rot}(\vec{A}) =\begin{pmatrix}
+$$\text{Cylindrique: } \vec{rot}(\vec{A}) =\begin{pmatrix}
 \frac{ 1 }{ r } \frac{ \partial A_z }{ \partial \theta } -\frac{ \partial A_\theta }{ \partial z }  \\
 \frac{ \partial A_r }{ \partial z } -\frac{ \partial A_z }{ \partial r }  \\
 \frac{ 1 }{ r } (\frac{ \partial rA_r }{ \partial r } - \frac{ \partial A_r }{ \partial \theta } ) \\
 
 \end{pmatrix}$$
-- $$\vec{rot}(F)=\boldsymbol \nabla \wedge \mathbf{F} = \begin{pmatrix} {\partial \mathrm{F}_z / \partial y} - {\partial \mathrm{F}_y / \partial z} \\ {\partial \mathrm{F}_x / \partial z} - {\partial \mathrm{F}_z / \partial x}\\ {\partial \mathrm{F}_y / \partial x} - {\partial \mathrm{F}_x / \partial y} \end{pmatrix}$$
-- $$\Longleftrightarrow \vec{\nabla}\times \vec{F} = \vec{\nabla}\wedge {F} = \bigg(\frac{\partial F_z}{\partial y}-\frac{\partial F_y}{\partial z}\bigg)\vec{u_x} + \bigg(\frac{\partial F_x}{\partial z}-\frac{\partial F_z}{\partial x}\bigg)\vec{u_y}+\bigg(\frac{\partial F_y}{\partial x}-\frac{\partial F_x}{\partial y}\bigg)\vec{u_z}$$
+$$\vec{rot}(F)=\boldsymbol \nabla \wedge \mathbf{F} = \begin{pmatrix} {\partial \mathrm{F}_z / \partial y} - {\partial \mathrm{F}_y / \partial z} \\ {\partial \mathrm{F}_x / \partial z} - {\partial \mathrm{F}_z / \partial x}\\ {\partial \mathrm{F}_y / \partial x} - {\partial \mathrm{F}_x / \partial y} \end{pmatrix}$$
+$$\Longleftrightarrow \vec{\nabla}\times \vec{F} = \vec{\nabla}\wedge {F} = \bigg(\frac{\partial F_z}{\partial y}-\frac{\partial F_y}{\partial z}\bigg)\vec{u_x} + \bigg(\frac{\partial F_x}{\partial z}-\frac{\partial F_z}{\partial x}\bigg)\vec{u_y}+\bigg(\frac{\partial F_y}{\partial x}-\frac{\partial F_x}{\partial y}\bigg)\vec{u_z}$$
 
 ##### MAXWELL
 - Dimensions champs -> $[E]=V.m^{-1}$, $[B/\mu_0]=A.m^{-1}$

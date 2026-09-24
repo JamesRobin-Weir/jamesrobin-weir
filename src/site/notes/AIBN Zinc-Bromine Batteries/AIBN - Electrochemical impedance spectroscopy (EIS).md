@@ -66,3 +66,4 @@ So if the ratio $\dfrac{Z_i}{Z_r}$ is linear with frequency, then the two speeds
 Sources: 
 - https://pineresearch.com/support-article/eis-basics/
 - https://doi.org/10.1021/acsmeasuresciau.2c00070
+- https://link.springer.com/rwe/10.1007/978-3-662-44324-8_863
