@@ -43,16 +43,7 @@
 - LDC $\vec{E}$ -> traj q > 0 libre (charge + vers -)
 - $\vec{E}$, $\vec{B}$ tangent -> aux LdC
 - $\text{Cylindrique } \vec{grad}(U)= \frac{\partial{U}}{\partial r } \vec{u_r} +\frac{ 1 }{ r } \frac{ \partial U }{ \partial \theta } \vec{u_\theta}+\frac{ \partial U }{ \partial z } \vec{u_z}$
-  $div(\vec{E})=\frac{1 }{r } \frac{ \partial rE_r }{ \partial r }+\frac{ 1 }{ r } \frac{ \partial E_\theta }{ \partial \theta }+\frac{ \partial E_z }{ \partial z }$
-  $\Delta(V)=\frac{1 }{r } \frac{ \partial }{ \partial r }(r\frac{ \partial V }{ \partial r })+\frac{ 1 }{ r^2 } \frac{ \partial
-{ #2}
- V}{ \partial
-{ #2}
- \theta }+\frac{ \partial
-{ #2}
- V }{ \partial
-{ #2}
- z }$ 
+  $div(\vec{E})=\frac{1 }{r } \frac{ \partial rE_r }{ \partial r }+\frac{ 1 }{ r } \frac{ \partial E_\theta }{ \partial \theta }+\frac{ \partial E_z }{ \partial z }$ $\Delta(V)=\frac{1}{r} \frac{\partial}{\partial r}(r\frac{\partial V}{ \partial r})+\frac{1}{r^2} \frac{ \partial^2 V}{\partial^2 \theta}+\frac{\partial^2 V}{ \partial^2 z}$ 
 - Force (cons) champ -> $\vec{F_{elec}}=q \vec{E}(M)=-\vec{grad}(E_p)$ 
 - $E_{pot}(M)=qV(M)$ 
 - $\vec{B} \ selon \ \vec{u}_{\theta} \Rightarrow \text{turns autour } \vec{u}_{z} \Rightarrow \vec{rot} \ \text{porte par } \vec{u}_z$ 
