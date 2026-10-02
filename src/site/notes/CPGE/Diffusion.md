@@ -13,17 +13,13 @@
 | $\Theta$ flux therm en W                                      | flux part                         | I courant              |
 | $R_{th}=\frac{T_A-T_B}{\Theta}$ en $K.W^{-1}$                 |                                   | $R=\frac{V_A-V_B}{I}$  |
 | $\vec{j_{th}}=-\lambda \vec{grad}(T)$                         | $\vec{j_D}=-D\vec{grad}(n)$       |                        |
-| $\dot{T}=\dfrac{c_P\lambda}{\mu}\nabla
-{ #2}
- T$                  | $\frac{dn}{dt} =D\Delta n+p(M,t)$ |                        |
+| $\dot{T}=\dfrac{c_P\lambda}{\mu}\nabla ^2 T$                  | $\frac{dn}{dt} =D\Delta n+p(M,t)$ |                        |
 - On voit que $[1/R_{th}]$ homo à l'eq du Siemen par comp avex $\gamma$ 
 - Modes diffusion -> conduction (conduire la chaleur => micro), convection (mvmt, meso), rayonnement
 - Vecteur densité courant/flux $p^+$ -> $\vec{jth}$ en $W.m^{-2}$ ou $\vec{j_D}$ en $s^{-1}m^{-2}$
 - Flux $\theta^{ique}$ -> $d\Phi=\frac{\delta Q}{\delta t}=j_{th}dS$ 
 - Loi Fourier/Fick -> $\vec{j_{th}}=-\lambda \vec{grad}(T)$, $\lambda$ ==conductivité thermique== $W.m^{-1}K^{-1}$ (fourier like its flame), $\vec{j_D}=-D\vec{grad}(n)$, D ==diffusivité== en $m^2s^{-1}$ (fick like candle wick)
-- Eq therm 1D -> $1^{ier}$ Pr $dU=U(t+dt)-U(t)$=$CdT=C(T(x,t+dt)-T(x,t))$ avec $C=c_P\mu Sdx or $dU=\delta W + \delta Q=\delta Q(x+dx)+\delta Q(x)$ donc $c\mu Sdx\frac{\delta T}{\delta t}dt=-Sdxdt\frac{\delta j}{\delta x}$ => $\dot{T}=\dfrac{c_P\lambda}{\mu}\nabla
-{ #2}
- T$
+- Eq therm 1D -> $1^{ier}$ Pr $dU=U(t+dt)-U(t)$=$CdT=C(T(x,t+dt)-T(x,t))$ avec $C=c_P\mu Sdx or $dU=\delta W + \delta Q=\delta Q(x+dx)+\delta Q(x)$ donc $c\mu Sdx\frac{\delta T}{\delta t}dt=-Sdxdt\frac{\delta j}{\delta x}$ => $\dot{T}=\dfrac{c_P\lambda}{\mu}\nabla ^2 T$
 - ==Eq diffusion therm== -> blablatter d'un POV lambda sur 1 direction endetté (hot topic so heat) $\Delta T + \frac{P_V}{\lambda} = \frac{1}{D}\frac{dT}{dt}$ ou sans sources $\frac{dT}{dt}=D\Delta T = \frac{\lambda}{\mu c_P} \Delta T$
 - ==Eq diff== $p^+$ -> $\frac{dn}{dt} =D\Delta n+p(M,t)$, source/puits $p^+$ tq $dN_{prod}=p(M,t)d\tau_Mdt$, Damp Dmt (so sad, wet particles)
 - ==Diffusivité== -> 1 Direction = rhoCoit 1 mouton (lamb)da $\frac{1}{D}=\frac{\mu c_P}{\lambda}$ (because they were endetté), $c_P$ cap therm massique, $\lambda$ la conductivité therm en $W.m^{-1}K^{-1}$ 

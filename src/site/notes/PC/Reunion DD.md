@@ -17,3 +17,12 @@
 
 ## A faire
 - Envoyer les CV complet avec l'ensemble des stages à Domingo
+
+***
+
+Bonjour M. Gomez Pardo,
+
+Veuillez-trouver ci-joint mon CV complet avec les détails de l'ensemble des stages réalisés, dont il y a un stage industriel international de 2 mois, un stage académique international de 5 mois et un stage UROP sur une année. 
+
+Cordialement,
+James ROBIN-WEIR

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/espci-triboelectricite/fiji-is-just-image-j/","dg-note-properties":{"Link":"[[ESPCI S2]]"}}
+{"dg-publish":true,"permalink":"/espci-triboelectricite/fiji-is-just-image-j/","dg-note-properties":{"Link":"[[ESPCI Triboelectricite/ESPCI S2]]"}}
 ---
 
 
