@@ -81,9 +81,11 @@
 
 - Prod Cauchy $\rightarrow$ $\sum u_n$ et $\sum v_n$ CVA $\rightarrow$ $\sum w_n$ avec $w_n=\sum u_k v_{n-k}$ CVA vers le produit des sommes de $u_n$ et $v_n$
 - Somme géo $\rightarrow$ pour $q\ne1$, $\sum^n_{k=p}q^k=q^p \frac{1-q^{n+1-p}}{1-q}$ ; pour $q=1$, la somme vaut $n-p+1$
+- Règle de d'Alembert $\rightarrow$ $u_n>0$ pr $n\ge n_0$ et $\dfrac{u_{n+1}}{u_n}=l$ $\Rightarrow$ CVA si $l<1$, diverge $l>1$
 
 ##### Series entières :
 
+- Règle de d'Alembert $\mathbb{C}$ $\rightarrow$ idem avec $\sum u_n z^n$ $\Rightarrow$ rayon conv $R=\dfrac1l$ 
 - Lemme d'Abel $\rightarrow$ $\exists z_0 \in \mathbb{C}^*$ tq $(a_nz_0^n)$ est bornée $\Rightarrow$ $\forall z$ tq $|z|<|z_0|$ , $|a_nz^n|=O(|\frac{z}{z_0}|^n)$ donc $\sum a_nz^n$ CVA
 - Rayon Convergence (RC) $\rightarrow$ sup{r pos tq $a_nr^n$ bornée} donc si $a_n$ bornée mais tends pas vers 0 alors R=1
 - SE $\mathcal{C}^{+\infty}$ sur int ouvert conv $]-R;R[$
@@ -154,7 +156,7 @@
 - $\sum u_n$ ==CVU (ts) J== $\rightarrow$ $\sum u_n$ CVS et $(R_n)_{n \ge n_0}$CVU (ts) vers 0 (outil : CSSA $|R_n|\leq|u_{n+1}|$. puis passage borne sup)
 - $\sum u_n$ ==CVN== $\rightarrow$ $\Leftrightarrow$ $\forall u_n$ borné et $\sum ||u_n||_{+\infty}$ conv
 - ==CVN Serie TG Un== $\rightarrow$ $\exists \sum A_n$ convergent tq $A_n$ positif et $(An)\ge |u_n(x)|$ $\Rightarrow$ $\sum u_n$ conv tq Un bornée et $\sum ||u_n||_{inf}$ conv
-- ==THM d' C0 Somme== $\rightarrow$ $\sum u_n$ CVU et $u_n \ \mathscr{C}$ $\Rightarrow$ $\sum u_n \ \mathscr{C}$
+- ==THM d' $\mathcal{C}^0$ Somme== $\rightarrow$ $\sum u_n$ CVU et $u_n \ \mathscr{C}$ $\Rightarrow$ $\sum u_n \ \mathscr{C}$
 - $\sum u_n$ CVU et $\forall u_n$ lim $a \in I$ $\Rightarrow$ intervertir lim et $\sum$ en a
 - ==Inv lim/$\sum$ pr a $\in I \cup\bar{I}$== $\rightarrow$ $\sum u_n$ CVU et $\forall n$, $u_n(x) \smash{{}^{\ \ =}_{x\rightarrow a}} l_n$ $\Rightarrow$ conv/égal $\sum l_n = \smash{{}^{\ lim}_{x\rightarrow a}}(\sum u_n(x))$
 - ==Intégration terme à terme (tàt) sur segment== $\rightarrow$ $\underset{n \ge n_0}{\sum} u_n$ CVU $[a,b]$ et $u_n$ $\mathrm{C}([a,b])$ $\Rightarrow$ $\sum_{n= n_0}^{+\infty} \int_a^b u_n$ $\mathrm{C}^0$ et interv $\int$ et $\sum$ (fonctionne aussi a,b infinis)
@@ -167,7 +169,7 @@
 ##### INTÉGRALES À PARAMÈTRES
 
 - Transfo Laplace $\rightarrow$ $L(f)(p)=\int ^{+\infty}_0 f(t)e^{-pt}dt$
-- Transfo Fourier $\rightarrow$ $\widehat f(\omega)=\int_{-\infty}^{+\infty}f(t)e^{-i\omega t}dt$
+- Transfo Fourier Temporelle $\rightarrow$ $\widehat f(\omega)=\int_{-\infty}^{+\infty}f(t)e^{-i\omega t}dt$
 - ==Conv Dom interv J== $\rightarrow$ $f_n$ Cpm et CVS f Cpm, $\exists \varphi(t)$ L1 tq $|f_n(t)| \le \varphi(t)$ $\Rightarrow$ $f_n$ et $f$ L1, $\int_J f=\int_J lim(f_n)=lim(\int_J f_n)$
 - ==Int tàt généralisé== $\rightarrow$ $\sum f_n$ Cpm CVS vers $f$ Cpm tq $f_n$ L1 et $\sum \int |f|$ conv $\Rightarrow$ $f$ L1 et $\int f=\int \sum f_n =\sum \int f_n$
 - ==Conv Dom para== $\rightarrow$ si $f(x,t)\rightarrow_{x\rightarrow a}l(t)$ pour tout $t$ et s'il existe $\varphi\in\mathcal{L}^1$ telle que $|f(x,t)|\leq\varphi(t)$ au voisinage de $a$, alors $l\in\mathcal{L}^1$ et $\lim_{x\rightarrow a}\int f(x,t)dt=\int l(t)dt$.
