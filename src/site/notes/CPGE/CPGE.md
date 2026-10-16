@@ -34,6 +34,7 @@ Pour les concours, voici des fiches méthode, modèles de présentation personne
 ### **Mathématiques PCSI/PC**
 
 - Fiche complète, programme de mathématiques PCSI/PC 2021 : [[CPGE/Fiche Mnemotechnique Maths\|Fiche Mnemotechnique Maths]]
+- [[Weirsite/Trigonometry\|Fiche trigonométrie]] pour retrouver l'ensemble des relations
 
 ### **Physique PCSI/PC**
 
