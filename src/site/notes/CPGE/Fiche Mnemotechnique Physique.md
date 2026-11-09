@@ -49,9 +49,10 @@
 - div gén -> $div(\vec{A})=\frac{1}{\mu_1\mu_2\mu_3}(\frac{d(\mu_2\mu_3 A_1)}{ds_1} + \frac{d(\mu_1\mu_3 A_2)}{ds_2} + \frac{d(\mu_1\mu_2 A_3)}{ds_3})$
 - rot gén -> $\vec{rot}(\vec{A})=\frac{1}{\mu_1\mu_2\mu_3} \begin{vmatrix} \mu_{1}\vec{u}_1 & \mu_{2}\vec{u}_2 & \mu_{3}\vec{u}_3\\ \frac{\partial}{\partial s_1} & \frac{\partial}{\partial s_2} & \frac{\partial}{\partial s_3}\\ \mu_{1}A_1 & \mu_{2}A_2 & \mu_{3}A_3 \end{vmatrix}$
 - grad gén -> $\vec{grad}(A)=\frac{1}{\mu_1}\frac{\partial A_1}{\partial s_1} \vec{u}_1+ \frac{1}{\mu_2} \frac{\partial A_2}{\partial s_2} \vec{u}_2 + \frac{1}{\mu_3}\frac{\partial A_3}{\partial s_3}\vec{u}_3$
-- laplacien gén -> $\Delta B=div(\vec{grad}(B))$
+- Laplacien gén -> $\Delta B=div(\vec{grad}(B))$
 - Laplacien sph A(r) -> $\Delta A(r) = \frac{1}{r^2}\frac{\partial}{\partial r}(r^2\frac{\partial A}{\partial r})=\frac{1}{r}\frac{\partial^2 (rA)}{\partial r^2}$
 - $\vec{rot}(\vec{A})=\vec{0}$ <=> $\exists \phi$ tq $\vec{A}=-\vec{grad}(\phi)$ donc $\vec{rot}(\vec{grad}(\phi))=\vec0$
+- Règle de différentiation pour une puissance de k $\rightarrow$ $d(k^n)=nk^{n-1}dk$
 
 #### Coordonnées
 
@@ -68,7 +69,7 @@
 - $\frac{d\underline{\vec{A}}}{dt}=i\omega \underline{\vec{A}}$
 - $<\underline{\vec{A}}>_{temp}=\frac{1}{2} \underline{\vec{A}}.\underline{\vec{A}}^*$
 - $<\underline{\vec{A}} \underline{\vec{B}}>=\frac{1}{2} Re(\underline{\vec{A}} \underline{\vec{B}}^*)$
-- $f_1(t)=f_2(x)$ <=> $f_1=f_2=cste$
+- $f_1(t)=f_2(x)$ $\Leftrightarrow$ $f_1=f_2=cste$
 
 #### FORMES D'ONDES
 

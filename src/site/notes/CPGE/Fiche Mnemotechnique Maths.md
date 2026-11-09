@@ -31,7 +31,7 @@
 - Une intervalle peut être infini, un segment non
 - $\lfloor x \rfloor \le x< \lfloor x \rfloor +1$
 - $x-1<\lfloor x \rfloor \le x$
-- $||x|-|y|| \le |x+y| \le |x|+|y$
+- $||x|-|y|| \le |x+y| \le |x|+|y|$
 - IPP (intégration par parties) u,v C¹$[a,b]$
 - CDV (changement de variable) seg: $\varphi$ C¹(I,R), f continue sur $\varphi$(I), a et b dans I: $\displaystyle \int_{\varphi(a)}^{\varphi(b)}f(x)\,dx=\int_a^b f(\varphi(t))\varphi'(t)\,dt$
 - Si $\varphi$ bij alors peut remplacer a,b par $\varphi^{-1}(a)$, $\varphi^{-1}(b)$
@@ -242,7 +242,7 @@
 - ==Loi uniforme sur $\{1,\ldots,n\}$== $\rightarrow$ $P(X=k)=\frac1n$, $E(X)=\frac{n+1}{2}$, $V(X)=\frac{n^2-1}{12}$, $G_X(t)=\frac tn\frac{1-t^n}{1-t}$ pour $t\ne1$, et $G_X(1)=1$.
 - ==Bernoulli== $\rightarrow$ $P(X=x) = \begin{cases} p & \text{si } x = 1 \\ 1-p & \text{si } x = 0 \end{cases}$, $E(X) = p$, $V(X) = p(1-p)$, $G_X(s) = 1 - p + ps$
 - ==Loi binomiale== $\rightarrow$ $P(X=k) = \binom{n}{k} \cdot p^k \cdot (1-p)^{n-k}$, $E(X) = np$, $V(X) = np(1-p)$, $G_X(s) = (1-p + ps)^n$
-- ==Loi de Poisson== $\rightarrow$ $P(X=k) = \frac{\lambda^k \cdot e^{-\lambda}}{k!}$, $E(X) = \lambda$, $V(X) = \lambda$, $G_X(s) = e^{\lambda(s-1)}$ avec $\lambda > 0$
+- ==Loi de Poisson== $\rightarrow$ $P(X=k) = \frac{\lambda^k \cdot e^{-\lambda}}{k!}$, $E(X) = \lambda$, $V(X) = \lambda$, $G_X(s) = e^{\lambda(s-1)}$ avec $\lambda > 0$ 
 - Poisson approxime binomiale $\rightarrow$ si $X_n\sim\mathcal B(n,p_n)$, $p_n\rightarrow0$ et $np_n\rightarrow\lambda$, alors $X_n$ converge en loi vers $\mathcal P(\lambda)$.
 - ==Loi géométrique sur $\mathbb N^*$== $\rightarrow$ avec $q=1-p$, $P(X=k)=q^{k-1}p$, $E(X)=\frac1p$, $V(X)=\frac q{p^2}$, $G_X(t)=\frac{pt}{1-qt}$.
 - $X\sim\mathcal{G}(p)$ $\Leftrightarrow$ $P(X>k)=(1-p)^k$ pour $k\in\mathbb N$.
@@ -366,7 +366,7 @@
   \sin\theta & \cos\theta
   \end{pmatrix}.
   $$
-- - ==Demo O(2)== $\rightarrow$ A=MAT(a,b,c,d) $\in$ O(2) $\Rightarrow$ $a^2+b^2=1$, $c^2+d^2=1$, $ac+bd=0$ donc va $\le$ 1 $\Rightarrow$ paramétrisation $a=cos(\theta)$ $\Rightarrow$ $b=sin(\theta)$ idem c,d avec $\phi$, or (3)$\Rightarrow$ $sin(\theta+\phi)=0$ donc $\phi=-\theta[\pi]$ donc deux cas $\phi=-\theta[2\pi]$ (SO(2)) et $\phi=\pi-\theta[2\pi]$ ($O^-(n)$)
+- ==Demo O(2)== $\rightarrow$ A=MAT(a,b,c,d) $\in$ O(2) $\Rightarrow$ $a^2+b^2=1$, $c^2+d^2=1$, $ac+bd=0$ donc va $\le$ 1 $\Rightarrow$ paramétrisation $a=cos(\theta)$ $\Rightarrow$ $b=sin(\theta)$ idem c,d avec $\phi$, or (3)$\Rightarrow$ $sin(\theta+\phi)=0$ donc $\phi=-\theta[\pi]$ donc deux cas $\phi=-\theta[2\pi]$ (SO(2)) et $\phi=\pi-\theta[2\pi]$ ($O^-(n)$)
 - Prop $R_\theta$ $\rightarrow$ $R_\theta=R_\phi$ $\Leftrightarrow$ $\theta\equiv\phi\pmod{2\pi}$, $R_\theta R_\phi=R_{\theta+\phi}$, $R_\theta^{-1}=R_{-\theta}$, $R_\theta^k=R_{k\theta}$ $\forall k\in\mathbb Z$.
 - $O^-(2)$ $\rightarrow$ symétries (donc $S_{\theta}$ sym)$$ S\_\theta=\begin{pmatrix}
   cos(\theta) & sin(\theta) \\
@@ -424,7 +424,7 @@
 - Si $f$ est différentiable en $a$ $\Leftrightarrow$ dérivée directionnelle selon $u$ est définie : $D_uf(a)=\lim_{t\rightarrow0}\frac{f(a+tu)-f(a)}{t}=\langle\nabla f(a),u\rangle$
 - ==Jacobienne== $\rightarrow$ pour $f:\mathbb R^n\to\mathbb R^m$, $J_f(a)=\left(\frac{\partial f_i}{\partial x_j}(a)\right)\in M_{m,n}(\mathbb R)$.
 - Jacob composée f,g $\mathcal{C}^1$ $\rightarrow$ donne RDlC $J_{g\circ f}(a)=J_g(f(a))J_f(a)$
-- RdLC $\rightarrow$ si $f:\mathbb R\to\mathbb R^n$ et $g:\mathbb R^n\to\mathbb R$, alors $\frac d{dt}(g\circ f)(t)=\sum_{j=1}^n\frac{\partial g}{\partial x_j}(f(t))f_j'(t)=\langle\nabla g(f(t)),f'(t)\rangle$.
+- RdLC $\rightarrow$ si $f:\mathbb R\to\mathbb R^n$ et $g:\mathbb R^n\to\mathbb R$, alors $\frac d{dt}(g\circ f)(t)=\sum_{j=1}^n\frac{\partial g}{\partial x_j}(f(t))f_j'(t)=\langle\nabla g(f(t)),f'(t)\rangle$
 - ==RdLC 1 var== $\rightarrow$ $(u\circ v)'(t)=u'(v(t))v'(t)$ ; donc $\frac d{dt}f(x(t))=f'(x(t))x'(t)$.
 - ==RdlC 2 var== $\rightarrow$ $X(t)=\binom{x(t)}{y(t)}$ alors $\frac{d}{dt}(f \circ X(t))=\frac{\partial f}{\partial x}(X(t)).x'(t)+\frac{\partial f}{\partial y}(X(t)).y'(t)$
 - ==Hessienne== $\rightarrow$ $H_f(a)=\left(\frac{\partial^2f}{\partial x_i\partial x_j}(a)\right)_{1\leq i,j\leq n}$

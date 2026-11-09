@@ -13,7 +13,7 @@
 - EULER ($L_1$) -> $e^{ix}=\cos x + i\sin x$
 - EULER ($L_2$) -> $e^{-ix}=\cos x - i\sin x$
 - $\dfrac{L_1+L_2}{2}$ -> $\cos x = \dfrac{e^{ix}+e^{-ix}}{2}$
-- $\dfrac{L_1-L_2}{2}$ -> $\sin x = \dfrac{e^{ix}-e^{-ix}}{2}$ 
+- $\dfrac{L_1-L_2}{2}$ -> $\sin x = \dfrac{e^{ix}-e^{-ix}}{2i}$ 
 #### Moivre
 - MOIVRE -> $(e^{ix})^n = e^{inx}$
 - $(\cos x + i\sin x)^n = \cos nx + i\sin nx$ 
@@ -31,7 +31,7 @@
 - $\tan 2a = \dfrac{2\tan a}{1-\tan ^2 a}$
 #### Linéarisation
 - $\frac12(L_4+L_3)=(L_7)$ -> $\cos a \cos b=\frac12 (\cos (a-b) +\cos (a+b))$ 
-- $\frac12(L_4-L_3)=(L_7)$ -> $\cos a \cos b=\frac12 (\cos (a-b) -\cos (a+b))$ 
+- $\frac12(L_4-L_3)=(L_8)$ -> $\sin a \sin b=-\frac12 (\cos (a-b) -\cos (a+b))$ 
 - $\frac12 (L_5+L_6)= (L_9)$ -> $\sin a \cos b=\frac12 (\sin (a+b) +\cos (a-b))$
 #### Factorisation
 - Soient $p=a - b$ et $q=a+b$ alors $a=\frac{p+q}{2}$ et $b=\frac{q-p}{2}$ 
